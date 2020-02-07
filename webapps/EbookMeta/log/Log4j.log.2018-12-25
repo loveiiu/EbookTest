@@ -1,0 +1,365 @@
+[18/12/25 09:24:24][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[18/12/25 09:24:25][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[18/12/25 09:24:26][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/25 09:24:32][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:24:32][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[18/12/25 09:24:33][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/25 09:24:33][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[18/12/25 09:24:34][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/25 09:24:39][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:24:40][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[18/12/25 09:24:40][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/25 09:24:40][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[18/12/25 09:24:41][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[18/12/25 09:24:47][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:24:47][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[18/12/25 09:24:48][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[18/12/25 09:24:48][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[18/12/25 09:24:49][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[18/12/25 09:24:56][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:24:57][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[18/12/25 09:24:58][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[18/12/25 09:24:58][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[18/12/25 09:25:56][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[18/12/25 09:25:57][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[18/12/25 09:25:58][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/25 09:26:03][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:26:04][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[18/12/25 09:26:05][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/25 09:26:05][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[18/12/25 09:26:06][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/25 09:26:11][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:26:12][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[18/12/25 09:26:12][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/25 09:26:12][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[18/12/25 09:26:13][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[18/12/25 09:26:18][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:26:19][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[18/12/25 09:26:20][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[18/12/25 09:26:20][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[18/12/25 09:26:21][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[18/12/25 09:26:26][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:26:26][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[18/12/25 09:26:27][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[18/12/25 09:26:27][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[18/12/25 09:31:39][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[18/12/25 09:31:41][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[18/12/25 09:31:42][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/25 09:31:47][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:31:48][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[18/12/25 09:31:48][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/25 09:31:48][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[18/12/25 09:31:49][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/25 09:32:00][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:32:01][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[18/12/25 09:32:01][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/25 09:32:01][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[18/12/25 09:32:02][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[18/12/25 09:32:12][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:32:12][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[18/12/25 09:32:13][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[18/12/25 09:32:13][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[18/12/25 09:32:14][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[18/12/25 09:32:20][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:32:20][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[18/12/25 09:32:21][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[18/12/25 09:32:21][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[18/12/25 09:32:55][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[18/12/25 09:32:57][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[18/12/25 09:32:58][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/25 09:33:04][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:33:05][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[18/12/25 09:33:06][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/25 09:33:06][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[18/12/25 09:33:07][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/25 09:33:14][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:33:14][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[18/12/25 09:33:15][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/25 09:33:15][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[18/12/25 09:33:16][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[18/12/25 09:33:21][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:33:22][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[18/12/25 09:33:23][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[18/12/25 09:33:23][INFO][ebook.metadata.process.ExcelProcess-303] [1000685]14100039503 - 1GC051-001_Herbs香草茶飲應用百科：祛寒、解暑、助消化！33種香草植物，調出180款茶飲，溫柔療癒身心.pdf
+[18/12/25 09:33:24][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:33:30][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000685/cite/20181224\1GC051-001_Herbs香草茶飲應用百科：祛寒、解暑、助消化！33種香草植物，調出180款茶飲，溫柔療癒身心.pdf >>> false
+[18/12/25 09:33:31][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000685/cite/20181224\ >>> 0(1)
+[18/12/25 09:33:31][INFO][ebook.metadata.process.ExcelProcess-303] [1000687]14100039504 - 2APB03-001_拿破崙並不矮：歷史寫錯了！埃及金字塔不是奴隸建的、美國獨立不是因為增稅、諾貝爾沒有發明炸藥，揭開那些一直被誤解的史實真相.pdf
+[18/12/25 09:33:32][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:33:46][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000687/cite/20181224\2APB03-001_拿破崙並不矮：歷史寫錯了！埃及金字塔不是奴隸建的、美國獨立不是因為增稅、諾貝爾沒有發明炸藥，揭開那些一直被誤解的史實真相.pdf >>> false
+[18/12/25 09:33:46][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000687/cite/20181224\ >>> 0(1)
+[18/12/25 09:33:46][INFO][ebook.metadata.process.ExcelProcess-303] [1000687]14100039505 - 2APV42-001_從家開始的美好人生整理：台灣收納教主的奇蹟空間整頓術，真正克服囤積，找回更好自己的日常幸福實踐.pdf
+[18/12/25 09:33:47][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:33:57][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000687/cite/20181224\2APV42-001_從家開始的美好人生整理：台灣收納教主的奇蹟空間整頓術，真正克服囤積，找回更好自己的日常幸福實踐.pdf >>> false
+[18/12/25 09:33:58][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000687/cite/20181224\ >>> 0(1)
+[18/12/25 09:33:58][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039506 - RC7029-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（上）（不分冊銷售）.pdf
+[18/12/25 09:33:59][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:34:07][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\RC7029-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（上）（不分冊銷售）.pdf >>> false
+[18/12/25 09:34:07][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:34:07][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039507 - RC7030-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（下）（不分冊銷售）.pdf
+[18/12/25 09:34:08][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:34:16][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\RC7030-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（下）（不分冊銷售）.pdf >>> false
+[18/12/25 09:34:17][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:34:17][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039508 - 套書(上,下).pdf
+[18/12/25 09:34:18][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:34:24][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:34:24][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\套書(上,下).pdf >>> false
+[18/12/25 09:34:25][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:34:25][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[18/12/25 09:34:26][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[18/12/25 09:34:32][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:34:32][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[18/12/25 09:34:33][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[18/12/25 09:34:33][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[18/12/25 09:40:46][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[18/12/25 09:40:48][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[18/12/25 09:40:49][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/25 09:40:55][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:40:55][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[18/12/25 09:40:56][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/25 09:40:56][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[18/12/25 09:40:57][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/25 09:41:04][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:41:04][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[18/12/25 09:41:05][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/25 09:41:05][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[18/12/25 09:41:06][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[18/12/25 09:41:12][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:41:13][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[18/12/25 09:41:13][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[18/12/25 09:41:13][INFO][ebook.metadata.process.ExcelProcess-303] [1000685]14100039503 - 1GC051-001_Herbs香草茶飲應用百科：祛寒、解暑、助消化！33種香草植物，調出180款茶飲，溫柔療癒身心.pdf
+[18/12/25 09:41:14][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:41:21][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000685/cite/20181224\1GC051-001_Herbs香草茶飲應用百科：祛寒、解暑、助消化！33種香草植物，調出180款茶飲，溫柔療癒身心.pdf >>> false
+[18/12/25 09:41:21][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000685/cite/20181224\ >>> 0(1)
+[18/12/25 09:41:21][INFO][ebook.metadata.process.ExcelProcess-303] [1000687]14100039504 - 2APB03-001_拿破崙並不矮：歷史寫錯了！埃及金字塔不是奴隸建的、美國獨立不是因為增稅、諾貝爾沒有發明炸藥，揭開那些一直被誤解的史實真相.pdf
+[18/12/25 09:41:22][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:41:29][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000687/cite/20181224\2APB03-001_拿破崙並不矮：歷史寫錯了！埃及金字塔不是奴隸建的、美國獨立不是因為增稅、諾貝爾沒有發明炸藥，揭開那些一直被誤解的史實真相.pdf >>> false
+[18/12/25 09:41:29][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000687/cite/20181224\ >>> 0(1)
+[18/12/25 09:41:29][INFO][ebook.metadata.process.ExcelProcess-303] [1000687]14100039505 - 2APV42-001_從家開始的美好人生整理：台灣收納教主的奇蹟空間整頓術，真正克服囤積，找回更好自己的日常幸福實踐.pdf
+[18/12/25 09:41:31][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:41:37][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000687/cite/20181224\2APV42-001_從家開始的美好人生整理：台灣收納教主的奇蹟空間整頓術，真正克服囤積，找回更好自己的日常幸福實踐.pdf >>> false
+[18/12/25 09:41:37][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000687/cite/20181224\ >>> 0(1)
+[18/12/25 09:41:37][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039506 - RC7029-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（上）（不分冊銷售）.pdf
+[18/12/25 09:41:39][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:41:45][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\RC7029-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（上）（不分冊銷售）.pdf >>> false
+[18/12/25 09:41:45][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:41:45][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039507 - RC7030-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（下）（不分冊銷售）.pdf
+[18/12/25 09:41:46][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:41:53][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\RC7030-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（下）（不分冊銷售）.pdf >>> false
+[18/12/25 09:41:53][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:41:53][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039508 - 套書(上,下).pdf
+[18/12/25 09:41:54][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:42:02][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:42:03][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\套書(上,下).pdf >>> false
+[18/12/25 09:42:03][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:42:03][INFO][ebook.metadata.process.ExcelProcess-303] [1000708]14100039509 - YK1446-001_閨蜜：說八卦、宮鬥劇，女人總是為難女人。歷史上難道沒有值得歌頌的真摯情誼？.pdf
+[18/12/25 09:42:04][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:42:14][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000708/cite/20181224\YK1446-001_閨蜜：說八卦、宮鬥劇，女人總是為難女人。歷史上難道沒有值得歌頌的真摯情誼？.pdf >>> false
+[18/12/25 09:42:14][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000708/cite/20181224\ >>> 0(1)
+[18/12/25 09:42:14][INFO][ebook.metadata.process.ExcelProcess-303] [1000687]14100039510 - 2APB03-001_拿破崙並不矮：歷史寫錯了！埃及金字塔不是奴隸建的、美國獨立不是因為增稅、諾貝爾沒有發明炸藥，揭開那些一直被誤解的史實真相_epub3.0_數位出版部.epub
+[18/12/25 09:42:15][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:42:24][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000687/cite/20181224\2APB03-001_拿破崙並不矮：歷史寫錯了！埃及金字塔不是奴隸建的、美國獨立不是因為增稅、諾貝爾沒有發明炸藥，揭開那些一直被誤解的史實真相_epub3.0_數位出版部.epub >>> false
+[18/12/25 09:42:25][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000687/cite/20181224\ >>> 0(1)
+[18/12/25 09:42:25][INFO][ebook.metadata.process.ExcelProcess-303] [1000687]14100039511 - 2APV42-001_從家開始的美好人生整理：台灣收納教主的奇蹟空間整頓術，真正克服囤積，找回更好自己的日常幸福實踐_epub3.0_數位出版部.epub
+[18/12/25 09:42:26][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:42:33][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000687/cite/20181224\2APV42-001_從家開始的美好人生整理：台灣收納教主的奇蹟空間整頓術，真正克服囤積，找回更好自己的日常幸福實踐_epub3.0_數位出版部.epub >>> false
+[18/12/25 09:42:33][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000687/cite/20181224\ >>> 0(1)
+[18/12/25 09:42:33][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039512 - RC7029-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（上）（不分冊銷售）_epub3.0_數位出版部.epub
+[18/12/25 09:42:34][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:42:36][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[18/12/25 09:42:38][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[18/12/25 09:42:39][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/25 09:42:47][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\RC7029-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（上）（不分冊銷售）_epub3.0_數位出版部.epub >>> false
+[18/12/25 09:42:47][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:42:47][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039513 - RC7030-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（下）（不分冊銷售）_epub3.0_數位出版部.epub
+[18/12/25 09:42:48][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:42:48][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:42:49][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[18/12/25 09:42:49][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/25 09:42:49][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[18/12/25 09:42:50][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/25 09:42:57][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\RC7030-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（下）（不分冊銷售）_epub3.0_數位出版部.epub >>> false
+[18/12/25 09:42:58][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:42:58][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039515 - RC7030S-E1-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（電子書試讀本）_epub3.0_數位出版部.epub
+[18/12/25 09:42:58][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:42:59][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[18/12/25 09:42:59][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:42:59][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/25 09:42:59][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[18/12/25 09:43:00][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[18/12/25 09:43:07][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\RC7030S-E1-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（電子書試讀本）_epub3.0_數位出版部.epub >>> false
+[18/12/25 09:43:08][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:43:08][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:43:08][INFO][ebook.metadata.process.ExcelProcess-303] [1000708]14100039516 - YK1446-001_閨蜜：說八卦、宮鬥劇，女人總是為難女人。歷史上難道沒有值得歌頌的真摯情誼？_epub3.0_數位出版部.epub
+[18/12/25 09:43:08][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[18/12/25 09:43:09][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[18/12/25 09:43:09][INFO][ebook.metadata.process.ExcelProcess-303] [1000685]14100039503 - 1GC051-001_Herbs香草茶飲應用百科：祛寒、解暑、助消化！33種香草植物，調出180款茶飲，溫柔療癒身心.pdf
+[18/12/25 09:43:09][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:43:10][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:43:18][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000708/cite/20181224\YK1446-001_閨蜜：說八卦、宮鬥劇，女人總是為難女人。歷史上難道沒有值得歌頌的真摯情誼？_epub3.0_數位出版部.epub >>> false
+[18/12/25 09:43:18][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000708/cite/20181224\ >>> 0(1)
+[18/12/25 09:43:18][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[18/12/25 09:43:18][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000685/cite/20181224\1GC051-001_Herbs香草茶飲應用百科：祛寒、解暑、助消化！33種香草植物，調出180款茶飲，溫柔療癒身心.pdf >>> false
+[18/12/25 09:43:19][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000685/cite/20181224\ >>> 0(1)
+[18/12/25 09:43:19][INFO][ebook.metadata.process.ExcelProcess-303] [1000687]14100039504 - 2APB03-001_拿破崙並不矮：歷史寫錯了！埃及金字塔不是奴隸建的、美國獨立不是因為增稅、諾貝爾沒有發明炸藥，揭開那些一直被誤解的史實真相.pdf
+[18/12/25 09:43:19][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[18/12/25 09:43:20][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:43:30][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:43:30][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[18/12/25 09:43:31][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[18/12/25 09:43:31][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[18/12/25 09:43:33][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000687/cite/20181224\2APB03-001_拿破崙並不矮：歷史寫錯了！埃及金字塔不是奴隸建的、美國獨立不是因為增稅、諾貝爾沒有發明炸藥，揭開那些一直被誤解的史實真相.pdf >>> false
+[18/12/25 09:43:33][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000687/cite/20181224\ >>> 0(1)
+[18/12/25 09:43:33][INFO][ebook.metadata.process.ExcelProcess-303] [1000687]14100039505 - 2APV42-001_從家開始的美好人生整理：台灣收納教主的奇蹟空間整頓術，真正克服囤積，找回更好自己的日常幸福實踐.pdf
+[18/12/25 09:43:34][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:43:47][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000687/cite/20181224\2APV42-001_從家開始的美好人生整理：台灣收納教主的奇蹟空間整頓術，真正克服囤積，找回更好自己的日常幸福實踐.pdf >>> false
+[18/12/25 09:43:48][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000687/cite/20181224\ >>> 0(1)
+[18/12/25 09:43:48][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039506 - RC7029-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（上）（不分冊銷售）.pdf
+[18/12/25 09:43:49][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:43:58][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\RC7029-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（上）（不分冊銷售）.pdf >>> false
+[18/12/25 09:43:59][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:43:59][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039507 - RC7030-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（下）（不分冊銷售）.pdf
+[18/12/25 09:44:00][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:44:08][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\RC7030-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（下）（不分冊銷售）.pdf >>> false
+[18/12/25 09:44:09][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:44:09][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039508 - 套書(上,下).pdf
+[18/12/25 09:44:10][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:44:15][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:44:16][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\套書(上,下).pdf >>> false
+[18/12/25 09:44:17][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:44:17][INFO][ebook.metadata.process.ExcelProcess-303] [1000708]14100039509 - YK1446-001_閨蜜：說八卦、宮鬥劇，女人總是為難女人。歷史上難道沒有值得歌頌的真摯情誼？.pdf
+[18/12/25 09:44:18][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:44:24][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000708/cite/20181224\YK1446-001_閨蜜：說八卦、宮鬥劇，女人總是為難女人。歷史上難道沒有值得歌頌的真摯情誼？.pdf >>> false
+[18/12/25 09:44:25][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000708/cite/20181224\ >>> 0(1)
+[18/12/25 09:44:25][INFO][ebook.metadata.process.ExcelProcess-303] [1000687]14100039510 - 2APB03-001_拿破崙並不矮：歷史寫錯了！埃及金字塔不是奴隸建的、美國獨立不是因為增稅、諾貝爾沒有發明炸藥，揭開那些一直被誤解的史實真相_epub3.0_數位出版部.epub
+[18/12/25 09:44:26][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:44:32][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000687/cite/20181224\2APB03-001_拿破崙並不矮：歷史寫錯了！埃及金字塔不是奴隸建的、美國獨立不是因為增稅、諾貝爾沒有發明炸藥，揭開那些一直被誤解的史實真相_epub3.0_數位出版部.epub >>> false
+[18/12/25 09:44:32][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000687/cite/20181224\ >>> 0(1)
+[18/12/25 09:44:32][INFO][ebook.metadata.process.ExcelProcess-303] [1000687]14100039511 - 2APV42-001_從家開始的美好人生整理：台灣收納教主的奇蹟空間整頓術，真正克服囤積，找回更好自己的日常幸福實踐_epub3.0_數位出版部.epub
+[18/12/25 09:44:33][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:44:40][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000687/cite/20181224\2APV42-001_從家開始的美好人生整理：台灣收納教主的奇蹟空間整頓術，真正克服囤積，找回更好自己的日常幸福實踐_epub3.0_數位出版部.epub >>> false
+[18/12/25 09:44:41][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000687/cite/20181224\ >>> 0(1)
+[18/12/25 09:44:41][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039512 - RC7029-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（上）（不分冊銷售）_epub3.0_數位出版部.epub
+[18/12/25 09:44:42][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:44:48][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\RC7029-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（上）（不分冊銷售）_epub3.0_數位出版部.epub >>> false
+[18/12/25 09:44:49][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:44:49][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039513 - RC7030-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（下）（不分冊銷售）_epub3.0_數位出版部.epub
+[18/12/25 09:44:50][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:44:59][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\RC7030-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（下）（不分冊銷售）_epub3.0_數位出版部.epub >>> false
+[18/12/25 09:44:59][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:44:59][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039515 - RC7030S-E1-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（電子書試讀本）_epub3.0_數位出版部.epub
+[18/12/25 09:45:00][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:45:07][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\RC7030S-E1-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（電子書試讀本）_epub3.0_數位出版部.epub >>> false
+[18/12/25 09:45:08][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:45:08][INFO][ebook.metadata.process.ExcelProcess-303] [1000708]14100039516 - YK1446-001_閨蜜：說八卦、宮鬥劇，女人總是為難女人。歷史上難道沒有值得歌頌的真摯情誼？_epub3.0_數位出版部.epub
+[18/12/25 09:45:09][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:45:16][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000708/cite/20181224\YK1446-001_閨蜜：說八卦、宮鬥劇，女人總是為難女人。歷史上難道沒有值得歌頌的真摯情誼？_epub3.0_數位出版部.epub >>> false
+[18/12/25 09:45:16][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000708/cite/20181224\ >>> 0(1)
+[18/12/25 09:45:16][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[18/12/25 09:45:17][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[18/12/25 09:45:23][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:45:23][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[18/12/25 09:45:24][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[18/12/25 09:45:24][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[18/12/25 09:46:05][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[18/12/25 09:46:07][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[18/12/25 09:46:08][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/25 09:46:14][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:46:14][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[18/12/25 09:46:15][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/25 09:46:15][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[18/12/25 09:46:16][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/25 09:46:24][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:46:24][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[18/12/25 09:46:25][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/25 09:46:25][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[18/12/25 09:46:26][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[18/12/25 09:46:32][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:46:32][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[18/12/25 09:46:33][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[18/12/25 09:46:33][INFO][ebook.metadata.process.ExcelProcess-303] [1000685]14100039503 - 1GC051-001_Herbs香草茶飲應用百科：祛寒、解暑、助消化！33種香草植物，調出180款茶飲，溫柔療癒身心.pdf
+[18/12/25 09:46:34][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:46:43][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000685/cite/20181224\1GC051-001_Herbs香草茶飲應用百科：祛寒、解暑、助消化！33種香草植物，調出180款茶飲，溫柔療癒身心.pdf >>> false
+[18/12/25 09:46:43][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000685/cite/20181224\ >>> 0(1)
+[18/12/25 09:46:43][INFO][ebook.metadata.process.ExcelProcess-303] [1000687]14100039504 - 2APB03-001_拿破崙並不矮：歷史寫錯了！埃及金字塔不是奴隸建的、美國獨立不是因為增稅、諾貝爾沒有發明炸藥，揭開那些一直被誤解的史實真相.pdf
+[18/12/25 09:46:44][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:46:51][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000687/cite/20181224\2APB03-001_拿破崙並不矮：歷史寫錯了！埃及金字塔不是奴隸建的、美國獨立不是因為增稅、諾貝爾沒有發明炸藥，揭開那些一直被誤解的史實真相.pdf >>> false
+[18/12/25 09:46:51][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000687/cite/20181224\ >>> 0(1)
+[18/12/25 09:46:51][INFO][ebook.metadata.process.ExcelProcess-303] [1000687]14100039505 - 2APV42-001_從家開始的美好人生整理：台灣收納教主的奇蹟空間整頓術，真正克服囤積，找回更好自己的日常幸福實踐.pdf
+[18/12/25 09:46:52][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:47:01][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000687/cite/20181224\2APV42-001_從家開始的美好人生整理：台灣收納教主的奇蹟空間整頓術，真正克服囤積，找回更好自己的日常幸福實踐.pdf >>> false
+[18/12/25 09:47:02][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000687/cite/20181224\ >>> 0(1)
+[18/12/25 09:47:02][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039506 - RC7029-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（上）（不分冊銷售）.pdf
+[18/12/25 09:47:03][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:47:16][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\RC7029-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（上）（不分冊銷售）.pdf >>> false
+[18/12/25 09:47:16][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:47:16][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039507 - RC7030-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（下）（不分冊銷售）.pdf
+[18/12/25 09:47:17][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:47:32][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\RC7030-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（下）（不分冊銷售）.pdf >>> false
+[18/12/25 09:47:32][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:47:32][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039508 - 套書(上,下).pdf
+[18/12/25 09:47:33][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:47:43][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:47:43][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\套書(上,下).pdf >>> false
+[18/12/25 09:47:44][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:47:44][INFO][ebook.metadata.process.ExcelProcess-303] [1000708]14100039509 - YK1446-001_閨蜜：說八卦、宮鬥劇，女人總是為難女人。歷史上難道沒有值得歌頌的真摯情誼？.pdf
+[18/12/25 09:47:45][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:47:55][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000708/cite/20181224\YK1446-001_閨蜜：說八卦、宮鬥劇，女人總是為難女人。歷史上難道沒有值得歌頌的真摯情誼？.pdf >>> false
+[18/12/25 09:47:56][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000708/cite/20181224\ >>> 0(1)
+[18/12/25 09:47:56][INFO][ebook.metadata.process.ExcelProcess-303] [1000687]14100039510 - 2APB03-001_拿破崙並不矮：歷史寫錯了！埃及金字塔不是奴隸建的、美國獨立不是因為增稅、諾貝爾沒有發明炸藥，揭開那些一直被誤解的史實真相_epub3.0_數位出版部.epub
+[18/12/25 09:47:57][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:48:05][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000687/cite/20181224\2APB03-001_拿破崙並不矮：歷史寫錯了！埃及金字塔不是奴隸建的、美國獨立不是因為增稅、諾貝爾沒有發明炸藥，揭開那些一直被誤解的史實真相_epub3.0_數位出版部.epub >>> false
+[18/12/25 09:48:05][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000687/cite/20181224\ >>> 0(1)
+[18/12/25 09:48:05][INFO][ebook.metadata.process.ExcelProcess-303] [1000687]14100039511 - 2APV42-001_從家開始的美好人生整理：台灣收納教主的奇蹟空間整頓術，真正克服囤積，找回更好自己的日常幸福實踐_epub3.0_數位出版部.epub
+[18/12/25 09:48:06][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:48:13][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000687/cite/20181224\2APV42-001_從家開始的美好人生整理：台灣收納教主的奇蹟空間整頓術，真正克服囤積，找回更好自己的日常幸福實踐_epub3.0_數位出版部.epub >>> false
+[18/12/25 09:48:14][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000687/cite/20181224\ >>> 0(1)
+[18/12/25 09:48:14][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039512 - RC7029-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（上）（不分冊銷售）_epub3.0_數位出版部.epub
+[18/12/25 09:48:15][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:48:21][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\RC7029-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（上）（不分冊銷售）_epub3.0_數位出版部.epub >>> false
+[18/12/25 09:48:22][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:48:22][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039513 - RC7030-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（下）（不分冊銷售）_epub3.0_數位出版部.epub
+[18/12/25 09:48:23][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:48:30][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\RC7030-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（下）（不分冊銷售）_epub3.0_數位出版部.epub >>> false
+[18/12/25 09:48:31][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:48:31][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039515 - RC7030S-E1-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（電子書試讀本）_epub3.0_數位出版部.epub
+[18/12/25 09:48:32][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:48:43][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\RC7030S-E1-001_飄（《亂世佳人》原著小說‧正式授權完整新譯本）（電子書試讀本）_epub3.0_數位出版部.epub >>> false
+[18/12/25 09:48:44][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:48:44][INFO][ebook.metadata.process.ExcelProcess-303] [1000708]14100039516 - YK1446-001_閨蜜：說八卦、宮鬥劇，女人總是為難女人。歷史上難道沒有值得歌頌的真摯情誼？_epub3.0_數位出版部.epub
+[18/12/25 09:48:45][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:48:55][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000708/cite/20181224\YK1446-001_閨蜜：說八卦、宮鬥劇，女人總是為難女人。歷史上難道沒有值得歌頌的真摯情誼？_epub3.0_數位出版部.epub >>> false
+[18/12/25 09:48:56][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000708/cite/20181224\ >>> 0(1)
+[18/12/25 09:48:56][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[18/12/25 09:48:57][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[18/12/25 09:49:05][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:49:05][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[18/12/25 09:49:06][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[18/12/25 09:49:06][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[18/12/25 09:57:15][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[18/12/25 09:57:16][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[18/12/25 09:57:17][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/25 09:57:26][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:57:27][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[18/12/25 09:57:27][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/25 09:57:27][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[18/12/25 09:57:29][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/25 09:57:36][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:57:37][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[18/12/25 09:57:37][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/25 09:57:37][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[18/12/25 09:57:38][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[18/12/25 09:57:44][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:57:45][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[18/12/25 09:57:45][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[18/12/25 09:57:45][INFO][ebook.metadata.process.ExcelProcess-303] [1000713]14100039508 - 套書(上,下).pdf
+[18/12/25 09:57:46][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20181224
+[18/12/25 09:57:52][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:57:53][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000713/cite/20181224\套書(上,下).pdf >>> false
+[18/12/25 09:57:53][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000713/cite/20181224\ >>> 0(1)
+[18/12/25 09:57:53][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[18/12/25 09:57:54][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[18/12/25 09:58:00][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/25 09:58:01][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[18/12/25 09:58:01][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[18/12/25 09:58:01][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done

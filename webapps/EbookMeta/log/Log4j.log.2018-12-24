@@ -1,0 +1,66 @@
+[18/12/24 14:32:46][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[18/12/24 14:34:42][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[18/12/24 14:34:43][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/24 14:34:49][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/24 14:34:49][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[18/12/24 14:34:50][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/24 14:34:50][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[18/12/24 14:34:51][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/24 14:34:56][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/24 14:34:57][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[18/12/24 14:34:58][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/24 14:34:58][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[18/12/24 14:34:59][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[18/12/24 14:35:04][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/24 14:35:05][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[18/12/24 14:35:05][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[18/12/24 14:35:05][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[18/12/24 14:35:06][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[18/12/24 14:35:13][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/24 14:35:14][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[18/12/24 14:35:14][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[18/12/24 14:35:14][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[18/12/24 18:08:13][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[18/12/24 18:08:15][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[18/12/24 18:08:16][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/24 18:08:22][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/24 18:08:22][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[18/12/24 18:08:23][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/24 18:08:23][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[18/12/24 18:08:24][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/24 18:08:31][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/24 18:08:32][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[18/12/24 18:08:32][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/24 18:08:32][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[18/12/24 18:08:33][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[18/12/24 18:08:39][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/24 18:08:40][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[18/12/24 18:08:40][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[18/12/24 18:08:40][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[18/12/24 18:08:41][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[18/12/24 18:08:47][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/24 18:08:47][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[18/12/24 18:08:48][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[18/12/24 18:08:48][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[18/12/24 18:09:58][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[18/12/24 18:09:59][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[18/12/24 18:10:00][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/24 18:10:07][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/24 18:10:08][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[18/12/24 18:10:08][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/24 18:10:08][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[18/12/24 18:10:09][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/24 18:10:16][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/24 18:10:16][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[18/12/24 18:10:17][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/24 18:10:17][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[18/12/24 18:10:18][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[18/12/24 18:10:26][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/24 18:10:26][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[18/12/24 18:10:27][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[18/12/24 18:10:27][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[18/12/24 18:10:28][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[18/12/24 18:10:34][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/24 18:10:35][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[18/12/24 18:10:35][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[18/12/24 18:10:35][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done

@@ -1,0 +1,42 @@
+[19/01/08 14:50:40][INFO][ebook.metadata.process.MediaProcess-144] .....process media files by EXCEL.........start
+[19/01/08 14:50:41][INFO][ebook.metadata.process.MediaProcess-165] [25100009675]mapping(法語學習誌27).xlsx
+[19/01/08 14:50:43][INFO][ebook.metadata.process.MediaProcess-248] .....process media files by EXCEL..........done
+[19/01/08 14:51:10][INFO][ebook.metadata.process.MediaProcess-144] .....process media files by EXCEL.........start
+[19/01/08 14:51:11][INFO][ebook.metadata.process.MediaProcess-165] [25100009676]mapping(西語學習誌25).xlsx
+[19/01/08 14:51:12][INFO][ebook.metadata.process.MediaProcess-248] .....process media files by EXCEL..........done
+[19/01/08 14:58:33][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：Bonjour!France法語學習誌_第二十七期_拿破崙.pdf
+[19/01/08 14:58:34][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：07-15.mp3
+[19/01/08 14:58:34][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：16-28.mp3
+[19/01/08 14:58:35][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：29-37.mp3
+[19/01/08 14:58:36][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：38-51.mp3
+[19/01/08 14:58:36][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：52-56.mp3
+[19/01/08 14:58:37][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：57-64.mp3
+[19/01/08 14:58:37][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：65-76.mp3
+[19/01/08 14:58:38][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：77-85.mp3
+[19/01/08 14:58:38][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：86-91.mp3
+[19/01/08 14:58:39][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：mapping(法語學習誌27).xlsx
+[19/01/08 14:58:39][INFO][ebook.metadata.process.MediaProcess-136] .....process media files by mappingPDFMediaSingle..........false
+[19/01/08 14:58:39][INFO][ebook.metadata.process.MediaProcess-704] .....copy media files to Drive.........start
+[19/01/08 14:58:39][INFO][ebook.metadata.process.MediaProcess-729] .....copy media files to Drive.........done
+[19/01/08 15:03:31][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：07-14.mp3
+[19/01/08 15:03:31][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：15-21.mp3
+[19/01/08 15:03:32][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：22-28.mp3
+[19/01/08 15:03:32][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：29-39.mp3
+[19/01/08 15:03:33][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：40-47.mp3
+[19/01/08 15:03:33][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：48-54.mp3
+[19/01/08 15:03:34][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：55-62.mp3
+[19/01/08 15:03:34][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：63-69.mp3
+[19/01/08 15:03:35][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：70-76.mp3
+[19/01/08 15:03:35][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：mapping(西語學習誌25).xlsx
+[19/01/08 15:03:36][ERROR][ebook.metadata.process.MediaProcess-125] 重新命名失敗：西語學習誌_第二十五期_逃避金錢的小孩.pdf
+[19/01/08 15:03:36][INFO][ebook.metadata.process.MediaProcess-136] .....process media files by mappingPDFMediaSingle..........false
+[19/01/08 15:03:36][INFO][ebook.metadata.process.MediaProcess-704] .....copy media files to Drive.........start
+[19/01/08 15:03:37][INFO][ebook.metadata.process.MediaProcess-729] .....copy media files to Drive.........done
+[19/01/08 15:16:29][INFO][ebook.metadata.process.InfoProcess-2336] 14100039975...delete
+[19/01/08 18:04:03][INFO][ebook.metadata.process.InfoProcess-2336] 14100040230...delete
+[19/01/08 18:04:43][INFO][ebook.metadata.process.InfoProcess-2336] 14100036610...delete
+[19/01/08 18:05:45][INFO][ebook.metadata.process.InfoProcess-2336] 14100038562...delete
+[19/01/08 18:05:45][INFO][ebook.metadata.process.InfoProcess-2336] 14100036604...delete
+[19/01/08 18:06:50][INFO][ebook.metadata.process.InfoProcess-2336] 14100038496...delete
+[19/01/08 18:06:51][INFO][ebook.metadata.process.InfoProcess-2336] 14100036609...delete
+[19/01/08 18:06:51][INFO][ebook.metadata.process.InfoProcess-2336] 14100038500...delete

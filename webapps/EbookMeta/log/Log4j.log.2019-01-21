@@ -1,0 +1,539 @@
+[19/01/21 09:48:53][INFO][ebook.metadata.process.ExcelProcess-192] .....parse excel [1009001]100900120190110000.xls..........start
+[19/01/21 09:48:53][INFO][ebook.metadata.factory.ExcelFactory-475] ----xlsx或xls----
+[19/01/21 09:48:53][INFO][ebook.metadata.factory.ExcelFactory-496] 31
+[19/01/21 09:48:53][INFO][ebook.metadata.factory.ExcelFactory-520] 第2筆寫入meta(業種:雜誌)... ... start 
+[19/01/21 09:48:55][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009001
+[19/01/21 09:48:56][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 25100009978已存在!
+[19/01/21 09:48:56][INFO][ebook.metadata.factory.ExcelFactory-2297] 第2筆 parse done _
+[19/01/21 09:48:56][INFO][ebook.metadata.factory.ExcelFactory-520] 第3筆寫入meta(業種:書)... ... start 
+[19/01/21 09:48:57][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:48:58][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040817已存在!
+[19/01/21 09:48:58][INFO][ebook.metadata.factory.ExcelFactory-2297] 第3筆 parse done _
+[19/01/21 09:48:58][INFO][ebook.metadata.factory.ExcelFactory-520] 第4筆寫入meta(業種:書)... ... start 
+[19/01/21 09:48:58][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:48:59][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040818已存在!
+[19/01/21 09:48:59][INFO][ebook.metadata.factory.ExcelFactory-2297] 第4筆 parse done _
+[19/01/21 09:48:59][INFO][ebook.metadata.factory.ExcelFactory-520] 第5筆寫入meta(業種:書)... ... start 
+[19/01/21 09:48:59][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:00][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040819已存在!
+[19/01/21 09:49:00][INFO][ebook.metadata.factory.ExcelFactory-2297] 第5筆 parse done _
+[19/01/21 09:49:00][INFO][ebook.metadata.factory.ExcelFactory-520] 第6筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:00][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:01][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040820已存在!
+[19/01/21 09:49:01][INFO][ebook.metadata.factory.ExcelFactory-2297] 第6筆 parse done _
+[19/01/21 09:49:01][INFO][ebook.metadata.factory.ExcelFactory-520] 第7筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:01][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:02][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040821已存在!
+[19/01/21 09:49:02][INFO][ebook.metadata.factory.ExcelFactory-2297] 第7筆 parse done _
+[19/01/21 09:49:02][INFO][ebook.metadata.factory.ExcelFactory-520] 第8筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:03][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:03][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040822已存在!
+[19/01/21 09:49:03][INFO][ebook.metadata.factory.ExcelFactory-2297] 第8筆 parse done _
+[19/01/21 09:49:03][INFO][ebook.metadata.factory.ExcelFactory-520] 第9筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:04][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:04][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040823已存在!
+[19/01/21 09:49:04][INFO][ebook.metadata.factory.ExcelFactory-2297] 第9筆 parse done _
+[19/01/21 09:49:04][INFO][ebook.metadata.factory.ExcelFactory-520] 第10筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:05][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:05][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040824已存在!
+[19/01/21 09:49:05][INFO][ebook.metadata.factory.ExcelFactory-2297] 第10筆 parse done _
+[19/01/21 09:49:05][INFO][ebook.metadata.factory.ExcelFactory-520] 第11筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:06][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:06][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040825已存在!
+[19/01/21 09:49:06][INFO][ebook.metadata.factory.ExcelFactory-2297] 第11筆 parse done _
+[19/01/21 09:49:06][INFO][ebook.metadata.factory.ExcelFactory-520] 第12筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:07][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:07][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040826已存在!
+[19/01/21 09:49:07][INFO][ebook.metadata.factory.ExcelFactory-2297] 第12筆 parse done _
+[19/01/21 09:49:07][INFO][ebook.metadata.factory.ExcelFactory-520] 第13筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:08][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:08][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040827已存在!
+[19/01/21 09:49:08][INFO][ebook.metadata.factory.ExcelFactory-2297] 第13筆 parse done _
+[19/01/21 09:49:08][INFO][ebook.metadata.factory.ExcelFactory-520] 第14筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:09][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:10][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040828已存在!
+[19/01/21 09:49:10][INFO][ebook.metadata.factory.ExcelFactory-2297] 第14筆 parse done _
+[19/01/21 09:49:10][INFO][ebook.metadata.factory.ExcelFactory-520] 第15筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:10][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:11][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040829已存在!
+[19/01/21 09:49:11][INFO][ebook.metadata.factory.ExcelFactory-2297] 第15筆 parse done _
+[19/01/21 09:49:11][INFO][ebook.metadata.factory.ExcelFactory-520] 第16筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:11][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:12][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040830已存在!
+[19/01/21 09:49:12][INFO][ebook.metadata.factory.ExcelFactory-2297] 第16筆 parse done _
+[19/01/21 09:49:12][INFO][ebook.metadata.factory.ExcelFactory-520] 第17筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:12][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:13][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040831已存在!
+[19/01/21 09:49:13][INFO][ebook.metadata.factory.ExcelFactory-2297] 第17筆 parse done _
+[19/01/21 09:49:13][INFO][ebook.metadata.factory.ExcelFactory-520] 第18筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:13][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:14][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040832已存在!
+[19/01/21 09:49:14][INFO][ebook.metadata.factory.ExcelFactory-2297] 第18筆 parse done _
+[19/01/21 09:49:14][INFO][ebook.metadata.factory.ExcelFactory-520] 第19筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:14][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:15][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040833已存在!
+[19/01/21 09:49:15][INFO][ebook.metadata.factory.ExcelFactory-2297] 第19筆 parse done _
+[19/01/21 09:49:15][INFO][ebook.metadata.factory.ExcelFactory-520] 第20筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:15][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:16][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040834已存在!
+[19/01/21 09:49:16][INFO][ebook.metadata.factory.ExcelFactory-2297] 第20筆 parse done _
+[19/01/21 09:49:16][INFO][ebook.metadata.factory.ExcelFactory-520] 第21筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:17][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:17][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040835已存在!
+[19/01/21 09:49:17][INFO][ebook.metadata.factory.ExcelFactory-2297] 第21筆 parse done _
+[19/01/21 09:49:17][INFO][ebook.metadata.factory.ExcelFactory-520] 第22筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:18][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:18][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040836已存在!
+[19/01/21 09:49:18][INFO][ebook.metadata.factory.ExcelFactory-2297] 第22筆 parse done _
+[19/01/21 09:49:18][INFO][ebook.metadata.factory.ExcelFactory-520] 第23筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:19][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:19][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040837已存在!
+[19/01/21 09:49:20][INFO][ebook.metadata.factory.ExcelFactory-2297] 第23筆 parse done _
+[19/01/21 09:49:20][INFO][ebook.metadata.factory.ExcelFactory-520] 第24筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:20][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:20][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040838已存在!
+[19/01/21 09:49:20][INFO][ebook.metadata.factory.ExcelFactory-2297] 第24筆 parse done _
+[19/01/21 09:49:20][INFO][ebook.metadata.factory.ExcelFactory-520] 第25筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:21][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:22][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040839已存在!
+[19/01/21 09:49:22][INFO][ebook.metadata.factory.ExcelFactory-2297] 第25筆 parse done _
+[19/01/21 09:49:22][INFO][ebook.metadata.factory.ExcelFactory-520] 第26筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:22][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:23][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040840已存在!
+[19/01/21 09:49:23][INFO][ebook.metadata.factory.ExcelFactory-2297] 第26筆 parse done _
+[19/01/21 09:49:23][INFO][ebook.metadata.factory.ExcelFactory-520] 第27筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:23][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:24][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040841已存在!
+[19/01/21 09:49:24][INFO][ebook.metadata.factory.ExcelFactory-2297] 第27筆 parse done _
+[19/01/21 09:49:24][INFO][ebook.metadata.factory.ExcelFactory-520] 第28筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:24][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:25][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040842已存在!
+[19/01/21 09:49:25][INFO][ebook.metadata.factory.ExcelFactory-2297] 第28筆 parse done _
+[19/01/21 09:49:25][INFO][ebook.metadata.factory.ExcelFactory-520] 第29筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:25][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:26][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040843已存在!
+[19/01/21 09:49:26][INFO][ebook.metadata.factory.ExcelFactory-2297] 第29筆 parse done _
+[19/01/21 09:49:26][INFO][ebook.metadata.factory.ExcelFactory-520] 第30筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:26][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 09:49:27][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040844已存在!
+[19/01/21 09:49:27][INFO][ebook.metadata.factory.ExcelFactory-2297] 第30筆 parse done _
+[19/01/21 09:49:27][INFO][ebook.metadata.factory.ExcelFactory-520] 第31筆寫入meta(業種:書)... ... start 
+[19/01/21 09:49:27][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:
+[19/01/21 09:49:27][INFO][ebook.metadata.factory.ExcelFactory-2297] 第31筆 parse done _第31筆自定子出版社有錯
+[19/01/21 09:49:28][INFO][ebook.metadata.process.ExcelProcess-219] .....parse excel [1009001]100900120190110000.xls..........done
+[19/01/21 09:49:28][INFO][ebook.metadata.process.ExcelProcess-192] .....parse excel [1001725]100172520190119000.xlsx..........start
+[19/01/21 09:49:28][INFO][ebook.metadata.factory.ExcelFactory-475] ----xlsx或xls----
+[19/01/21 09:49:29][INFO][ebook.metadata.factory.ExcelFactory-496] 2
+[19/01/21 09:49:29][INFO][ebook.metadata.factory.ExcelFactory-520] 第2筆寫入meta(業種:雜誌)... ... start 
+[19/01/21 09:49:32][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1001725
+[19/01/21 09:49:34][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/21 09:49:34][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/21 09:49:34][INFO][ebook.metadata.factory.ExcelFactory-2255] ... ...第2筆無法取得紙本metadata
+
+[19/01/21 09:49:34][INFO][ebook.metadata.factory.ExcelFactory-2256] ... ...try to insert from 建檔格式...
+[19/01/21 09:49:34][INFO][ebook.metadata.factory.ExcelFactory-2262] pdf
+[19/01/21 09:49:35][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:9979
+[19/01/21 09:49:35][INFO][ebook.metadata.factory.ExcelFactory-2693] ... ...售價由出版社自訂 : 0
+[19/01/21 09:49:36][INFO][ebook.metadata.factory.ExcelFactory-2719] insertFromExcel_result:1
+[19/01/21 09:49:36][INFO][ebook.metadata.factory.ExcelFactory-2297] 第2筆 parse done _
+[19/01/21 09:49:37][INFO][ebook.metadata.process.ExcelProcess-219] .....parse excel [1001725]100172520190119000.xlsx..........done
+[19/01/21 09:49:37][INFO][ebook.metadata.process.ExcelProcess-192] .....parse excel [1008079]100807920190125000.xls..........start
+[19/01/21 09:49:37][INFO][ebook.metadata.factory.ExcelFactory-475] ----xlsx或xls----
+[19/01/21 09:49:37][INFO][ebook.metadata.factory.ExcelFactory-496] 2
+[19/01/21 09:49:37][INFO][ebook.metadata.factory.ExcelFactory-520] 第2筆寫入meta(業種:雜誌)... ... start 
+[19/01/21 09:49:38][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1000906
+[19/01/21 09:49:39][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/21 09:49:39][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/21 09:49:40][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:9980
+[19/01/21 09:49:43][INFO][ebook.metadata.factory.ExcelFactory-2029] ________________DEFAULT_PRICE_TYPE...2(OK)
+[19/01/21 09:49:43][INFO][ebook.metadata.factory.ExcelFactory-2547] ... ...售價由出版社自訂 : 90
+[19/01/21 09:49:44][INFO][ebook.metadata.factory.ExcelFactory-1979] ... ...試讀設定 : Y(Y)
+[19/01/21 09:49:44][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(true)
+[19/01/21 09:49:44][INFO][ebook.metadata.factory.ExcelFactory-2297] 第2筆 parse done _
+[19/01/21 09:49:44][INFO][ebook.metadata.process.ExcelProcess-219] .....parse excel [1008079]100807920190125000.xls..........done
+[19/01/21 09:49:53][INFO][ebook.metadata.process.MetadataProcess-997] 書籍&套書設定出版型式...done
+[19/01/21 09:49:55][INFO][ebook.metadata.process.MetadataProcess-1041] 25100009221...找不到對應的雜誌!
+[19/01/21 09:49:56][INFO][ebook.metadata.process.MetadataProcess-1041] 25100009979...找不到對應的雜誌!
+[19/01/21 09:49:59][INFO][ebook.metadata.process.MetadataProcess-1269] 25100009980...已寫入雜誌基本META
+[19/01/21 09:50:02][INFO][ebook.metadata.process.MetadataProcess-1269] 25100009981...已寫入雜誌基本META
+[19/01/21 09:50:03][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000239...找不到對應的雜誌!
+[19/01/21 09:50:05][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000240...找不到對應的雜誌!
+[19/01/21 09:50:05][INFO][ebook.metadata.process.MetadataProcess-1055] setMagazineMeta done!
+[19/01/21 09:54:25][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[19/01/21 09:54:27][INFO][ebook.metadata.process.ExcelProcess-303] [1000697]14100017594 - 
+[19/01/21 09:54:27][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20160810
+[19/01/21 09:54:34][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000697/cite/20160810\ >>> 0(1)
+[19/01/21 09:54:34][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[19/01/21 09:54:34][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/21 09:54:40][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/21 09:54:41][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[19/01/21 09:54:41][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/21 09:54:41][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[19/01/21 09:54:42][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/21 09:54:47][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/21 09:54:48][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[19/01/21 09:54:48][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/21 09:54:48][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[19/01/21 09:54:49][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[19/01/21 09:54:55][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/21 09:54:55][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[19/01/21 09:54:56][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[19/01/21 09:54:56][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[19/01/21 09:54:56][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[19/01/21 09:55:04][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/21 09:55:04][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[19/01/21 09:55:04][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[19/01/21 09:55:04][INFO][ebook.metadata.process.ExcelProcess-303] [1008079]25100009665 - SPUR_19_02_dmagazine_150.pdf
+[19/01/21 09:55:05][INFO][ebook.metadata.factory.ExcelFactory-1737] jabook**jabookpopo**/jabook/20190110
+[19/01/21 09:55:12][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/21 09:55:12][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008079/jabook/20190110\SPUR_19_02_dmagazine_150.pdf >>> false
+[19/01/21 09:55:13][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008079/jabook/20190110\null >>> 0(1)
+[19/01/21 09:55:13][INFO][ebook.metadata.process.ExcelProcess-303] [1001725]25100009980 - 新北藝遊整本單頁2月-0116.pdf
+[19/01/21 09:55:14][INFO][ebook.metadata.factory.ExcelFactory-1737] ctu**23087111**/ctu/20190119
+[19/01/21 09:55:20][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/21 09:55:20][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1001725/ctu/20190119\新北藝遊整本單頁2月-0116.pdf >>> false
+[19/01/21 09:55:20][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1001725/ctu/20190119\null >>> 0(1)
+[19/01/21 09:55:20][INFO][ebook.metadata.process.ExcelProcess-303] [1000906]25100009981 - 女人下班後 Vol21_150.pdf
+[19/01/21 09:55:21][INFO][ebook.metadata.factory.ExcelFactory-1737] jabook**jabookpopo**/jabook/20190125
+[19/01/21 09:55:27][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/21 09:55:28][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000906/jabook/20190125\女人下班後 Vol21_150.pdf >>> false
+[19/01/21 09:55:28][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000906/jabook/20190125\ >>> 0(1)
+[19/01/21 09:55:28][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[19/01/21 10:05:11][INFO][ebook.metadata.process.ExcelProcess-192] .....parse excel [1009001]100900120190110000.xls..........start
+[19/01/21 10:05:11][INFO][ebook.metadata.factory.ExcelFactory-475] ----xlsx或xls----
+[19/01/21 10:05:11][INFO][ebook.metadata.factory.ExcelFactory-496] 31
+[19/01/21 10:05:11][INFO][ebook.metadata.factory.ExcelFactory-520] 第2筆寫入meta(業種:雜誌)... ... start 
+[19/01/21 10:05:13][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009001
+[19/01/21 10:05:14][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 25100009978已存在!
+[19/01/21 10:05:14][INFO][ebook.metadata.factory.ExcelFactory-2297] 第2筆 parse done _
+[19/01/21 10:05:14][INFO][ebook.metadata.factory.ExcelFactory-520] 第3筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:15][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:15][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040817已存在!
+[19/01/21 10:05:15][INFO][ebook.metadata.factory.ExcelFactory-2297] 第3筆 parse done _
+[19/01/21 10:05:15][INFO][ebook.metadata.factory.ExcelFactory-520] 第4筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:16][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:16][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040818已存在!
+[19/01/21 10:05:16][INFO][ebook.metadata.factory.ExcelFactory-2297] 第4筆 parse done _
+[19/01/21 10:05:16][INFO][ebook.metadata.factory.ExcelFactory-520] 第5筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:17][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:17][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040819已存在!
+[19/01/21 10:05:17][INFO][ebook.metadata.factory.ExcelFactory-2297] 第5筆 parse done _
+[19/01/21 10:05:17][INFO][ebook.metadata.factory.ExcelFactory-520] 第6筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:18][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:18][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040820已存在!
+[19/01/21 10:05:18][INFO][ebook.metadata.factory.ExcelFactory-2297] 第6筆 parse done _
+[19/01/21 10:05:18][INFO][ebook.metadata.factory.ExcelFactory-520] 第7筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:20][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:20][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040821已存在!
+[19/01/21 10:05:20][INFO][ebook.metadata.factory.ExcelFactory-2297] 第7筆 parse done _
+[19/01/21 10:05:20][INFO][ebook.metadata.factory.ExcelFactory-520] 第8筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:21][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:21][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040822已存在!
+[19/01/21 10:05:21][INFO][ebook.metadata.factory.ExcelFactory-2297] 第8筆 parse done _
+[19/01/21 10:05:21][INFO][ebook.metadata.factory.ExcelFactory-520] 第9筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:22][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:22][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040823已存在!
+[19/01/21 10:05:22][INFO][ebook.metadata.factory.ExcelFactory-2297] 第9筆 parse done _
+[19/01/21 10:05:22][INFO][ebook.metadata.factory.ExcelFactory-520] 第10筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:23][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:23][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040824已存在!
+[19/01/21 10:05:23][INFO][ebook.metadata.factory.ExcelFactory-2297] 第10筆 parse done _
+[19/01/21 10:05:23][INFO][ebook.metadata.factory.ExcelFactory-520] 第11筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:24][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:24][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040825已存在!
+[19/01/21 10:05:24][INFO][ebook.metadata.factory.ExcelFactory-2297] 第11筆 parse done _
+[19/01/21 10:05:24][INFO][ebook.metadata.factory.ExcelFactory-520] 第12筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:25][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:26][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040826已存在!
+[19/01/21 10:05:26][INFO][ebook.metadata.factory.ExcelFactory-2297] 第12筆 parse done _
+[19/01/21 10:05:26][INFO][ebook.metadata.factory.ExcelFactory-520] 第13筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:26][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:27][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040827已存在!
+[19/01/21 10:05:27][INFO][ebook.metadata.factory.ExcelFactory-2297] 第13筆 parse done _
+[19/01/21 10:05:27][INFO][ebook.metadata.factory.ExcelFactory-520] 第14筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:27][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:28][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040828已存在!
+[19/01/21 10:05:28][INFO][ebook.metadata.factory.ExcelFactory-2297] 第14筆 parse done _
+[19/01/21 10:05:28][INFO][ebook.metadata.factory.ExcelFactory-520] 第15筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:28][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:29][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040829已存在!
+[19/01/21 10:05:29][INFO][ebook.metadata.factory.ExcelFactory-2297] 第15筆 parse done _
+[19/01/21 10:05:29][INFO][ebook.metadata.factory.ExcelFactory-520] 第16筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:30][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:30][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040830已存在!
+[19/01/21 10:05:30][INFO][ebook.metadata.factory.ExcelFactory-2297] 第16筆 parse done _
+[19/01/21 10:05:30][INFO][ebook.metadata.factory.ExcelFactory-520] 第17筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:31][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:31][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040831已存在!
+[19/01/21 10:05:31][INFO][ebook.metadata.factory.ExcelFactory-2297] 第17筆 parse done _
+[19/01/21 10:05:31][INFO][ebook.metadata.factory.ExcelFactory-520] 第18筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:32][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:32][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040832已存在!
+[19/01/21 10:05:32][INFO][ebook.metadata.factory.ExcelFactory-2297] 第18筆 parse done _
+[19/01/21 10:05:32][INFO][ebook.metadata.factory.ExcelFactory-520] 第19筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:33][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:33][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040833已存在!
+[19/01/21 10:05:33][INFO][ebook.metadata.factory.ExcelFactory-2297] 第19筆 parse done _
+[19/01/21 10:05:33][INFO][ebook.metadata.factory.ExcelFactory-520] 第20筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:34][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:35][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040834已存在!
+[19/01/21 10:05:35][INFO][ebook.metadata.factory.ExcelFactory-2297] 第20筆 parse done _
+[19/01/21 10:05:35][INFO][ebook.metadata.factory.ExcelFactory-520] 第21筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:35][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:36][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040835已存在!
+[19/01/21 10:05:36][INFO][ebook.metadata.factory.ExcelFactory-2297] 第21筆 parse done _
+[19/01/21 10:05:36][INFO][ebook.metadata.factory.ExcelFactory-520] 第22筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:36][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:37][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040836已存在!
+[19/01/21 10:05:37][INFO][ebook.metadata.factory.ExcelFactory-2297] 第22筆 parse done _
+[19/01/21 10:05:37][INFO][ebook.metadata.factory.ExcelFactory-520] 第23筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:37][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:38][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040837已存在!
+[19/01/21 10:05:38][INFO][ebook.metadata.factory.ExcelFactory-2297] 第23筆 parse done _
+[19/01/21 10:05:38][INFO][ebook.metadata.factory.ExcelFactory-520] 第24筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:38][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:39][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040838已存在!
+[19/01/21 10:05:39][INFO][ebook.metadata.factory.ExcelFactory-2297] 第24筆 parse done _
+[19/01/21 10:05:39][INFO][ebook.metadata.factory.ExcelFactory-520] 第25筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:39][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:40][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040839已存在!
+[19/01/21 10:05:40][INFO][ebook.metadata.factory.ExcelFactory-2297] 第25筆 parse done _
+[19/01/21 10:05:40][INFO][ebook.metadata.factory.ExcelFactory-520] 第26筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:40][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:41][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040840已存在!
+[19/01/21 10:05:41][INFO][ebook.metadata.factory.ExcelFactory-2297] 第26筆 parse done _
+[19/01/21 10:05:41][INFO][ebook.metadata.factory.ExcelFactory-520] 第27筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:41][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:42][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040841已存在!
+[19/01/21 10:05:42][INFO][ebook.metadata.factory.ExcelFactory-2297] 第27筆 parse done _
+[19/01/21 10:05:42][INFO][ebook.metadata.factory.ExcelFactory-520] 第28筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:43][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:43][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040842已存在!
+[19/01/21 10:05:43][INFO][ebook.metadata.factory.ExcelFactory-2297] 第28筆 parse done _
+[19/01/21 10:05:43][INFO][ebook.metadata.factory.ExcelFactory-520] 第29筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:44][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:44][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040843已存在!
+[19/01/21 10:05:44][INFO][ebook.metadata.factory.ExcelFactory-2297] 第29筆 parse done _
+[19/01/21 10:05:44][INFO][ebook.metadata.factory.ExcelFactory-520] 第30筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:45][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1009053
+[19/01/21 10:05:45][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040844已存在!
+[19/01/21 10:05:45][INFO][ebook.metadata.factory.ExcelFactory-2297] 第30筆 parse done _
+[19/01/21 10:05:45][INFO][ebook.metadata.factory.ExcelFactory-520] 第31筆寫入meta(業種:書)... ... start 
+[19/01/21 10:05:46][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:
+[19/01/21 10:05:46][INFO][ebook.metadata.factory.ExcelFactory-2297] 第31筆 parse done _第31筆自定子出版社有錯
+[19/01/21 10:05:46][INFO][ebook.metadata.process.ExcelProcess-219] .....parse excel [1009001]100900120190110000.xls..........done
+[19/01/21 10:05:50][INFO][ebook.metadata.process.MetadataProcess-997] 書籍&套書設定出版型式...done
+[19/01/21 10:05:52][INFO][ebook.metadata.process.MetadataProcess-1041] 25100009221...找不到對應的雜誌!
+[19/01/21 10:05:55][INFO][ebook.metadata.process.MetadataProcess-1269] 25100009979...已寫入雜誌基本META
+[19/01/21 10:05:56][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000239...找不到對應的雜誌!
+[19/01/21 10:05:58][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000240...找不到對應的雜誌!
+[19/01/21 10:05:58][INFO][ebook.metadata.process.MetadataProcess-1055] setMagazineMeta done!
+[19/01/21 10:10:58][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[19/01/21 10:10:59][INFO][ebook.metadata.process.ExcelProcess-303] [1000697]14100017594 - 
+[19/01/21 10:11:00][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20160810
+[19/01/21 10:11:06][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000697/cite/20160810\ >>> 0(1)
+[19/01/21 10:11:06][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[19/01/21 10:11:07][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/21 10:11:13][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/21 10:11:14][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[19/01/21 10:11:14][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/21 10:11:14][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[19/01/21 10:11:15][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/21 10:11:21][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/21 10:11:21][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[19/01/21 10:11:22][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/21 10:11:22][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[19/01/21 10:11:23][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[19/01/21 10:11:28][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/21 10:11:29][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[19/01/21 10:11:29][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[19/01/21 10:11:29][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[19/01/21 10:11:30][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[19/01/21 10:11:37][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/21 10:11:37][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[19/01/21 10:11:37][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[19/01/21 10:11:37][INFO][ebook.metadata.process.ExcelProcess-303] [1008079]25100009665 - SPUR_19_02_dmagazine_150.pdf
+[19/01/21 10:11:38][INFO][ebook.metadata.factory.ExcelFactory-1737] jabook**jabookpopo**/jabook/20190110
+[19/01/21 10:11:46][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/21 10:11:46][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008079/jabook/20190110\SPUR_19_02_dmagazine_150.pdf >>> false
+[19/01/21 10:11:47][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008079/jabook/20190110\null >>> 0(1)
+[19/01/21 10:11:47][INFO][ebook.metadata.process.ExcelProcess-303] [1001725]25100009980 - 新北藝遊整本單頁2月-0116.pdf
+[19/01/21 10:11:47][INFO][ebook.metadata.factory.ExcelFactory-1737] ctu**23087111**/ctu/20190119
+[19/01/21 10:11:56][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1001725/ctu/20190119\新北藝遊整本單頁2月-0116.pdf >>> true
+[19/01/21 10:11:57][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1001725/ctu/20190119\null >>> 0(1)
+[19/01/21 10:11:57][INFO][ebook.metadata.process.ExcelProcess-303] [1000906]25100009981 - 女人下班後 Vol21_150.pdf
+[19/01/21 10:11:58][INFO][ebook.metadata.factory.ExcelFactory-1737] jabook**jabookpopo**/jabook/20190125
+[19/01/21 10:12:04][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/21 10:12:05][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000906/jabook/20190125\女人下班後 Vol21_150.pdf >>> false
+[19/01/21 10:12:05][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000906/jabook/20190125\ >>> 0(1)
+[19/01/21 10:12:05][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[19/01/21 10:39:52][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[19/01/21 10:39:53][INFO][ebook.metadata.process.ExcelProcess-303] [1000697]14100017594 - 
+[19/01/21 10:39:54][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20160810
+[19/01/21 10:40:02][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000697/cite/20160810\ >>> 0(1)
+[19/01/21 10:40:02][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[19/01/21 10:40:03][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/21 10:40:09][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/21 10:40:09][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[19/01/21 10:40:10][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/21 10:40:10][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[19/01/21 10:40:11][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/21 10:40:16][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/21 10:40:17][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[19/01/21 10:40:17][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/21 10:40:17][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[19/01/21 10:40:18][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[19/01/21 10:40:24][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/21 10:40:24][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[19/01/21 10:40:25][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[19/01/21 10:40:25][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[19/01/21 10:40:26][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[19/01/21 10:40:31][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/21 10:40:32][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[19/01/21 10:40:32][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[19/01/21 10:40:32][INFO][ebook.metadata.process.ExcelProcess-303] [1008079]25100009665 - SPUR_19_02_dmagazine_150.pdf
+[19/01/21 10:40:33][INFO][ebook.metadata.factory.ExcelFactory-1737] jabook**jabookpopo**/jabook/20190110
+[19/01/21 10:40:39][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/21 10:40:39][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008079/jabook/20190110\SPUR_19_02_dmagazine_150.pdf >>> false
+[19/01/21 10:40:40][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008079/jabook/20190110\null >>> 0(1)
+[19/01/21 10:40:40][INFO][ebook.metadata.process.ExcelProcess-303] [1000906]25100009981 - 女人下班後Vol21_150.pdf
+[19/01/21 10:40:41][INFO][ebook.metadata.factory.ExcelFactory-1737] jabook**jabookpopo**/jabook/20190125
+[19/01/21 10:40:52][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000906/jabook/20190125\女人下班後Vol21_150.pdf >>> true
+[19/01/21 10:40:53][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000906/jabook/20190125\ >>> 0(1)
+[19/01/21 10:40:53][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[19/01/21 10:43:47][INFO][ebook.metadata.process.InfoProcess-2336] 14100038485...delete
+[19/01/21 10:43:47][INFO][ebook.metadata.process.InfoProcess-2328] 25100009312...已上架，不可刪除
+[19/01/21 10:43:47][INFO][ebook.metadata.process.InfoProcess-2336] 25100009312...delete
+[19/01/21 10:49:47][INFO][ebook.metadata.process.MetadataProcess-79] .......pre-process in ebook ......start 
+[19/01/21 10:49:48][INFO][ebook.metadata.process.MetadataProcess-91] [1008403]25100009979
+[19/01/21 10:50:06][INFO][ebook.metadata.process.MetadataProcess-91] [1001725]25100009980
+[19/01/21 10:50:15][INFO][ebook.metadata.process.MetadataProcess-91] [1000906]25100009981
+[19/01/21 10:50:25][INFO][ebook.metadata.process.MetadataProcess-91] [T000080]25109999996
+[19/01/21 10:50:28][INFO][ebook.metadata.process.MetadataProcess-162] .......pre-process in ebook ......done 
+[19/01/21 10:50:28][INFO][ebook.metadata.process.MetadataProcess-171] .......process COVER ......start 
+[19/01/21 10:50:28][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036252\14100036252.epub
+[19/01/21 10:50:40][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036278\14100036278.epub
+[19/01/21 10:50:42][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036309\14100036309.epub
+[19/01/21 10:50:44][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036310\14100036310.epub
+[19/01/21 10:50:47][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036312\14100036312.epub
+[19/01/21 10:50:50][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036422\14100036422.epub
+[19/01/21 10:50:53][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036463\14100036463.epub
+[19/01/21 10:50:56][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036464\14100036464.epub
+[19/01/21 10:50:59][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036586\14100036586.epub
+[19/01/21 10:51:01][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036588\14100036588.epub
+[19/01/21 10:51:04][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036589\14100036589.epub
+[19/01/21 10:51:07][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036592\14100036592.epub
+[19/01/21 10:51:09][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036712\14100036712.epub
+[19/01/21 10:51:13][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036713\14100036713.epub
+[19/01/21 10:51:16][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036734\14100036734.epub
+[19/01/21 10:51:18][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036761\14100036761.epub
+[19/01/21 10:51:21][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036762\14100036762.epub
+[19/01/21 10:51:35][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100036800\14100036800.pdf
+[19/01/21 10:51:35][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100036800\14100036800.pdf size > 200000000!!
+[19/01/21 10:51:35][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036871\14100036871.epub
+[19/01/21 10:51:37][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036878\14100036878.epub
+[19/01/21 10:51:39][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037075\14100037075.epub
+[19/01/21 10:51:48][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037076\14100037076.epub
+[19/01/21 10:51:51][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037552\14100037552.epub
+[19/01/21 10:51:53][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037761\14100037761.epub
+[19/01/21 10:51:58][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037763\14100037763.epub
+[19/01/21 10:52:02][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038244\14100038244.epub
+[19/01/21 10:52:05][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038460\14100038460.epub
+[19/01/21 10:52:10][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038465\14100038465.epub
+[19/01/21 10:52:14][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038478\14100038478.epub
+[19/01/21 10:52:17][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038874\14100038874.epub
+[19/01/21 10:52:20][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039141\14100039141.epub
+[19/01/21 10:52:24][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039142\14100039142.epub
+[19/01/21 10:52:27][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039143\14100039143.epub
+[19/01/21 10:52:31][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039215\14100039215.epub
+[19/01/21 10:52:41][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039352\14100039352.epub
+[19/01/21 10:52:44][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039353\14100039353.epub
+[19/01/21 10:52:46][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039354\14100039354.epub
+[19/01/21 10:52:50][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039355\14100039355.epub
+[19/01/21 10:52:52][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039520\14100039520.epub
+[19/01/21 10:52:55][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039522\14100039522.epub
+[19/01/21 10:52:57][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039523\14100039523.epub
+[19/01/21 10:52:59][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039983\14100039983.epub
+[19/01/21 10:53:03][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040222\14100040222.epub
+[19/01/21 10:53:08][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040632\14100040632.epub
+[19/01/21 10:53:11][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040633\14100040633.epub
+[19/01/21 10:53:14][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040812\14100040812.pdf
+[19/01/21 10:53:14][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100040812\14100040812.pdf size > 200000000!!
+[19/01/21 10:53:14][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040814\14100040814.pdf
+[19/01/21 10:53:14][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100040814\14100040814.pdf size > 200000000!!
+[19/01/21 10:53:14][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040815\14100040815.pdf
+[19/01/21 10:53:14][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100040815\14100040815.pdf size > 200000000!!
+[19/01/21 10:53:14][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040816\14100040816.pdf
+[19/01/21 10:53:14][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100040816\14100040816.pdf size > 200000000!!
+[19/01/21 10:53:14][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040900\14100040900.pdf
+[19/01/21 10:53:14][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100040900\14100040900.pdf size > 200000000!!
+[19/01/21 10:53:14][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040901\14100040901.pdf
+[19/01/21 10:53:14][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100040901\14100040901.pdf size > 200000000!!
+[19/01/21 10:53:14][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040902\14100040902.pdf
+[19/01/21 10:53:14][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100040902\14100040902.pdf size > 200000000!!
+[19/01/21 10:53:14][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040909\14100040909.pdf
+[19/01/21 10:53:14][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100040909\14100040909.pdf size > 200000000!!
+[19/01/21 10:53:14][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\25\25100009979\25100009979.pdf
+[19/01/21 10:53:15][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/21 10:53:15][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/21 10:53:15][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/21 10:53:15][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/21 10:53:15][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/21 10:53:18][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\25\25100009980\25100009980.pdf
+[19/01/21 10:53:18][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/21 10:53:18][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/21 10:53:18][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/21 10:53:18][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/21 10:53:18][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/21 10:53:19][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\25\25100009981\25100009981.pdf
+[19/01/21 10:53:19][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/21 10:53:19][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/21 10:53:19][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/21 10:53:19][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/21 10:53:19][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/21 10:53:22][INFO][ebook.metadata.process.MetadataProcess-223] .......process COVER ......done 
+[19/01/21 10:53:22][INFO][ebook.metadata.process.MetadataProcess-233] .......resize COVER ......start 
+[19/01/21 10:53:22][INFO][ebook.metadata.process.MetadataProcess-254] 14100021048
+[19/01/21 10:53:22][INFO][ebook.metadata.process.MetadataProcess-254] 14100021049
+[19/01/21 10:53:22][INFO][ebook.metadata.process.MetadataProcess-254] 14100021050
+[19/01/21 10:53:22][INFO][ebook.metadata.process.MetadataProcess-254] 14100023996
+[19/01/21 10:53:22][INFO][ebook.metadata.process.MetadataProcess-254] 14100024878
+[19/01/21 10:53:22][INFO][ebook.metadata.process.MetadataProcess-254] 25100009979
+[19/01/21 10:53:26][INFO][ebook.metadata.process.MetadataProcess-254] 25100009980
+[19/01/21 10:53:29][INFO][ebook.metadata.process.MetadataProcess-254] 25100009981
+[19/01/21 10:53:33][INFO][ebook.metadata.process.MetadataProcess-274] .......resize COVER ......done 
+[19/01/21 10:53:33][INFO][ebook.metadata.process.MetadataProcess-379] .......COVER to AWS ......start 
+[19/01/21 10:53:37][INFO][ebook.metadata.process.MetadataProcess-402] 25100009979(true)
+[19/01/21 10:53:38][INFO][ebook.metadata.process.MetadataProcess-402] 25100009980(true)
+[19/01/21 10:53:39][INFO][ebook.metadata.process.MetadataProcess-402] 25100009981(true)
+[19/01/21 10:53:39][INFO][ebook.metadata.process.MetadataProcess-415] .......COVER to AWS ......done 
+[19/01/21 10:53:39][INFO][ebook.metadata.process.MetadataProcess-433] .......create folder to AWS ......start 
+[19/01/21 10:53:40][INFO][ebook.metadata.process.MetadataProcess-461] .......create folder to AWS ......done 
+[19/01/21 15:39:56][INFO][ebook.metadata.process.InfoProcess-864] 14100035461...start to sale
+[19/01/21 15:39:57][INFO][ebook.metadata.process.InfoProcess-894] .......試讀 : true
+[19/01/21 15:39:58][INFO][ebook.metadata.process.InfoProcess-2159] send mail....2019-01-21 15:39:58
+[19/01/21 15:39:59][INFO][ebook.metadata.utils.MailUtils-168] ebook@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-21 15:39:58】
+......Successfully!!
+[19/01/21 15:39:59][ERROR][ebook.metadata.utils.MailUtils-170] ...TAAZE電子書開始銷售通知 【2019-01-21 15:39:58】
+javax.mail.SendFailedException: No recipient addresses
+[19/01/21 15:40:01][INFO][ebook.metadata.utils.MailUtils-168] sunny106032@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-21 15:39:58】
+......Successfully!!
+[19/01/21 15:40:02][INFO][ebook.metadata.utils.MailUtils-168] imottffs@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-21 15:39:58】
+......Successfully!!
+[19/01/21 15:40:03][INFO][ebook.metadata.utils.MailUtils-168] HZYHZY1011@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-21 15:39:58】
+......Successfully!!
+[19/01/21 15:40:03][INFO][ebook.metadata.process.InfoProcess-2195] send mail....done
+[19/01/21 15:42:59][INFO][ebook.metadata.process.InfoProcess-864] 14100037953...start to sale
+[19/01/21 15:43:00][INFO][ebook.metadata.process.InfoProcess-894] .......試讀 : true
+[19/01/21 15:43:01][INFO][ebook.metadata.process.InfoProcess-2159] send mail....2019-01-21 15:43:01
+[19/01/21 15:43:02][INFO][ebook.metadata.utils.MailUtils-168] ebook@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-21 15:43:01】
+......Successfully!!
+[19/01/21 15:43:02][ERROR][ebook.metadata.utils.MailUtils-170] ...TAAZE電子書開始銷售通知 【2019-01-21 15:43:01】
+javax.mail.SendFailedException: No recipient addresses
+[19/01/21 15:43:04][INFO][ebook.metadata.utils.MailUtils-168] sunny106032@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-21 15:43:01】
+......Successfully!!
+[19/01/21 15:43:05][INFO][ebook.metadata.utils.MailUtils-168] imottffs@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-21 15:43:01】
+......Successfully!!
+[19/01/21 15:43:06][INFO][ebook.metadata.utils.MailUtils-168] HZYHZY1011@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-21 15:43:01】
+......Successfully!!
+[19/01/21 15:43:06][INFO][ebook.metadata.process.InfoProcess-2195] send mail....done

@@ -1,0 +1,991 @@
+[19/01/16 09:40:07][INFO][ebook.metadata.process.ExcelProcess-55] batchDownloadExcel---- 1
+[19/01/16 09:40:07][INFO][ebook.metadata.factory.ExcelFactory-66] ............check Excel [1007724-jingyi] ..........start
+[19/01/16 09:40:13][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 09:40:13][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /jingyi/20190115
+[19/01/16 09:40:13][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 15
+[19/01/16 09:40:13][INFO][ebook.metadata.factory.ExcelFactory-129] ............check Excel [1007724-jingyi]..........done
+[19/01/16 09:41:14][INFO][ebook.metadata.process.ExcelProcess-192] .....parse excel [1007724]100772420190115000.xlsx..........start
+[19/01/16 09:41:14][INFO][ebook.metadata.factory.ExcelFactory-475] ----xlsx或xls----
+[19/01/16 09:41:16][INFO][ebook.metadata.factory.ExcelFactory-496] 18
+[19/01/16 09:41:16][INFO][ebook.metadata.factory.ExcelFactory-520] 第2筆寫入meta(業種:書)... ... start 
+[19/01/16 09:41:17][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 09:41:18][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/16 09:41:18][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/16 09:41:20][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40631
+[19/01/16 09:41:22][INFO][ebook.metadata.factory.ExcelFactory-2029] ________________DEFAULT_PRICE_TYPE...2(OK)
+[19/01/16 09:41:22][INFO][ebook.metadata.factory.ExcelFactory-2547] ... ...售價由出版社自訂 : 210
+[19/01/16 09:41:23][INFO][ebook.metadata.factory.ExcelFactory-1979] ... ...試讀設定 : Y(Y)
+[19/01/16 09:41:23][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(true)
+[19/01/16 09:41:23][INFO][ebook.metadata.factory.ExcelFactory-2297] 第2筆 parse done _
+[19/01/16 09:41:23][INFO][ebook.metadata.factory.ExcelFactory-520] 第3筆寫入meta(業種:書)... ... start 
+[19/01/16 09:41:24][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 09:41:25][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/16 09:41:25][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/16 09:41:26][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40632
+[19/01/16 09:41:28][INFO][ebook.metadata.factory.ExcelFactory-2029] ________________DEFAULT_PRICE_TYPE...2(OK)
+[19/01/16 09:41:28][INFO][ebook.metadata.factory.ExcelFactory-2547] ... ...售價由出版社自訂 : 210
+[19/01/16 09:41:29][INFO][ebook.metadata.factory.ExcelFactory-1979] ... ...試讀設定 : Y(Y)
+[19/01/16 09:41:29][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(true)
+[19/01/16 09:41:29][INFO][ebook.metadata.factory.ExcelFactory-2297] 第3筆 parse done _
+[19/01/16 09:41:29][INFO][ebook.metadata.factory.ExcelFactory-520] 第4筆寫入meta(業種:書)... ... start 
+[19/01/16 09:41:30][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 09:41:31][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/16 09:41:31][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/16 09:41:32][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40633
+[19/01/16 09:41:35][INFO][ebook.metadata.factory.ExcelFactory-2029] ________________DEFAULT_PRICE_TYPE...2(OK)
+[19/01/16 09:41:35][INFO][ebook.metadata.factory.ExcelFactory-2547] ... ...售價由出版社自訂 : 240
+[19/01/16 09:41:35][INFO][ebook.metadata.factory.ExcelFactory-1979] ... ...試讀設定 : Y(Y)
+[19/01/16 09:41:35][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(true)
+[19/01/16 09:41:35][INFO][ebook.metadata.factory.ExcelFactory-2297] 第4筆 parse done _
+[19/01/16 09:41:35][INFO][ebook.metadata.factory.ExcelFactory-520] 第5筆寫入meta(業種:書)... ... start 
+[19/01/16 09:41:36][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 09:41:37][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/16 09:41:37][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/16 09:41:38][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40634
+[19/01/16 09:41:41][INFO][ebook.metadata.factory.ExcelFactory-2029] ________________DEFAULT_PRICE_TYPE...2(OK)
+[19/01/16 09:41:41][INFO][ebook.metadata.factory.ExcelFactory-2547] ... ...售價由出版社自訂 : 240
+[19/01/16 09:41:42][INFO][ebook.metadata.factory.ExcelFactory-1979] ... ...試讀設定 : Y(Y)
+[19/01/16 09:41:42][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(true)
+[19/01/16 09:41:42][INFO][ebook.metadata.factory.ExcelFactory-2297] 第5筆 parse done _
+[19/01/16 09:41:42][INFO][ebook.metadata.factory.ExcelFactory-520] 第6筆寫入meta(業種:書)... ... start 
+[19/01/16 09:41:43][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 09:41:44][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/16 09:41:44][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/16 09:41:45][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40635
+[19/01/16 09:41:47][INFO][ebook.metadata.factory.ExcelFactory-2029] ________________DEFAULT_PRICE_TYPE...2(OK)
+[19/01/16 09:41:47][INFO][ebook.metadata.factory.ExcelFactory-2547] ... ...售價由出版社自訂 : 263
+[19/01/16 09:41:48][INFO][ebook.metadata.factory.ExcelFactory-1979] ... ...試讀設定 : Y(Y)
+[19/01/16 09:41:48][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(true)
+[19/01/16 09:41:48][INFO][ebook.metadata.factory.ExcelFactory-2297] 第6筆 parse done _
+[19/01/16 09:41:48][INFO][ebook.metadata.factory.ExcelFactory-520] 第7筆寫入meta(業種:書)... ... start 
+[19/01/16 09:41:49][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 09:41:49][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/16 09:41:49][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/16 09:41:50][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40636
+[19/01/16 09:41:52][INFO][ebook.metadata.factory.ExcelFactory-2029] ________________DEFAULT_PRICE_TYPE...2(OK)
+[19/01/16 09:41:52][INFO][ebook.metadata.factory.ExcelFactory-2547] ... ...售價由出版社自訂 : 270
+[19/01/16 09:41:53][INFO][ebook.metadata.factory.ExcelFactory-1979] ... ...試讀設定 : Y(Y)
+[19/01/16 09:41:53][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(true)
+[19/01/16 09:41:53][INFO][ebook.metadata.factory.ExcelFactory-2297] 第7筆 parse done _
+[19/01/16 09:41:53][INFO][ebook.metadata.factory.ExcelFactory-520] 第8筆寫入meta(業種:書)... ... start 
+[19/01/16 09:41:57][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 09:41:58][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/16 09:41:58][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/16 09:41:59][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40637
+[19/01/16 09:42:01][INFO][ebook.metadata.factory.ExcelFactory-2029] ________________DEFAULT_PRICE_TYPE...2(OK)
+[19/01/16 09:42:01][INFO][ebook.metadata.factory.ExcelFactory-2547] ... ...售價由出版社自訂 : 270
+[19/01/16 09:42:02][INFO][ebook.metadata.factory.ExcelFactory-1979] ... ...試讀設定 : Y(Y)
+[19/01/16 09:42:02][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(true)
+[19/01/16 09:42:02][INFO][ebook.metadata.factory.ExcelFactory-2297] 第8筆 parse done _
+[19/01/16 09:42:02][INFO][ebook.metadata.factory.ExcelFactory-520] 第9筆寫入meta(業種:書)... ... start 
+[19/01/16 09:42:03][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 09:42:03][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/16 09:42:03][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/16 09:42:05][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40638
+[19/01/16 09:42:08][INFO][ebook.metadata.factory.ExcelFactory-2029] ________________DEFAULT_PRICE_TYPE...2(OK)
+[19/01/16 09:42:08][INFO][ebook.metadata.factory.ExcelFactory-2547] ... ...售價由出版社自訂 : 285
+[19/01/16 09:42:09][INFO][ebook.metadata.factory.ExcelFactory-1979] ... ...試讀設定 : Y(Y)
+[19/01/16 09:42:09][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(true)
+[19/01/16 09:42:09][INFO][ebook.metadata.factory.ExcelFactory-2297] 第9筆 parse done _
+[19/01/16 09:42:09][INFO][ebook.metadata.factory.ExcelFactory-520] 第10筆寫入meta(業種:書)... ... start 
+[19/01/16 09:42:09][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 09:42:10][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/16 09:42:10][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/16 09:42:11][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40639
+[19/01/16 09:42:14][INFO][ebook.metadata.factory.ExcelFactory-2029] ________________DEFAULT_PRICE_TYPE...2(OK)
+[19/01/16 09:42:14][INFO][ebook.metadata.factory.ExcelFactory-2547] ... ...售價由出版社自訂 : 287
+[19/01/16 09:42:14][INFO][ebook.metadata.factory.ExcelFactory-1979] ... ...試讀設定 : Y(Y)
+[19/01/16 09:42:14][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(true)
+[19/01/16 09:42:14][INFO][ebook.metadata.factory.ExcelFactory-2297] 第10筆 parse done _
+[19/01/16 09:42:14][INFO][ebook.metadata.factory.ExcelFactory-520] 第11筆寫入meta(業種:書)... ... start 
+[19/01/16 09:42:15][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 09:42:16][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/16 09:42:16][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/16 09:42:17][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40640
+[19/01/16 09:42:20][INFO][ebook.metadata.factory.ExcelFactory-2029] ________________DEFAULT_PRICE_TYPE...2(OK)
+[19/01/16 09:42:20][INFO][ebook.metadata.factory.ExcelFactory-2547] ... ...售價由出版社自訂 : 299
+[19/01/16 09:42:21][INFO][ebook.metadata.factory.ExcelFactory-1979] ... ...試讀設定 : Y(Y)
+[19/01/16 09:42:21][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(true)
+[19/01/16 09:42:21][INFO][ebook.metadata.factory.ExcelFactory-2297] 第11筆 parse done _
+[19/01/16 09:42:21][INFO][ebook.metadata.factory.ExcelFactory-520] 第12筆寫入meta(業種:書)... ... start 
+[19/01/16 09:42:22][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 09:42:23][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/16 09:42:23][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/16 09:42:24][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40641
+[19/01/16 09:42:26][INFO][ebook.metadata.factory.ExcelFactory-2029] ________________DEFAULT_PRICE_TYPE...2(OK)
+[19/01/16 09:42:26][INFO][ebook.metadata.factory.ExcelFactory-2547] ... ...售價由出版社自訂 : 315
+[19/01/16 09:42:27][INFO][ebook.metadata.factory.ExcelFactory-1979] ... ...試讀設定 : Y(Y)
+[19/01/16 09:42:27][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(true)
+[19/01/16 09:42:27][INFO][ebook.metadata.factory.ExcelFactory-2297] 第12筆 parse done _
+[19/01/16 09:42:27][INFO][ebook.metadata.factory.ExcelFactory-520] 第13筆寫入meta(業種:書)... ... start 
+[19/01/16 09:42:28][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 09:42:28][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/16 09:42:28][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/16 09:42:30][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40642
+[19/01/16 09:42:32][INFO][ebook.metadata.factory.ExcelFactory-2029] ________________DEFAULT_PRICE_TYPE...2(OK)
+[19/01/16 09:42:32][INFO][ebook.metadata.factory.ExcelFactory-2547] ... ...售價由出版社自訂 : 315
+[19/01/16 09:42:33][INFO][ebook.metadata.factory.ExcelFactory-1979] ... ...試讀設定 : Y(Y)
+[19/01/16 09:42:33][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(true)
+[19/01/16 09:42:33][INFO][ebook.metadata.factory.ExcelFactory-2297] 第13筆 parse done _
+[19/01/16 09:42:33][INFO][ebook.metadata.factory.ExcelFactory-520] 第14筆寫入meta(業種:書)... ... start 
+[19/01/16 09:42:34][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 09:42:34][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/16 09:42:34][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/16 09:42:36][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40643
+[19/01/16 09:42:37][ERROR][ebook.metadata.factory.ExcelFactory-2559] (11100855435) isbn = 9789869670647; insert into ebook_meta (ORG_PROD_ID, LOGCODE, PROD_CAT_ID, PUB_ID, SOURCE_FLG, XLS_ID, EBOOK_FORMAT, PAPER_ORG_PROD_ID, CAT_ID, CAT_NAME, TITLE_EXCEL , ISBN, TITLE_MAIN, TITLE_NEXT, AUTHOR_MAIN, AUTHOR_NEXT, PUBLISH_DATE, LIST_PRICE, ORG_FILENAME, MEDIA_FOLDER, TRANSLATOR, EDITOR, PAINTER, COUNTRY_ID, LANGUAGE, CONTRAST, PHONETICS, SALE_AREA, SP_REC, PROD_PF, COVER_STR, AUTHOR_PF, TRANSLATOR_PF, PREFACE, VIEWDATA, PERSON_GUIDE, MEDIA_RCM, PERSON_RCM, AWARD_REC, CATALOGUE, KEYWORDS, SERIES4PUB_ID, SERIES4PUB_NAME, RANK) values(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?, ?,?,?,?,?, ?,?,?,?,?, ?,?,?,?,?, ?,?,?,?,?, ?,?,?,?,?, ?,?,?)java.sql.SQLException: Incorrect string value: '\xF0\xA7\x8A\x85\xE6\xB8...' for column 'CATALOGUE' at row 1
+[19/01/16 09:42:37][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(false)
+[19/01/16 09:42:37][INFO][ebook.metadata.factory.ExcelFactory-2255] ... ...第14筆複製紙本metadata失敗(pdf)
+
+[19/01/16 09:42:37][INFO][ebook.metadata.factory.ExcelFactory-2256] ... ...try to insert from 建檔格式...
+[19/01/16 09:42:37][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/16 09:42:37][INFO][ebook.metadata.factory.ExcelFactory-2262] pdf
+[19/01/16 09:42:38][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40644
+[19/01/16 09:42:39][INFO][ebook.metadata.factory.ExcelFactory-2719] insertFromExcel_result:0
+[19/01/16 09:42:39][INFO][ebook.metadata.factory.ExcelFactory-2297] 第14筆 parse done _第14筆寫入資料庫失敗(pdf), 請檢查各欄位值！
+
+[19/01/16 09:42:39][INFO][ebook.metadata.factory.ExcelFactory-520] 第15筆寫入meta(業種:書)... ... start 
+[19/01/16 09:42:40][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1008072
+[19/01/16 09:42:40][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040610已存在!
+[19/01/16 09:42:40][INFO][ebook.metadata.factory.ExcelFactory-2297] 第15筆 parse done _
+[19/01/16 09:42:40][INFO][ebook.metadata.factory.ExcelFactory-520] 第16筆寫入meta(業種:)... ... start 
+[19/01/16 09:42:41][INFO][ebook.metadata.process.ExcelProcess-219] .....parse excel [1007724]100772420190115000.xlsx..........done
+[19/01/16 09:42:51][INFO][ebook.metadata.process.MetadataProcess-997] 書籍&套書設定出版型式...done
+[19/01/16 09:42:53][INFO][ebook.metadata.process.MetadataProcess-1041] 25100009221...找不到對應的雜誌!
+[19/01/16 09:42:56][INFO][ebook.metadata.process.MetadataProcess-1269] 25100009738...已寫入雜誌基本META
+[19/01/16 09:42:58][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000239...找不到對應的雜誌!
+[19/01/16 09:42:59][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000240...找不到對應的雜誌!
+[19/01/16 09:42:59][INFO][ebook.metadata.process.MetadataProcess-1055] setMagazineMeta done!
+[19/01/16 09:46:11][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[19/01/16 09:46:13][INFO][ebook.metadata.process.ExcelProcess-303] [1000697]14100017594 - 
+[19/01/16 09:46:14][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20160810
+[19/01/16 09:46:20][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000697/cite/20160810\ >>> 0(1)
+[19/01/16 09:46:20][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[19/01/16 09:46:21][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/16 09:46:27][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/16 09:46:27][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[19/01/16 09:46:28][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/16 09:46:28][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[19/01/16 09:46:28][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/16 09:46:36][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/16 09:46:37][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[19/01/16 09:46:37][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/16 09:46:37][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[19/01/16 09:46:38][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[19/01/16 09:46:44][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/16 09:46:44][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[19/01/16 09:46:45][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[19/01/16 09:46:45][INFO][ebook.metadata.process.ExcelProcess-303] [1000702]14100040616 - OR1048-001_瓊瑤經典作品全集48：煙鎖重樓.pdf
+[19/01/16 09:46:46][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20190115
+[19/01/16 09:46:55][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000702/cite/20190115\OR1048-001_瓊瑤經典作品全集48：煙鎖重樓.pdf >>> true
+[19/01/16 09:46:55][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000702/cite/20190115\null >>> 0(1)
+[19/01/16 09:46:55][INFO][ebook.metadata.process.ExcelProcess-303] [1000702]14100040625 - OR1048-001_瓊瑤經典作品全集48：煙鎖重樓_epub3.0_數位出版部.epub
+[19/01/16 09:46:56][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20190115
+[19/01/16 09:47:04][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000702/cite/20190115\OR1048-001_瓊瑤經典作品全集48：煙鎖重樓_epub3.0_數位出版部.epub >>> true
+[19/01/16 09:47:04][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000702/cite/20190115\null >>> 0(1)
+[19/01/16 09:47:04][INFO][ebook.metadata.process.ExcelProcess-303] [1007724]14100040632 - 9789869670630.epub
+[19/01/16 09:47:05][INFO][ebook.metadata.factory.ExcelFactory-1737] jingyi**50796545**/jingyi/20190115
+[19/01/16 09:47:12][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007724/jingyi/20190115\9789869670630.epub >>> true
+[19/01/16 09:47:13][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007724/jingyi/20190115\ >>> 0(1)
+[19/01/16 09:47:13][INFO][ebook.metadata.process.ExcelProcess-303] [1007724]14100040633 - 9789869670685.epub
+[19/01/16 09:47:14][INFO][ebook.metadata.factory.ExcelFactory-1737] jingyi**50796545**/jingyi/20190115
+[19/01/16 09:47:22][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007724/jingyi/20190115\9789869670685.epub >>> true
+[19/01/16 09:47:23][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007724/jingyi/20190115\ >>> 0(1)
+[19/01/16 09:47:23][INFO][ebook.metadata.process.ExcelProcess-303] [1007724]14100040634 - 9789869670654.epub
+[19/01/16 09:47:23][INFO][ebook.metadata.factory.ExcelFactory-1737] jingyi**50796545**/jingyi/20190115
+[19/01/16 09:47:31][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007724/jingyi/20190115\9789869670654.epub >>> true
+[19/01/16 09:47:31][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007724/jingyi/20190115\ >>> 0(1)
+[19/01/16 09:47:31][INFO][ebook.metadata.process.ExcelProcess-303] [1007724]14100040635 - 9789869706803.pdf
+[19/01/16 09:47:32][INFO][ebook.metadata.factory.ExcelFactory-1737] jingyi**50796545**/jingyi/20190115
+[19/01/16 09:47:34][INFO][ebook.metadata.process.MediaProcess-144] .....process media files by EXCEL.........start
+[19/01/16 09:47:35][INFO][ebook.metadata.process.MediaProcess-248] .....process media files by EXCEL..........done
+[19/01/16 09:47:43][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007724/jingyi/20190115\9789869706803.pdf >>> true
+[19/01/16 09:47:44][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007724/jingyi/20190115\ >>> 0(1)
+[19/01/16 09:47:44][INFO][ebook.metadata.process.ExcelProcess-303] [1007724]14100040636 - 9789869582926.pdf
+[19/01/16 09:47:45][INFO][ebook.metadata.factory.ExcelFactory-1737] jingyi**50796545**/jingyi/20190115
+[19/01/16 09:47:56][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007724/jingyi/20190115\9789869582926.pdf >>> true
+[19/01/16 09:47:57][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007724/jingyi/20190115\ >>> 0(1)
+[19/01/16 09:47:57][INFO][ebook.metadata.process.ExcelProcess-303] [1007724]14100040637 - 9789869582988.pdf
+[19/01/16 09:47:58][INFO][ebook.metadata.factory.ExcelFactory-1737] jingyi**50796545**/jingyi/20190115
+[19/01/16 09:48:09][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007724/jingyi/20190115\9789869582988.pdf >>> true
+[19/01/16 09:48:10][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007724/jingyi/20190115\ >>> 0(1)
+[19/01/16 09:48:10][INFO][ebook.metadata.process.ExcelProcess-303] [1007724]14100040638 - 9789869582902.pdf
+[19/01/16 09:48:10][INFO][ebook.metadata.factory.ExcelFactory-1737] jingyi**50796545**/jingyi/20190115
+[19/01/16 09:48:22][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007724/jingyi/20190115\9789869582902.pdf >>> true
+[19/01/16 09:48:23][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007724/jingyi/20190115\ >>> 0(1)
+[19/01/16 09:48:23][INFO][ebook.metadata.process.ExcelProcess-303] [1007724]14100040639 - 9789869670661.pdf
+[19/01/16 09:48:24][INFO][ebook.metadata.factory.ExcelFactory-1737] jingyi**50796545**/jingyi/20190115
+[19/01/16 09:48:37][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007724/jingyi/20190115\9789869670661.pdf >>> true
+[19/01/16 09:48:37][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007724/jingyi/20190115\ >>> 0(1)
+[19/01/16 09:48:37][INFO][ebook.metadata.process.ExcelProcess-303] [1007724]14100040640 - 9789869670616.pdf
+[19/01/16 09:48:38][INFO][ebook.metadata.factory.ExcelFactory-1737] jingyi**50796545**/jingyi/20190115
+[19/01/16 09:48:50][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007724/jingyi/20190115\9789869670616.pdf >>> true
+[19/01/16 09:48:51][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007724/jingyi/20190115\ >>> 0(1)
+[19/01/16 09:48:51][INFO][ebook.metadata.process.ExcelProcess-303] [1007724]14100040641 - 9789869582971.pdf
+[19/01/16 09:48:51][INFO][ebook.metadata.factory.ExcelFactory-1737] jingyi**50796545**/jingyi/20190115
+[19/01/16 09:49:05][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007724/jingyi/20190115\9789869582971.pdf >>> true
+[19/01/16 09:49:05][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007724/jingyi/20190115\ >>> 0(1)
+[19/01/16 09:49:05][INFO][ebook.metadata.process.ExcelProcess-303] [1007724]14100040642 - 9789869582933.pdf
+[19/01/16 09:49:06][INFO][ebook.metadata.factory.ExcelFactory-1737] jingyi**50796545**/jingyi/20190115
+[19/01/16 09:49:17][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007724/jingyi/20190115\9789869582933.pdf >>> true
+[19/01/16 09:49:17][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007724/jingyi/20190115\ >>> 0(1)
+[19/01/16 09:49:17][INFO][ebook.metadata.process.ExcelProcess-303] [1007724]14100040643 - 9789869670609.pdf
+[19/01/16 09:49:18][INFO][ebook.metadata.factory.ExcelFactory-1737] jingyi**50796545**/jingyi/20190115
+[19/01/16 09:49:43][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007724/jingyi/20190115\9789869670609.pdf >>> true
+[19/01/16 09:49:43][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007724/jingyi/20190115\ >>> 0(1)
+[19/01/16 09:49:43][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[19/01/16 09:49:44][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[19/01/16 09:49:50][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/16 09:49:50][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[19/01/16 09:49:51][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[19/01/16 09:49:51][INFO][ebook.metadata.process.ExcelProcess-303] [1008079]25100009665 - SPUR_19_02_dmagazine_150.pdf
+[19/01/16 09:49:51][INFO][ebook.metadata.factory.ExcelFactory-1737] jabook**jabookpopo**/jabook/20190110
+[19/01/16 09:49:57][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/16 09:49:57][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008079/jabook/20190110\SPUR_19_02_dmagazine_150.pdf >>> false
+[19/01/16 09:49:58][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008079/jabook/20190110\null >>> 0(1)
+[19/01/16 09:49:58][INFO][ebook.metadata.process.ExcelProcess-303] [1005402]25100009732 - 20194U2月第238期.pdf
+[19/01/16 09:49:59][INFO][ebook.metadata.factory.ExcelFactory-1737] studioclassroom**taazeroom**/studioclassroom/English4U/20190115
+[19/01/16 09:50:18][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1005402/studioclassroom/English4U/20190115\20194U2月第238期.pdf >>> true
+[19/01/16 09:50:18][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\1.mp3
+[19/01/16 09:50:19][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\10.mp3
+[19/01/16 09:50:19][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\11.mp3
+[19/01/16 09:50:20][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\12.mp3
+[19/01/16 09:50:21][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\13.mp3
+[19/01/16 09:50:21][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\14.mp3
+[19/01/16 09:50:22][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\15.mp3
+[19/01/16 09:50:22][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\16.mp3
+[19/01/16 09:50:23][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\17.mp3
+[19/01/16 09:50:24][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\18.mp3
+[19/01/16 09:50:24][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\19.mp3
+[19/01/16 09:50:25][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\2.mp3
+[19/01/16 09:50:25][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\20.mp3
+[19/01/16 09:50:26][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\21.mp3
+[19/01/16 09:50:26][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\22.mp3
+[19/01/16 09:50:27][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\238_mapping.xlsx
+[19/01/16 09:50:27][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\3.mp3
+[19/01/16 09:50:28][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\4.mp3
+[19/01/16 09:50:28][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\43.mp3
+[19/01/16 09:50:29][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\44.mp3
+[19/01/16 09:50:30][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\45.mp3
+[19/01/16 09:50:32][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\5.mp3
+[19/01/16 09:50:33][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\6.mp3
+[19/01/16 09:50:33][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\7.mp3
+[19/01/16 09:50:34][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\8.mp3
+[19/01/16 09:50:34][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\English4U\20190115\\mp3(OK)\9.mp3
+[19/01/16 09:50:36][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1005402/studioclassroom/English4U/20190115\mp3(OK) >>> 26(1)
+[19/01/16 09:50:36][INFO][ebook.metadata.process.ExcelProcess-303] [1009159]25100009734 - HALLO!Germany德語學習誌_第九期_看電視還是網路.pdf
+[19/01/16 09:50:36][INFO][ebook.metadata.factory.ExcelFactory-1737] korea168**T1a6a8ze**/korea168/20190115
+[19/01/16 09:50:48][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1009159/korea168/20190115\HALLO!Germany德語學習誌_第九期_看電視還是網路.pdf >>> true
+[19/01/16 09:50:48][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1009159\korea168\20190115\\MP3_德語09\07-18.mp3
+[19/01/16 09:50:49][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1009159\korea168\20190115\\MP3_德語09\19-26.mp3
+[19/01/16 09:50:50][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1009159\korea168\20190115\\MP3_德語09\27-34.mp3
+[19/01/16 09:50:51][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1009159\korea168\20190115\\MP3_德語09\35-45.mp3
+[19/01/16 09:50:51][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1009159\korea168\20190115\\MP3_德語09\46-53.mp3
+[19/01/16 09:50:52][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1009159\korea168\20190115\\MP3_德語09\54-64.mp3
+[19/01/16 09:50:53][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1009159\korea168\20190115\\MP3_德語09\65-73.mp3
+[19/01/16 09:50:54][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1009159\korea168\20190115\\MP3_德語09\74-79.mp3
+[19/01/16 09:50:54][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1009159\korea168\20190115\\MP3_德語09\80-86.mp3
+[19/01/16 09:50:55][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1009159\korea168\20190115\\MP3_德語09\mapping(德語學習誌9).xls
+[19/01/16 09:50:56][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1009159/korea168/20190115\MP3_德語09 >>> 9(1)
+[19/01/16 09:50:56][INFO][ebook.metadata.process.ExcelProcess-303] [1000883]25100009737 - A665.pdf
+[19/01/16 09:50:57][INFO][ebook.metadata.factory.ExcelFactory-1737] cw**cwebook**/cw/magazine/20190115
+[19/01/16 09:51:06][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000883/cw/magazine/20190115\A665.pdf >>> true
+[19/01/16 09:51:06][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000883/cw/magazine/20190115\ >>> 0(1)
+[19/01/16 09:51:06][INFO][ebook.metadata.process.ExcelProcess-303] [1000880]25100009740 - 廣告雜誌325期-12月號-電子書.pdf
+[19/01/16 09:51:07][INFO][ebook.metadata.factory.ExcelFactory-1737] rock**rolling**/rock/20190115
+[19/01/16 09:51:16][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000880/rock/20190115\廣告雜誌325期-12月號-電子書.pdf >>> true
+[19/01/16 09:51:16][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000880/rock/20190115\null >>> 0(1)
+[19/01/16 09:51:16][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[19/01/16 09:54:32][INFO][ebook.metadata.process.MetadataProcess-79] .......pre-process in ebook ......start 
+[19/01/16 09:54:35][INFO][ebook.metadata.process.MetadataProcess-91] [1000702]14100040616
+[19/01/16 09:54:56][INFO][ebook.metadata.process.MetadataProcess-91] [1000702]14100040625
+[19/01/16 09:55:04][INFO][ebook.metadata.process.MetadataProcess-91] [1007724]14100040632
+[19/01/16 09:55:12][INFO][ebook.metadata.process.MetadataProcess-91] [1007724]14100040633
+[19/01/16 09:55:20][INFO][ebook.metadata.process.MetadataProcess-91] [1007724]14100040634
+[19/01/16 09:55:28][INFO][ebook.metadata.process.MetadataProcess-91] [1007724]14100040635
+[19/01/16 09:55:37][INFO][ebook.metadata.process.MetadataProcess-91] [1007724]14100040636
+[19/01/16 09:55:45][INFO][ebook.metadata.process.MetadataProcess-91] [1007724]14100040637
+[19/01/16 09:55:55][INFO][ebook.metadata.process.MetadataProcess-91] [1007724]14100040638
+[19/01/16 09:56:04][INFO][ebook.metadata.process.MetadataProcess-91] [1007724]14100040639
+[19/01/16 09:56:13][INFO][ebook.metadata.process.MetadataProcess-91] [1007724]14100040640
+[19/01/16 09:56:22][INFO][ebook.metadata.process.MetadataProcess-91] [1007724]14100040641
+[19/01/16 09:56:32][INFO][ebook.metadata.process.MetadataProcess-91] [1007724]14100040642
+[19/01/16 09:56:41][INFO][ebook.metadata.process.MetadataProcess-91] [1007724]14100040643
+[19/01/16 09:56:53][INFO][ebook.metadata.process.MetadataProcess-91] [1005402]25100009732
+[19/01/16 09:57:05][INFO][ebook.metadata.process.MetadataProcess-91] [1009159]25100009734
+[19/01/16 09:57:14][INFO][ebook.metadata.process.MetadataProcess-91] [1000883]25100009737
+[19/01/16 09:57:22][INFO][ebook.metadata.process.MetadataProcess-91] [1009606]25100009738
+[19/01/16 09:57:30][INFO][ebook.metadata.process.MetadataProcess-91] [1000880]25100009740
+[19/01/16 09:57:38][INFO][ebook.metadata.process.MetadataProcess-91] [T000080]25109999996
+[19/01/16 09:57:40][INFO][ebook.metadata.process.MetadataProcess-162] .......pre-process in ebook ......done 
+[19/01/16 09:57:40][INFO][ebook.metadata.process.MetadataProcess-171] .......process COVER ......start 
+[19/01/16 09:57:41][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036252\14100036252.epub
+[19/01/16 09:57:51][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036278\14100036278.epub
+[19/01/16 09:57:54][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036309\14100036309.epub
+[19/01/16 09:57:56][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036310\14100036310.epub
+[19/01/16 09:57:58][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036312\14100036312.epub
+[19/01/16 09:58:01][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036422\14100036422.epub
+[19/01/16 09:58:03][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036463\14100036463.epub
+[19/01/16 09:58:06][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036464\14100036464.epub
+[19/01/16 09:58:09][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036586\14100036586.epub
+[19/01/16 09:58:11][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036588\14100036588.epub
+[19/01/16 09:58:14][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036589\14100036589.epub
+[19/01/16 09:58:16][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036592\14100036592.epub
+[19/01/16 09:58:19][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036712\14100036712.epub
+[19/01/16 09:58:22][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036713\14100036713.epub
+[19/01/16 09:58:25][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036734\14100036734.epub
+[19/01/16 09:58:27][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036761\14100036761.epub
+[19/01/16 09:58:30][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036762\14100036762.epub
+[19/01/16 09:58:41][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100036800\14100036800.pdf
+[19/01/16 09:58:41][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100036800\14100036800.pdf size > 200000000!!
+[19/01/16 09:58:41][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036871\14100036871.epub
+[19/01/16 09:58:43][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036878\14100036878.epub
+[19/01/16 09:58:45][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037075\14100037075.epub
+[19/01/16 09:58:53][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037076\14100037076.epub
+[19/01/16 09:58:56][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037552\14100037552.epub
+[19/01/16 09:58:58][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037761\14100037761.epub
+[19/01/16 09:59:02][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037763\14100037763.epub
+[19/01/16 09:59:06][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038244\14100038244.epub
+[19/01/16 09:59:09][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038458\14100038458.epub
+[19/01/16 09:59:13][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038460\14100038460.epub
+[19/01/16 09:59:16][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038465\14100038465.epub
+[19/01/16 09:59:20][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038478\14100038478.epub
+[19/01/16 09:59:23][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038874\14100038874.epub
+[19/01/16 09:59:26][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039141\14100039141.epub
+[19/01/16 09:59:30][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039142\14100039142.epub
+[19/01/16 09:59:33][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039143\14100039143.epub
+[19/01/16 09:59:36][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039215\14100039215.epub
+[19/01/16 09:59:44][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039352\14100039352.epub
+[19/01/16 09:59:46][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039353\14100039353.epub
+[19/01/16 09:59:49][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039354\14100039354.epub
+[19/01/16 09:59:52][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039355\14100039355.epub
+[19/01/16 09:59:55][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039520\14100039520.epub
+[19/01/16 09:59:57][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039522\14100039522.epub
+[19/01/16 09:59:59][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039523\14100039523.epub
+[19/01/16 10:00:01][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039983\14100039983.epub
+[19/01/16 10:00:05][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040222\14100040222.epub
+[19/01/16 10:00:09][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040616\14100040616.pdf
+[19/01/16 10:00:12][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/16 10:00:12][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/16 10:00:12][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/16 10:00:12][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/16 10:00:12][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/16 10:00:14][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040625\14100040625.epub
+[19/01/16 10:00:17][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040632\14100040632.epub
+[19/01/16 10:00:20][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040633\14100040633.epub
+[19/01/16 10:00:23][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040634\14100040634.epub
+[19/01/16 10:00:26][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040635\14100040635.pdf
+[19/01/16 10:00:26][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/16 10:00:26][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/16 10:00:26][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/16 10:00:26][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/16 10:00:26][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/16 10:00:28][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040636\14100040636.pdf
+[19/01/16 10:00:28][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/16 10:00:28][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/16 10:00:28][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/16 10:00:28][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/16 10:00:28][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/16 10:00:31][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040637\14100040637.pdf
+[19/01/16 10:00:31][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/16 10:00:31][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/16 10:00:31][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/16 10:00:31][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/16 10:00:31][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/16 10:00:37][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040638\14100040638.pdf
+[19/01/16 10:00:37][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/16 10:00:37][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/16 10:00:37][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/16 10:00:37][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/16 10:00:37][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/16 10:00:41][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040639\14100040639.pdf
+[19/01/16 10:00:41][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/16 10:00:41][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/16 10:00:41][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/16 10:00:41][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/16 10:00:41][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/16 10:00:45][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040640\14100040640.pdf
+[19/01/16 10:00:45][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/16 10:00:45][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/16 10:00:45][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/16 10:00:45][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/16 10:00:45][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/16 10:00:51][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040641\14100040641.pdf
+[19/01/16 10:00:51][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/16 10:00:51][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/16 10:00:51][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/16 10:00:51][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/16 10:00:51][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/16 10:00:54][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040642\14100040642.pdf
+[19/01/16 10:00:54][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/16 10:00:54][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/16 10:00:54][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/16 10:00:54][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/16 10:00:54][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/16 10:00:59][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040643\14100040643.pdf
+[19/01/16 10:00:59][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/16 10:00:59][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/16 10:00:59][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/16 10:00:59][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/16 10:00:59][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/16 10:01:03][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\25\25100009732\25100009732.pdf
+[19/01/16 10:01:03][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/16 10:01:03][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/16 10:01:03][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Warning: considering '0000000000 XXXXX n' as a free entry.
+[19/01/16 10:01:04][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/16 10:01:04][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/16 10:01:08][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72] 
+[19/01/16 10:01:08][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** This file had errors that were repaired or ignored.
+[19/01/16 10:01:08][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** The file was produced by: 
+[19/01/16 10:01:08][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** >>>> Mac OS X 10.13.4 Quartz PDFContext <<<<
+[19/01/16 10:01:08][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** Please notify the author of the software that produced this
+[19/01/16 10:01:08][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** file that it does not conform to Adobe's published PDF
+[19/01/16 10:01:08][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72]    **** specification.
+[19/01/16 10:01:08][ERROR][org.ghost4j.GhostscriptLoggerOutputStream-72] 
+[19/01/16 10:01:08][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\25\25100009734\25100009734.pdf
+[19/01/16 10:01:08][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/16 10:01:08][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/16 10:01:08][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/16 10:01:08][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/16 10:01:08][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/16 10:01:12][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\25\25100009737\25100009737.pdf
+[19/01/16 10:01:12][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/16 10:01:12][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/16 10:01:12][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/16 10:01:13][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/16 10:01:13][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/16 10:01:14][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\25\25100009738\25100009738.pdf
+[19/01/16 10:01:14][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/16 10:01:14][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/16 10:01:14][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/16 10:01:14][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/16 10:01:14][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/16 10:01:16][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\25\25100009740\25100009740.pdf
+[19/01/16 10:01:16][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/16 10:01:16][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/16 10:01:16][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/16 10:01:16][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/16 10:01:16][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/16 10:01:17][INFO][ebook.metadata.process.MetadataProcess-223] .......process COVER ......done 
+[19/01/16 10:01:17][INFO][ebook.metadata.process.MetadataProcess-233] .......resize COVER ......start 
+[19/01/16 10:01:18][INFO][ebook.metadata.process.MetadataProcess-254] 14100021048
+[19/01/16 10:01:18][INFO][ebook.metadata.process.MetadataProcess-254] 14100021049
+[19/01/16 10:01:18][INFO][ebook.metadata.process.MetadataProcess-254] 14100021050
+[19/01/16 10:01:18][INFO][ebook.metadata.process.MetadataProcess-254] 14100023996
+[19/01/16 10:01:18][INFO][ebook.metadata.process.MetadataProcess-254] 14100024878
+[19/01/16 10:01:18][INFO][ebook.metadata.process.MetadataProcess-254] 14100040616
+[19/01/16 10:01:21][INFO][ebook.metadata.process.MetadataProcess-254] 14100040635
+[19/01/16 10:01:25][INFO][ebook.metadata.process.MetadataProcess-254] 14100040636
+[19/01/16 10:01:28][INFO][ebook.metadata.process.MetadataProcess-254] 14100040637
+[19/01/16 10:01:32][INFO][ebook.metadata.process.MetadataProcess-254] 14100040638
+[19/01/16 10:01:35][INFO][ebook.metadata.process.MetadataProcess-254] 14100040639
+[19/01/16 10:01:38][INFO][ebook.metadata.process.MetadataProcess-254] 14100040640
+[19/01/16 10:01:42][INFO][ebook.metadata.process.MetadataProcess-254] 14100040641
+[19/01/16 10:01:45][INFO][ebook.metadata.process.MetadataProcess-254] 14100040642
+[19/01/16 10:01:49][INFO][ebook.metadata.process.MetadataProcess-254] 14100040643
+[19/01/16 10:01:53][INFO][ebook.metadata.process.MetadataProcess-254] 25100009732
+[19/01/16 10:01:56][INFO][ebook.metadata.process.MetadataProcess-254] 25100009734
+[19/01/16 10:02:00][INFO][ebook.metadata.process.MetadataProcess-254] 25100009737
+[19/01/16 10:02:04][INFO][ebook.metadata.process.MetadataProcess-254] 25100009738
+[19/01/16 10:02:08][INFO][ebook.metadata.process.MetadataProcess-254] 25100009740
+[19/01/16 10:02:11][INFO][ebook.metadata.process.MetadataProcess-274] .......resize COVER ......done 
+[19/01/16 10:02:11][INFO][ebook.metadata.process.MetadataProcess-379] .......COVER to AWS ......start 
+[19/01/16 10:02:15][INFO][ebook.metadata.process.MetadataProcess-402] 14100040616(true)
+[19/01/16 10:02:17][INFO][ebook.metadata.process.MetadataProcess-402] 14100040625(true)
+[19/01/16 10:02:18][INFO][ebook.metadata.process.MetadataProcess-402] 14100040634(true)
+[19/01/16 10:02:19][INFO][ebook.metadata.process.MetadataProcess-402] 14100040635(true)
+[19/01/16 10:02:21][INFO][ebook.metadata.process.MetadataProcess-402] 14100040636(true)
+[19/01/16 10:02:22][INFO][ebook.metadata.process.MetadataProcess-402] 14100040637(true)
+[19/01/16 10:02:23][INFO][ebook.metadata.process.MetadataProcess-402] 14100040638(true)
+[19/01/16 10:02:24][INFO][ebook.metadata.process.MetadataProcess-402] 14100040639(true)
+[19/01/16 10:02:25][INFO][ebook.metadata.process.MetadataProcess-402] 14100040640(true)
+[19/01/16 10:02:26][INFO][ebook.metadata.process.MetadataProcess-402] 14100040641(true)
+[19/01/16 10:02:27][INFO][ebook.metadata.process.MetadataProcess-402] 14100040642(true)
+[19/01/16 10:02:27][INFO][ebook.metadata.process.MetadataProcess-402] 14100040643(true)
+[19/01/16 10:02:28][INFO][ebook.metadata.process.MetadataProcess-402] 25100009732(true)
+[19/01/16 10:02:29][INFO][ebook.metadata.process.MetadataProcess-402] 25100009734(true)
+[19/01/16 10:02:30][INFO][ebook.metadata.process.MetadataProcess-402] 25100009737(true)
+[19/01/16 10:02:31][INFO][ebook.metadata.process.MetadataProcess-402] 25100009738(true)
+[19/01/16 10:02:32][INFO][ebook.metadata.process.MetadataProcess-402] 25100009740(true)
+[19/01/16 10:02:32][INFO][ebook.metadata.process.MetadataProcess-415] .......COVER to AWS ......done 
+[19/01/16 10:02:32][INFO][ebook.metadata.process.MetadataProcess-433] .......create folder to AWS ......start 
+[19/01/16 10:02:34][INFO][ebook.metadata.process.MetadataProcess-448] 14100040632(true)
+[19/01/16 10:02:34][INFO][ebook.metadata.process.MetadataProcess-448] 14100040633(true)
+[19/01/16 10:02:34][INFO][ebook.metadata.process.MetadataProcess-461] .......create folder to AWS ......done 
+[19/01/16 11:11:30][INFO][ebook.metadata.process.ExcelProcess-55] batchDownloadExcel---- 1
+[19/01/16 11:11:30][INFO][ebook.metadata.factory.ExcelFactory-66] ............check Excel [1009315-mirrormedia] ..........start
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /mirrormedia/20180822
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /mirrormedia/20181031
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /mirrormedia/20181107
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /mirrormedia/20181114
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /mirrormedia/20181121
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /mirrormedia/20181127
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /mirrormedia/20181129
+[19/01/16 11:11:38][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /mirrormedia/20181205
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /mirrormedia/20181212
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /mirrormedia/20181219
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /mirrormedia/20181226
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /mirrormedia/20190102
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /mirrormedia/20190109
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /mirrormedia/20190116
+[19/01/16 11:11:39][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/16 11:11:40][INFO][ebook.metadata.factory.ExcelFactory-330] download...../mirrormedia/20190116/TAAZE數位出版建檔格式.xls >>> D:\eBook\before\1009315\mirrormedia\20190116\100931520190116000.xls
+[19/01/16 11:11:40][INFO][ebook.metadata.factory.ExcelFactory-129] ............check Excel [1009315-mirrormedia]..........done
+[19/01/16 11:13:17][INFO][ebook.metadata.process.InterProcess-261] 2019-01-16...寄出建檔通知
+[19/01/16 11:13:17][INFO][ebook.metadata.process.InterProcess-262] send mail....
+[19/01/16 11:13:18][INFO][ebook.metadata.utils.MailUtils-168] HZYHZY1011@taaze.tw...TAAZE電子書建檔狀況通知 【2019-01-16】
+......Successfully!!
+[19/01/16 11:14:36][INFO][ebook.metadata.process.ExcelProcess-192] .....parse excel [1007724]100772420190115000.xlsx..........start
+[19/01/16 11:14:36][INFO][ebook.metadata.factory.ExcelFactory-475] ----xlsx或xls----
+[19/01/16 11:14:38][INFO][ebook.metadata.factory.ExcelFactory-496] 18
+[19/01/16 11:14:38][INFO][ebook.metadata.factory.ExcelFactory-520] 第2筆寫入meta(業種:書)... ... start 
+[19/01/16 11:14:39][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 11:14:40][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040632已存在!
+[19/01/16 11:14:40][INFO][ebook.metadata.factory.ExcelFactory-2297] 第2筆 parse done _
+[19/01/16 11:14:40][INFO][ebook.metadata.factory.ExcelFactory-520] 第3筆寫入meta(業種:書)... ... start 
+[19/01/16 11:14:44][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 11:14:44][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040633已存在!
+[19/01/16 11:14:44][INFO][ebook.metadata.factory.ExcelFactory-2297] 第3筆 parse done _
+[19/01/16 11:14:44][INFO][ebook.metadata.factory.ExcelFactory-520] 第4筆寫入meta(業種:書)... ... start 
+[19/01/16 11:14:46][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 11:14:47][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040634已存在!
+[19/01/16 11:14:47][INFO][ebook.metadata.factory.ExcelFactory-2297] 第4筆 parse done _
+[19/01/16 11:14:47][INFO][ebook.metadata.factory.ExcelFactory-520] 第5筆寫入meta(業種:書)... ... start 
+[19/01/16 11:14:48][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 11:14:48][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040635已存在!
+[19/01/16 11:14:48][INFO][ebook.metadata.factory.ExcelFactory-2297] 第5筆 parse done _
+[19/01/16 11:14:48][INFO][ebook.metadata.factory.ExcelFactory-520] 第6筆寫入meta(業種:書)... ... start 
+[19/01/16 11:14:49][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 11:14:50][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040636已存在!
+[19/01/16 11:14:50][INFO][ebook.metadata.factory.ExcelFactory-2297] 第6筆 parse done _
+[19/01/16 11:14:50][INFO][ebook.metadata.factory.ExcelFactory-520] 第7筆寫入meta(業種:書)... ... start 
+[19/01/16 11:14:51][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 11:14:52][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040637已存在!
+[19/01/16 11:14:52][INFO][ebook.metadata.factory.ExcelFactory-2297] 第7筆 parse done _
+[19/01/16 11:14:52][INFO][ebook.metadata.factory.ExcelFactory-520] 第8筆寫入meta(業種:書)... ... start 
+[19/01/16 11:14:53][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 11:14:54][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040638已存在!
+[19/01/16 11:14:54][INFO][ebook.metadata.factory.ExcelFactory-2297] 第8筆 parse done _
+[19/01/16 11:14:54][INFO][ebook.metadata.factory.ExcelFactory-520] 第9筆寫入meta(業種:書)... ... start 
+[19/01/16 11:15:04][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 11:15:05][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040639已存在!
+[19/01/16 11:15:05][INFO][ebook.metadata.factory.ExcelFactory-2297] 第9筆 parse done _
+[19/01/16 11:15:05][INFO][ebook.metadata.factory.ExcelFactory-520] 第10筆寫入meta(業種:書)... ... start 
+[19/01/16 11:15:06][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 11:15:06][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040640已存在!
+[19/01/16 11:15:06][INFO][ebook.metadata.factory.ExcelFactory-2297] 第10筆 parse done _
+[19/01/16 11:15:06][INFO][ebook.metadata.factory.ExcelFactory-520] 第11筆寫入meta(業種:書)... ... start 
+[19/01/16 11:15:07][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 11:15:08][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040641已存在!
+[19/01/16 11:15:08][INFO][ebook.metadata.factory.ExcelFactory-2297] 第11筆 parse done _
+[19/01/16 11:15:08][INFO][ebook.metadata.factory.ExcelFactory-520] 第12筆寫入meta(業種:書)... ... start 
+[19/01/16 11:15:09][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 11:15:11][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040642已存在!
+[19/01/16 11:15:11][INFO][ebook.metadata.factory.ExcelFactory-2297] 第12筆 parse done _
+[19/01/16 11:15:11][INFO][ebook.metadata.factory.ExcelFactory-520] 第13筆寫入meta(業種:書)... ... start 
+[19/01/16 11:15:12][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 11:15:13][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040643已存在!
+[19/01/16 11:15:13][INFO][ebook.metadata.factory.ExcelFactory-2297] 第13筆 parse done _
+[19/01/16 11:15:13][INFO][ebook.metadata.factory.ExcelFactory-520] 第14筆寫入meta(業種:書)... ... start 
+[19/01/16 11:15:14][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007724
+[19/01/16 11:15:15][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/16 11:15:15][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/16 11:15:17][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40645
+[19/01/16 11:15:19][ERROR][ebook.metadata.factory.ExcelFactory-2559] (11100855435) isbn = 9789869670647; insert into ebook_meta (ORG_PROD_ID, LOGCODE, PROD_CAT_ID, PUB_ID, SOURCE_FLG, XLS_ID, EBOOK_FORMAT, PAPER_ORG_PROD_ID, CAT_ID, CAT_NAME, TITLE_EXCEL , ISBN, TITLE_MAIN, TITLE_NEXT, AUTHOR_MAIN, AUTHOR_NEXT, PUBLISH_DATE, LIST_PRICE, ORG_FILENAME, MEDIA_FOLDER, TRANSLATOR, EDITOR, PAINTER, COUNTRY_ID, LANGUAGE, CONTRAST, PHONETICS, SALE_AREA, SP_REC, PROD_PF, COVER_STR, AUTHOR_PF, TRANSLATOR_PF, PREFACE, VIEWDATA, PERSON_GUIDE, MEDIA_RCM, PERSON_RCM, AWARD_REC, CATALOGUE, KEYWORDS, SERIES4PUB_ID, SERIES4PUB_NAME, RANK) values(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?, ?,?,?,?,?, ?,?,?,?,?, ?,?,?,?,?, ?,?,?,?,?, ?,?,?,?,?, ?,?,?)java.sql.SQLException: Incorrect string value: '\xF0\xA7\x8A\x85\xE6\xB8...' for column 'CATALOGUE' at row 1
+[19/01/16 11:15:19][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(false)
+[19/01/16 11:15:19][INFO][ebook.metadata.factory.ExcelFactory-2255] ... ...第14筆複製紙本metadata失敗(pdf)
+
+[19/01/16 11:15:19][INFO][ebook.metadata.factory.ExcelFactory-2256] ... ...try to insert from 建檔格式...
+[19/01/16 11:15:19][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/16 11:15:19][INFO][ebook.metadata.factory.ExcelFactory-2262] pdf
+[19/01/16 11:15:22][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40646
+[19/01/16 11:15:22][INFO][ebook.metadata.factory.ExcelFactory-2719] insertFromExcel_result:0
+[19/01/16 11:15:22][INFO][ebook.metadata.factory.ExcelFactory-2297] 第14筆 parse done _第14筆寫入資料庫失敗(pdf), 請檢查各欄位值！
+
+[19/01/16 11:15:22][INFO][ebook.metadata.factory.ExcelFactory-520] 第15筆寫入meta(業種:書)... ... start 
+[19/01/16 11:15:24][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1008072
+[19/01/16 11:15:25][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 14100040610已存在!
+[19/01/16 11:15:25][INFO][ebook.metadata.factory.ExcelFactory-2297] 第15筆 parse done _
+[19/01/16 11:15:25][INFO][ebook.metadata.factory.ExcelFactory-520] 第16筆寫入meta(業種:)... ... start 
+[19/01/16 11:15:30][INFO][ebook.metadata.process.ExcelProcess-219] .....parse excel [1007724]100772420190115000.xlsx..........done
+[19/01/16 11:15:30][INFO][ebook.metadata.process.ExcelProcess-192] .....parse excel [1009315]100931520190116000.xls..........start
+[19/01/16 11:15:30][INFO][ebook.metadata.factory.ExcelFactory-475] ----xlsx或xls----
+[19/01/16 11:15:32][INFO][ebook.metadata.factory.ExcelFactory-496] 2
+[19/01/16 11:15:32][INFO][ebook.metadata.factory.ExcelFactory-520] 第2筆寫入meta(業種:雜誌)... ... start 
+[19/01/16 11:15:34][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/16 11:15:34][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/16 11:15:34][INFO][ebook.metadata.factory.ExcelFactory-2255] ... ...第2筆無法取得紙本metadata
+
+[19/01/16 11:15:34][INFO][ebook.metadata.factory.ExcelFactory-2256] ... ...try to insert from 建檔格式...
+[19/01/16 11:15:34][INFO][ebook.metadata.factory.ExcelFactory-2262] pdf
+[19/01/16 11:15:36][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:9741
+[19/01/16 11:15:36][INFO][ebook.metadata.factory.ExcelFactory-2693] ... ...售價由出版社自訂 : 
+[19/01/16 11:15:38][INFO][ebook.metadata.factory.ExcelFactory-2719] insertFromExcel_result:1
+[19/01/16 11:15:38][INFO][ebook.metadata.factory.ExcelFactory-2297] 第2筆 parse done _
+[19/01/16 11:15:39][INFO][ebook.metadata.process.ExcelProcess-219] .....parse excel [1009315]100931520190116000.xls..........done
+[19/01/16 11:15:49][INFO][ebook.metadata.process.MetadataProcess-997] 書籍&套書設定出版型式...done
+[19/01/16 11:15:51][INFO][ebook.metadata.process.MetadataProcess-1041] 25100009221...找不到對應的雜誌!
+[19/01/16 11:15:54][INFO][ebook.metadata.process.MetadataProcess-1269] 25100009742...已寫入雜誌基本META
+[19/01/16 11:15:55][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000239...找不到對應的雜誌!
+[19/01/16 11:15:56][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000240...找不到對應的雜誌!
+[19/01/16 11:15:56][INFO][ebook.metadata.process.MetadataProcess-1055] setMagazineMeta done!
+[19/01/16 11:18:41][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[19/01/16 11:18:42][INFO][ebook.metadata.process.ExcelProcess-303] [1000697]14100017594 - 
+[19/01/16 11:18:43][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20160810
+[19/01/16 11:18:50][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000697/cite/20160810\ >>> 0(1)
+[19/01/16 11:18:50][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[19/01/16 11:18:50][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/16 11:18:56][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/16 11:18:56][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[19/01/16 11:18:57][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/16 11:18:57][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[19/01/16 11:18:58][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/16 11:19:03][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/16 11:19:04][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[19/01/16 11:19:04][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/16 11:19:04][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[19/01/16 11:19:05][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[19/01/16 11:19:11][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/16 11:19:11][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[19/01/16 11:19:12][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[19/01/16 11:19:12][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[19/01/16 11:19:13][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[19/01/16 11:19:20][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/16 11:19:21][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[19/01/16 11:19:21][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[19/01/16 11:19:21][INFO][ebook.metadata.process.ExcelProcess-303] [1008079]25100009665 - SPUR_19_02_dmagazine_150.pdf
+[19/01/16 11:19:22][INFO][ebook.metadata.factory.ExcelFactory-1737] jabook**jabookpopo**/jabook/20190110
+[19/01/16 11:19:28][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/16 11:19:28][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008079/jabook/20190110\SPUR_19_02_dmagazine_150.pdf >>> false
+[19/01/16 11:19:29][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008079/jabook/20190110\null >>> 0(1)
+[19/01/16 11:19:29][INFO][ebook.metadata.process.ExcelProcess-303] [1009315]25100009742 - 第120期-AB本.pdf
+[19/01/16 11:19:30][INFO][ebook.metadata.factory.ExcelFactory-1737] mirrormedia**66366800**/mirrormedia/20190116
+[19/01/16 11:19:42][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1009315/mirrormedia/20190116\第120期-AB本.pdf >>> true
+[19/01/16 11:19:43][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1009315/mirrormedia/20190116\null >>> 0(1)
+[19/01/16 11:19:43][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[19/01/16 11:21:14][INFO][ebook.metadata.process.MetadataProcess-79] .......pre-process in ebook ......start 
+[19/01/16 11:21:15][INFO][ebook.metadata.process.MetadataProcess-91] [1009315]25100009742
+[19/01/16 11:21:24][INFO][ebook.metadata.process.MetadataProcess-91] [T000080]25109999996
+[19/01/16 11:21:27][INFO][ebook.metadata.process.MetadataProcess-162] .......pre-process in ebook ......done 
+[19/01/16 11:21:27][INFO][ebook.metadata.process.MetadataProcess-171] .......process COVER ......start 
+[19/01/16 11:21:27][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036252\14100036252.epub
+[19/01/16 11:21:38][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036278\14100036278.epub
+[19/01/16 11:21:40][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036309\14100036309.epub
+[19/01/16 11:21:43][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036310\14100036310.epub
+[19/01/16 11:21:45][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036312\14100036312.epub
+[19/01/16 11:21:48][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036422\14100036422.epub
+[19/01/16 11:21:50][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036463\14100036463.epub
+[19/01/16 11:21:53][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036464\14100036464.epub
+[19/01/16 11:21:56][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036586\14100036586.epub
+[19/01/16 11:21:58][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036588\14100036588.epub
+[19/01/16 11:22:01][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036589\14100036589.epub
+[19/01/16 11:22:04][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036592\14100036592.epub
+[19/01/16 11:22:06][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036712\14100036712.epub
+[19/01/16 11:22:10][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036713\14100036713.epub
+[19/01/16 11:22:13][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036734\14100036734.epub
+[19/01/16 11:22:15][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036761\14100036761.epub
+[19/01/16 11:22:18][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036762\14100036762.epub
+[19/01/16 11:22:30][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100036800\14100036800.pdf
+[19/01/16 11:22:30][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100036800\14100036800.pdf size > 200000000!!
+[19/01/16 11:22:30][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036871\14100036871.epub
+[19/01/16 11:22:32][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036878\14100036878.epub
+[19/01/16 11:22:35][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037075\14100037075.epub
+[19/01/16 11:22:43][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037076\14100037076.epub
+[19/01/16 11:22:46][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037552\14100037552.epub
+[19/01/16 11:22:48][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037761\14100037761.epub
+[19/01/16 11:22:53][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037763\14100037763.epub
+[19/01/16 11:22:55][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038244\14100038244.epub
+[19/01/16 11:22:58][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038458\14100038458.epub
+[19/01/16 11:23:02][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038460\14100038460.epub
+[19/01/16 11:23:06][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038465\14100038465.epub
+[19/01/16 11:23:10][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038478\14100038478.epub
+[19/01/16 11:23:13][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038874\14100038874.epub
+[19/01/16 11:23:16][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039141\14100039141.epub
+[19/01/16 11:23:20][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039142\14100039142.epub
+[19/01/16 11:23:22][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039143\14100039143.epub
+[19/01/16 11:23:25][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039215\14100039215.epub
+[19/01/16 11:23:34][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039352\14100039352.epub
+[19/01/16 11:23:36][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039353\14100039353.epub
+[19/01/16 11:23:39][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039354\14100039354.epub
+[19/01/16 11:23:42][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039355\14100039355.epub
+[19/01/16 11:23:45][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039520\14100039520.epub
+[19/01/16 11:23:47][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039522\14100039522.epub
+[19/01/16 11:23:50][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039523\14100039523.epub
+[19/01/16 11:23:52][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039983\14100039983.epub
+[19/01/16 11:23:56][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040222\14100040222.epub
+[19/01/16 11:23:59][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040632\14100040632.epub
+[19/01/16 11:24:01][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040633\14100040633.epub
+[19/01/16 11:24:04][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\25\25100009742\25100009742.pdf
+[19/01/16 11:24:13][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/16 11:24:13][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/16 11:24:13][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/16 11:24:14][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/16 11:24:14][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/16 11:24:17][INFO][ebook.metadata.process.MetadataProcess-223] .......process COVER ......done 
+[19/01/16 11:24:17][INFO][ebook.metadata.process.MetadataProcess-233] .......resize COVER ......start 
+[19/01/16 11:24:17][INFO][ebook.metadata.process.MetadataProcess-254] 14100021048
+[19/01/16 11:24:17][INFO][ebook.metadata.process.MetadataProcess-254] 14100021049
+[19/01/16 11:24:17][INFO][ebook.metadata.process.MetadataProcess-254] 14100021050
+[19/01/16 11:24:17][INFO][ebook.metadata.process.MetadataProcess-254] 14100023996
+[19/01/16 11:24:17][INFO][ebook.metadata.process.MetadataProcess-254] 14100024878
+[19/01/16 11:24:17][INFO][ebook.metadata.process.MetadataProcess-254] 25100009742
+[19/01/16 11:24:25][INFO][ebook.metadata.process.MetadataProcess-274] .......resize COVER ......done 
+[19/01/16 11:24:25][INFO][ebook.metadata.process.MetadataProcess-379] .......COVER to AWS ......start 
+[19/01/16 11:24:36][INFO][ebook.metadata.process.MetadataProcess-402] 25100009742(true)
+[19/01/16 11:24:36][INFO][ebook.metadata.process.MetadataProcess-415] .......COVER to AWS ......done 
+[19/01/16 11:24:36][INFO][ebook.metadata.process.MetadataProcess-433] .......create folder to AWS ......start 
+[19/01/16 11:24:38][INFO][ebook.metadata.process.MetadataProcess-448] 14100040632(true)
+[19/01/16 11:24:38][INFO][ebook.metadata.process.MetadataProcess-448] 14100040633(true)
+[19/01/16 11:24:38][INFO][ebook.metadata.process.MetadataProcess-461] .......create folder to AWS ......done 
+[19/01/16 11:31:12][INFO][ebook.metadata.process.ExcelProcess-55] batchDownloadExcel---- 1
+[19/01/16 11:31:12][INFO][ebook.metadata.factory.ExcelFactory-66] ............check Excel [1007724-jingyi] ..........start
+[19/01/16 11:31:20][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 11:31:20][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /jingyi/20190115
+[19/01/16 11:31:20][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 15
+[19/01/16 11:31:20][INFO][ebook.metadata.factory.ExcelFactory-129] ............check Excel [1007724-jingyi]..........done
+[19/01/16 11:31:43][INFO][ebook.metadata.process.ExcelProcess-55] batchDownloadExcel---- 1
+[19/01/16 11:31:43][INFO][ebook.metadata.factory.ExcelFactory-66] ............check Excel [1007724-jingyi] ..........start
+[19/01/16 11:31:49][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 11:31:49][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /jingyi/20190115
+[19/01/16 11:31:49][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 15
+[19/01/16 11:31:49][INFO][ebook.metadata.factory.ExcelFactory-129] ............check Excel [1007724-jingyi]..........done
+[19/01/16 11:33:33][INFO][ebook.metadata.process.ExcelProcess-55] batchDownloadExcel---- 1
+[19/01/16 11:33:33][INFO][ebook.metadata.factory.ExcelFactory-66] ............check Excel [1007724-jingyi] ..........start
+[19/01/16 11:33:40][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 11:33:40][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /jingyi/20190115
+[19/01/16 11:33:40][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 15
+[19/01/16 11:33:40][INFO][ebook.metadata.factory.ExcelFactory-330] download...../jingyi/20190115/20190107TAAZE.xlsx >>> D:\eBook\before\1007724\jingyi\20190115\100772420190115000.xlsx
+[19/01/16 11:33:40][INFO][ebook.metadata.factory.ExcelFactory-129] ............check Excel [1007724-jingyi]..........done
+[19/01/16 11:33:51][INFO][ebook.metadata.process.MetadataProcess-997] 書籍&套書設定出版型式...done
+[19/01/16 11:33:53][INFO][ebook.metadata.process.MetadataProcess-1041] 25100009221...找不到對應的雜誌!
+[19/01/16 11:33:54][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000239...找不到對應的雜誌!
+[19/01/16 11:33:56][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000240...找不到對應的雜誌!
+[19/01/16 11:33:56][INFO][ebook.metadata.process.MetadataProcess-1055] setMagazineMeta done!
+[19/01/16 11:34:48][INFO][ebook.metadata.process.ExcelProcess-55] batchDownloadExcel---- 1
+[19/01/16 11:34:48][INFO][ebook.metadata.factory.ExcelFactory-66] ............check Excel [1007724-jingyi] ..........start
+[19/01/16 11:34:54][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/16 11:34:54][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /jingyi/20190115
+[19/01/16 11:34:54][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 15
+[19/01/16 11:34:54][INFO][ebook.metadata.factory.ExcelFactory-129] ............check Excel [1007724-jingyi]..........done
+[19/01/16 11:35:04][INFO][ebook.metadata.process.ExcelProcess-192] .....parse excel [1007724]100772420190115000.xlsx..........start
+[19/01/16 11:35:04][INFO][ebook.metadata.factory.ExcelFactory-475] ----xlsx或xls----
+[19/01/16 11:35:05][INFO][ebook.metadata.process.ExcelProcess-219] .....parse excel [1007724]100772420190115000.xlsx..........done
+[19/01/16 11:35:08][INFO][ebook.metadata.process.MetadataProcess-997] 書籍&套書設定出版型式...done
+[19/01/16 11:35:11][INFO][ebook.metadata.process.MetadataProcess-1041] 25100009221...找不到對應的雜誌!
+[19/01/16 11:35:13][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000239...找不到對應的雜誌!
+[19/01/16 11:35:14][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000240...找不到對應的雜誌!
+[19/01/16 11:35:14][INFO][ebook.metadata.process.MetadataProcess-1055] setMagazineMeta done!
+[19/01/16 14:09:20][INFO][ebook.metadata.process.InfoProcess-864] 25100009742...start to sale
+[19/01/16 14:09:22][INFO][ebook.metadata.process.InfoProcess-894] .......試讀 : true
+[19/01/16 14:09:22][INFO][ebook.metadata.factory.ImportFactory-1614] 派送....25100009742(100931501)
+[19/01/16 14:09:22][INFO][ebook.metadata.factory.ImportFactory-1621] 訂閱編號:100931501001
+[19/01/16 14:09:23][INFO][ebook.metadata.factory.ImportFactory-1621] 訂閱編號:100931501002
+[19/01/16 14:09:24][INFO][ebook.metadata.process.InfoProcess-2279] 現有最新期數為...20181003,本期為...120
+[19/01/16 14:09:25][INFO][ebook.metadata.process.InfoProcess-2159] send mail....2019-01-16 14:09:25
+[19/01/16 14:09:26][INFO][ebook.metadata.utils.MailUtils-168] ebook@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-16 14:09:25】
+......Successfully!!
+[19/01/16 14:09:26][ERROR][ebook.metadata.utils.MailUtils-170] ...TAAZE電子書開始銷售通知 【2019-01-16 14:09:25】
+javax.mail.SendFailedException: No recipient addresses
+[19/01/16 14:09:26][ERROR][ebook.metadata.utils.MailUtils-170] sunny106032@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-16 14:09:25】
+com.sun.mail.smtp.SMTPSendFailedException: 552 Requested mail action aborted: Mail size is too small
+
+[19/01/16 14:09:28][INFO][ebook.metadata.utils.MailUtils-168] imottffs@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-16 14:09:25】
+......Successfully!!
+[19/01/16 14:09:29][INFO][ebook.metadata.utils.MailUtils-168] HZYHZY1011@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-16 14:09:25】
+......Successfully!!
+[19/01/16 14:09:29][INFO][ebook.metadata.process.InfoProcess-2195] send mail....done

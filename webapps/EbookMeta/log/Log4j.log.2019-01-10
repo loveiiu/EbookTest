@@ -1,0 +1,559 @@
+[19/01/10 10:23:56][INFO][ebook.metadata.process.ExcelProcess-55] batchDownloadExcel---- 1
+[19/01/10 10:23:56][INFO][ebook.metadata.factory.ExcelFactory-66] ............check Excel [1000537-invest] ..........start
+[19/01/10 10:24:06][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/10 10:24:06][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /invest/20181101
+[19/01/10 10:24:06][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/10 10:24:07][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/10 10:24:07][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /invest/20181108
+[19/01/10 10:24:07][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/10 10:24:07][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/10 10:24:07][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /invest/20181115
+[19/01/10 10:24:07][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/10 10:24:07][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/10 10:24:07][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /invest/20181122
+[19/01/10 10:24:07][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 3
+[19/01/10 10:24:07][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/10 10:24:07][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /invest/20181129
+[19/01/10 10:24:07][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/10 10:24:07][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/10 10:24:07][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /invest/20181206
+[19/01/10 10:24:07][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 3
+[19/01/10 10:24:07][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/10 10:24:07][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /invest/20181213
+[19/01/10 10:24:07][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/10 10:24:08][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/10 10:24:08][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /invest/20181220
+[19/01/10 10:24:08][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/10 10:24:08][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/10 10:24:08][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /invest/20181227
+[19/01/10 10:24:08][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/10 10:24:08][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/10 10:24:08][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /invest/20190103
+[19/01/10 10:24:08][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/10 10:24:08][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/10 10:24:08][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /invest/20190110
+[19/01/10 10:24:08][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/10 10:24:09][INFO][ebook.metadata.factory.ExcelFactory-330] download...../invest/20190110/數位出版建檔格式-2021.xls >>> D:\eBook\before\1000537\invest\20190110\100053720190110000.xls
+[19/01/10 10:24:09][INFO][ebook.metadata.factory.ExcelFactory-129] ............check Excel [1000537-invest]..........done
+[19/01/10 10:24:23][INFO][ebook.metadata.process.ExcelProcess-192] .....parse excel [1000537]100053720190110000.xls..........start
+[19/01/10 10:24:24][INFO][ebook.metadata.factory.ExcelFactory-475] ----xlsx或xls----
+[19/01/10 10:24:24][INFO][ebook.metadata.factory.ExcelFactory-496] 3
+[19/01/10 10:24:24][INFO][ebook.metadata.factory.ExcelFactory-520] 第2筆寫入meta(業種:雜誌)... ... start 
+[19/01/10 10:24:29][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/10 10:24:29][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/10 10:24:29][INFO][ebook.metadata.factory.ExcelFactory-2255] ... ...第2筆無法取得紙本metadata
+
+[19/01/10 10:24:29][INFO][ebook.metadata.factory.ExcelFactory-2256] ... ...try to insert from 建檔格式...
+[19/01/10 10:24:29][INFO][ebook.metadata.factory.ExcelFactory-2262] pdf
+[19/01/10 10:24:30][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:9711
+[19/01/10 10:24:31][INFO][ebook.metadata.factory.ExcelFactory-2693] ... ...售價由出版社自訂 : 
+[19/01/10 10:24:33][INFO][ebook.metadata.factory.ExcelFactory-1979] ... ...試讀設定 : N(N)
+[19/01/10 10:24:33][INFO][ebook.metadata.factory.ExcelFactory-2719] insertFromExcel_result:1
+[19/01/10 10:24:33][INFO][ebook.metadata.factory.ExcelFactory-2297] 第2筆 parse done _
+[19/01/10 10:24:33][INFO][ebook.metadata.factory.ExcelFactory-520] 第3筆寫入meta(業種:)... ... start 
+[19/01/10 10:24:33][INFO][ebook.metadata.process.ExcelProcess-219] .....parse excel [1000537]100053720190110000.xls..........done
+[19/01/10 10:24:43][INFO][ebook.metadata.process.MetadataProcess-997] 書籍&套書設定出版型式...done
+[19/01/10 10:24:45][INFO][ebook.metadata.process.MetadataProcess-1041] 25100009221...找不到對應的雜誌!
+[19/01/10 10:24:48][INFO][ebook.metadata.process.MetadataProcess-1269] 25100009712...已寫入雜誌基本META
+[19/01/10 10:24:49][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000239...找不到對應的雜誌!
+[19/01/10 10:24:51][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000240...找不到對應的雜誌!
+[19/01/10 10:24:51][INFO][ebook.metadata.process.MetadataProcess-1055] setMagazineMeta done!
+[19/01/10 10:25:36][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[19/01/10 10:25:37][INFO][ebook.metadata.process.ExcelProcess-303] [1000697]14100017594 - 
+[19/01/10 10:25:38][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20160810
+[19/01/10 10:25:49][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000697/cite/20160810\ >>> 0(1)
+[19/01/10 10:25:49][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[19/01/10 10:25:50][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/10 10:25:57][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 10:25:57][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[19/01/10 10:25:58][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/10 10:25:58][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[19/01/10 10:25:58][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/10 10:26:06][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 10:26:07][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[19/01/10 10:26:07][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/10 10:26:07][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[19/01/10 10:26:08][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[19/01/10 10:26:14][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 10:26:14][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[19/01/10 10:26:15][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[19/01/10 10:26:15][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[19/01/10 10:26:16][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[19/01/10 10:26:22][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 10:26:22][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[19/01/10 10:26:23][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[19/01/10 10:26:23][INFO][ebook.metadata.process.ExcelProcess-303] [1008079]25100009665 - SPUR_19_02_dmagazine_150.pdf
+[19/01/10 10:26:23][INFO][ebook.metadata.factory.ExcelFactory-1737] jabook**jabookpopo**/jabook/20190110
+[19/01/10 10:26:35][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 10:26:35][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008079/jabook/20190110\SPUR_19_02_dmagazine_150.pdf >>> false
+[19/01/10 10:26:36][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008079/jabook/20190110\null >>> 0(1)
+[19/01/10 10:26:36][INFO][ebook.metadata.process.ExcelProcess-303] [1000537]25100009712 - 先探2021.pdf
+[19/01/10 10:26:37][INFO][ebook.metadata.factory.ExcelFactory-1737] invest**25512561**/invest/20190110
+[19/01/10 10:26:47][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000537/invest/20190110\先探2021.pdf >>> true
+[19/01/10 10:26:47][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000537/invest/20190110\null >>> 0(1)
+[19/01/10 10:26:47][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[19/01/10 10:30:28][INFO][ebook.metadata.process.MetadataProcess-79] .......pre-process in ebook ......start 
+[19/01/10 10:30:29][INFO][ebook.metadata.process.MetadataProcess-91] [1007832]14100040425
+[19/01/10 10:30:34][INFO][ebook.metadata.process.MetadataProcess-91] [1007832]14100040426
+[19/01/10 10:30:39][INFO][ebook.metadata.process.MetadataProcess-91] [1000537]25100009712
+[19/01/10 10:30:55][INFO][ebook.metadata.process.MetadataProcess-91] [T000080]25109999996
+[19/01/10 10:30:58][INFO][ebook.metadata.process.MetadataProcess-162] .......pre-process in ebook ......done 
+[19/01/10 10:30:58][INFO][ebook.metadata.process.MetadataProcess-171] .......process COVER ......start 
+[19/01/10 10:30:59][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036252\14100036252.epub
+[19/01/10 10:31:09][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036278\14100036278.epub
+[19/01/10 10:31:11][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036309\14100036309.epub
+[19/01/10 10:31:13][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036310\14100036310.epub
+[19/01/10 10:31:15][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036312\14100036312.epub
+[19/01/10 10:31:17][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036422\14100036422.epub
+[19/01/10 10:31:20][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036463\14100036463.epub
+[19/01/10 10:31:23][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036464\14100036464.epub
+[19/01/10 10:31:25][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036586\14100036586.epub
+[19/01/10 10:31:27][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036588\14100036588.epub
+[19/01/10 10:31:30][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036589\14100036589.epub
+[19/01/10 10:31:32][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036592\14100036592.epub
+[19/01/10 10:31:34][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036712\14100036712.epub
+[19/01/10 10:31:37][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036713\14100036713.epub
+[19/01/10 10:31:40][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036734\14100036734.epub
+[19/01/10 10:31:42][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036761\14100036761.epub
+[19/01/10 10:31:45][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036762\14100036762.epub
+[19/01/10 10:31:54][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100036800\14100036800.pdf
+[19/01/10 10:31:55][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100036800\14100036800.pdf size > 200000000!!
+[19/01/10 10:31:55][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036871\14100036871.epub
+[19/01/10 10:31:57][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036878\14100036878.epub
+[19/01/10 10:31:59][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037075\14100037075.epub
+[19/01/10 10:32:06][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037076\14100037076.epub
+[19/01/10 10:32:09][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037552\14100037552.epub
+[19/01/10 10:32:11][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037761\14100037761.epub
+[19/01/10 10:32:15][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037763\14100037763.epub
+[19/01/10 10:32:18][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037792\14100037792.epub
+[19/01/10 10:32:21][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038045\14100038045.epub
+[19/01/10 10:32:24][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038244\14100038244.epub
+[19/01/10 10:32:27][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038458\14100038458.epub
+[19/01/10 10:32:31][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038460\14100038460.epub
+[19/01/10 10:32:34][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038465\14100038465.epub
+[19/01/10 10:32:37][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038478\14100038478.epub
+[19/01/10 10:32:40][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038874\14100038874.epub
+[19/01/10 10:32:42][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039141\14100039141.epub
+[19/01/10 10:32:46][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039142\14100039142.epub
+[19/01/10 10:32:48][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039143\14100039143.epub
+[19/01/10 10:32:51][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039215\14100039215.epub
+[19/01/10 10:32:59][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039352\14100039352.epub
+[19/01/10 10:33:01][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039353\14100039353.epub
+[19/01/10 10:33:03][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039354\14100039354.epub
+[19/01/10 10:33:06][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039355\14100039355.epub
+[19/01/10 10:33:09][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039520\14100039520.epub
+[19/01/10 10:33:11][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039522\14100039522.epub
+[19/01/10 10:33:13][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039523\14100039523.epub
+[19/01/10 10:33:15][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039874\14100039874.epub
+[19/01/10 10:33:17][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039875\14100039875.epub
+[19/01/10 10:33:19][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100039961\14100039961.pdf
+[19/01/10 10:33:19][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100039961\14100039961.pdf size > 200000000!!
+[19/01/10 10:33:19][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100039971\14100039971.pdf
+[19/01/10 10:33:19][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100039971\14100039971.pdf size > 200000000!!
+[19/01/10 10:33:19][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039983\14100039983.epub
+[19/01/10 10:33:22][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040156\14100040156.pdf
+[19/01/10 10:33:22][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100040156\14100040156.pdf size > 200000000!!
+[19/01/10 10:33:22][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040157\14100040157.pdf
+[19/01/10 10:33:22][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100040157\14100040157.pdf size > 200000000!!
+[19/01/10 10:33:22][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040160\14100040160.pdf
+[19/01/10 10:33:22][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100040160\14100040160.pdf size > 200000000!!
+[19/01/10 10:33:22][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040161\14100040161.pdf
+[19/01/10 10:33:22][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100040161\14100040161.pdf size > 200000000!!
+[19/01/10 10:33:22][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040181\14100040181.epub
+[19/01/10 10:33:25][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040182\14100040182.epub
+[19/01/10 10:33:27][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040183\14100040183.epub
+[19/01/10 10:33:29][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040184\14100040184.epub
+[19/01/10 10:33:31][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040185\14100040185.epub
+[19/01/10 10:33:33][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040186\14100040186.epub
+[19/01/10 10:33:35][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040187\14100040187.epub
+[19/01/10 10:33:37][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040188\14100040188.epub
+[19/01/10 10:33:40][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040189\14100040189.epub
+[19/01/10 10:33:42][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040190\14100040190.epub
+[19/01/10 10:33:44][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040191\14100040191.epub
+[19/01/10 10:33:46][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040192\14100040192.epub
+[19/01/10 10:33:48][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040193\14100040193.epub
+[19/01/10 10:33:50][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040194\14100040194.epub
+[19/01/10 10:33:52][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040195\14100040195.epub
+[19/01/10 10:33:54][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040222\14100040222.epub
+[19/01/10 10:33:58][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040416\14100040416.epub
+[19/01/10 10:34:00][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\25\25100009712\25100009712.pdf
+[19/01/10 10:34:01][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] GPL Ghostscript 9.18 (2015-10-05)
+[19/01/10 10:34:01][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Copyright (C) 2015 Artifex Software, Inc.  All rights reserved.
+[19/01/10 10:34:01][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] This software comes with NO WARRANTY: see the file PUBLIC for details.
+[19/01/10 10:34:01][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Processing pages 1 through 1.
+[19/01/10 10:34:01][INFO][org.ghost4j.GhostscriptLoggerOutputStream-72] Page 1
+[19/01/10 10:34:04][INFO][ebook.metadata.process.MetadataProcess-223] .......process COVER ......done 
+[19/01/10 10:34:04][INFO][ebook.metadata.process.MetadataProcess-233] .......resize COVER ......start 
+[19/01/10 10:34:05][INFO][ebook.metadata.process.MetadataProcess-254] 14100021048
+[19/01/10 10:34:05][INFO][ebook.metadata.process.MetadataProcess-254] 14100021049
+[19/01/10 10:34:05][INFO][ebook.metadata.process.MetadataProcess-254] 14100021050
+[19/01/10 10:34:05][INFO][ebook.metadata.process.MetadataProcess-254] 14100023996
+[19/01/10 10:34:05][INFO][ebook.metadata.process.MetadataProcess-254] 14100024878
+[19/01/10 10:34:05][INFO][ebook.metadata.process.MetadataProcess-254] 25100009712
+[19/01/10 10:34:09][INFO][ebook.metadata.process.MetadataProcess-274] .......resize COVER ......done 
+[19/01/10 10:34:09][INFO][ebook.metadata.process.MetadataProcess-379] .......COVER to AWS ......start 
+[19/01/10 10:34:13][INFO][ebook.metadata.process.MetadataProcess-402] 25100009712(true)
+[19/01/10 10:34:13][INFO][ebook.metadata.process.MetadataProcess-415] .......COVER to AWS ......done 
+[19/01/10 10:34:13][INFO][ebook.metadata.process.MetadataProcess-433] .......create folder to AWS ......start 
+[19/01/10 10:34:15][INFO][ebook.metadata.process.MetadataProcess-461] .......create folder to AWS ......done 
+[19/01/10 10:34:15][INFO][ebook.metadata.process.InterProcess-37] copy to 246 ......start
+[19/01/10 10:34:16][INFO][ebook.metadata.process.InterProcess-58] E:\Dropbox\eBook\after\25\25100009712\25100009712.pdf
+[19/01/10 10:34:16][ERROR][ebook.metadata.utils.ToolKits-296] s=E:\Dropbox\eBook\after\25\25100009712\25100009712.pdf
+t=\\192.168.10.246\ebook\工讀生資料夾\電子書PDF-待檢查-全\25100009712.pdf
+java.io.FileNotFoundException: \\192.168.10.246\ebook\工讀生資料夾\電子書PDF-待檢查-全\25100009712.pdf (存取被拒。)
+[19/01/10 10:34:16][INFO][ebook.metadata.process.InterProcess-67] false
+[19/01/10 10:34:16][INFO][ebook.metadata.process.InterProcess-78] copy to 246 ......done
+[19/01/10 13:06:07][INFO][ebook.metadata.process.InfoProcess-864] "25100009712"...start to sale
+[19/01/10 13:06:08][INFO][ebook.metadata.process.InfoProcess-894] .......試讀 : true
+[19/01/10 13:06:09][INFO][ebook.metadata.process.InfoProcess-2157] send mail....2019-01-10 13:06:09
+[19/01/10 13:06:11][INFO][ebook.metadata.utils.MailUtils-168] ebook@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-10 13:06:09】
+......Successfully!!
+[19/01/10 13:06:11][ERROR][ebook.metadata.utils.MailUtils-170] ...TAAZE電子書開始銷售通知 【2019-01-10 13:06:09】
+javax.mail.SendFailedException: No recipient addresses
+[19/01/10 13:06:12][INFO][ebook.metadata.utils.MailUtils-168] sunny106032@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-10 13:06:09】
+......Successfully!!
+[19/01/10 13:06:13][INFO][ebook.metadata.utils.MailUtils-168] imottffs@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-10 13:06:09】
+......Successfully!!
+[19/01/10 13:06:14][INFO][ebook.metadata.utils.MailUtils-168] HZYHZY1011@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-10 13:06:09】
+......Successfully!!
+[19/01/10 13:06:14][INFO][ebook.metadata.process.InfoProcess-2193] send mail....done
+[19/01/10 14:01:33][INFO][ebook.metadata.process.InfoProcess-864] 25100009712...start to sale
+[19/01/10 14:01:34][INFO][ebook.metadata.process.InfoProcess-894] .......試讀 : false
+[19/01/10 14:01:34][INFO][ebook.metadata.factory.ImportFactory-1614] 派送....25100009712(100053701)
+[19/01/10 14:01:34][INFO][ebook.metadata.factory.ImportFactory-1621] 訂閱編號:100053701001
+[19/01/10 14:01:37][INFO][ebook.metadata.factory.ImportFactory-1730] (select CUST_ID from ORDER_MAS where MAS_NO=ORDER_ITEM.MAS_NO and ORDER_ITEM.MAS_NO ='01803197687959' )= 'youbest1151' and PROD_ID='25100006534' and  MAS_NO='01803197687959' 
+[19/01/10 14:01:37][INFO][ebook.metadata.factory.ImportFactory-1731] 訂單狀態:
+[19/01/10 14:01:40][INFO][ebook.metadata.utils.MailUtils-72] send mail....youbest1151-25100006534-25100009712
+[19/01/10 14:01:41][INFO][ebook.metadata.utils.MailUtils-168] ewlhpc@gmail.com...TAAZE電子雜誌訂閱  新刊通知【先探投資週刊 0110/2019 第2021期】
+......Successfully!!
+[19/01/10 14:01:41][INFO][ebook.metadata.utils.MailUtils-95] send mail....done
+[19/01/10 14:01:42][INFO][ebook.metadata.factory.ImportFactory-1621] 訂閱編號:100053701002
+[19/01/10 14:01:42][INFO][ebook.metadata.factory.ImportFactory-1621] 訂閱編號:100053701003
+[19/01/10 14:01:43][INFO][ebook.metadata.process.InfoProcess-2277] 原本最新期數為...2020更新為...2021
+[19/01/10 14:01:44][INFO][ebook.metadata.process.InfoProcess-2159] send mail....2019-01-10 14:01:44
+[19/01/10 14:01:45][INFO][ebook.metadata.utils.MailUtils-168] ebook@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-10 14:01:44】
+......Successfully!!
+[19/01/10 14:01:45][ERROR][ebook.metadata.utils.MailUtils-170] ...TAAZE電子書開始銷售通知 【2019-01-10 14:01:44】
+javax.mail.SendFailedException: No recipient addresses
+[19/01/10 14:01:46][INFO][ebook.metadata.utils.MailUtils-168] sunny106032@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-10 14:01:44】
+......Successfully!!
+[19/01/10 14:01:47][INFO][ebook.metadata.utils.MailUtils-168] imottffs@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-10 14:01:44】
+......Successfully!!
+[19/01/10 14:01:48][INFO][ebook.metadata.utils.MailUtils-168] HZYHZY1011@taaze.tw...TAAZE電子書開始銷售通知 【2019-01-10 14:01:44】
+......Successfully!!
+[19/01/10 14:01:48][INFO][ebook.metadata.process.InfoProcess-2195] send mail....done
+[19/01/10 14:43:28][INFO][ebook.metadata.process.InterProcess-261] 2019-01-10...寄出建檔通知
+[19/01/10 14:43:28][INFO][ebook.metadata.process.InterProcess-262] send mail....
+[19/01/10 14:43:30][INFO][ebook.metadata.utils.MailUtils-168] HZYHZY1011@taaze.tw...TAAZE電子書建檔狀況通知 【2019-01-10】
+......Successfully!!
+[19/01/10 15:20:06][INFO][ebook.metadata.process.ExcelProcess-55] batchDownloadExcel---- 1
+[19/01/10 15:20:06][INFO][ebook.metadata.factory.ExcelFactory-66] ............check Excel [1001403-showwe2] ..........start
+[19/01/10 15:20:13][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/10 15:20:13][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /showwe2/20181122
+[19/01/10 15:20:13][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 13
+[19/01/10 15:20:13][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/10 15:20:13][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /showwe2/20190105
+[19/01/10 15:20:13][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 5
+[19/01/10 15:20:13][INFO][ebook.metadata.factory.ExcelFactory-330] download...../showwe2/20190105/20190104TazzeBookData外版.xls >>> D:\eBook\before\1001403\showwe2\20190105\100140320190105000.xls
+[19/01/10 15:20:14][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/10 15:20:14][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /showwe2/20190109
+[19/01/10 15:20:14][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 3
+[19/01/10 15:20:14][INFO][ebook.metadata.factory.ExcelFactory-129] ............check Excel [1001403-showwe2]..........done
+[19/01/10 15:20:39][INFO][ebook.metadata.process.ExcelProcess-192] .....parse excel [1001403]100140320190105000.xls..........start
+[19/01/10 15:20:39][INFO][ebook.metadata.factory.ExcelFactory-475] ----xlsx或xls----
+[19/01/10 15:20:40][INFO][ebook.metadata.factory.ExcelFactory-496] 3
+[19/01/10 15:20:40][INFO][ebook.metadata.factory.ExcelFactory-520] 第2筆寫入meta(業種:書)... ... start 
+[19/01/10 15:20:42][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007832
+[19/01/10 15:20:43][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/10 15:20:43][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/10 15:20:43][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40432
+[19/01/10 15:20:46][INFO][ebook.metadata.factory.ExcelFactory-2029] ________________DEFAULT_PRICE_TYPE...2(OK)
+[19/01/10 15:20:46][INFO][ebook.metadata.factory.ExcelFactory-2547] ... ...售價由出版社自訂 : 120
+[19/01/10 15:20:46][INFO][ebook.metadata.factory.ExcelFactory-1979] ... ...試讀設定 : Y(Y)
+[19/01/10 15:20:46][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(true)
+[19/01/10 15:20:46][INFO][ebook.metadata.factory.ExcelFactory-2297] 第2筆 parse done _
+[19/01/10 15:20:46][INFO][ebook.metadata.factory.ExcelFactory-520] 第3筆寫入meta(業種:書)... ... start 
+[19/01/10 15:20:47][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007832
+[19/01/10 15:20:48][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/10 15:20:48][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/10 15:20:48][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40433
+[19/01/10 15:20:50][INFO][ebook.metadata.factory.ExcelFactory-2029] ________________DEFAULT_PRICE_TYPE...2(OK)
+[19/01/10 15:20:50][INFO][ebook.metadata.factory.ExcelFactory-2547] ... ...售價由出版社自訂 : 216
+[19/01/10 15:20:51][INFO][ebook.metadata.factory.ExcelFactory-1979] ... ...試讀設定 : Y(Y)
+[19/01/10 15:20:51][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(true)
+[19/01/10 15:20:51][INFO][ebook.metadata.factory.ExcelFactory-2297] 第3筆 parse done _
+[19/01/10 15:20:52][INFO][ebook.metadata.process.ExcelProcess-219] .....parse excel [1001403]100140320190105000.xls..........done
+[19/01/10 15:21:01][INFO][ebook.metadata.process.MetadataProcess-997] 書籍&套書設定出版型式...done
+[19/01/10 15:21:03][INFO][ebook.metadata.process.MetadataProcess-1041] 25100009221...找不到對應的雜誌!
+[19/01/10 15:21:04][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000239...找不到對應的雜誌!
+[19/01/10 15:21:06][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000240...找不到對應的雜誌!
+[19/01/10 15:21:06][INFO][ebook.metadata.process.MetadataProcess-1055] setMagazineMeta done!
+[19/01/10 15:21:22][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[19/01/10 15:21:24][INFO][ebook.metadata.process.ExcelProcess-303] [1000697]14100017594 - 
+[19/01/10 15:21:24][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20160810
+[19/01/10 15:21:31][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000697/cite/20160810\ >>> 0(1)
+[19/01/10 15:21:31][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[19/01/10 15:21:32][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/10 15:21:39][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 15:21:39][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[19/01/10 15:21:40][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/10 15:21:40][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[19/01/10 15:21:40][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/10 15:21:46][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 15:21:47][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[19/01/10 15:21:47][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/10 15:21:47][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[19/01/10 15:21:48][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[19/01/10 15:21:54][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 15:21:54][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[19/01/10 15:21:55][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[19/01/10 15:21:55][INFO][ebook.metadata.process.ExcelProcess-303] [1007832]14100040433 - 9789860559231.epub
+[19/01/10 15:21:56][INFO][ebook.metadata.factory.ExcelFactory-1737] showwe2**showwe3638**/showwe2/20190105
+[19/01/10 15:22:02][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007832/showwe2/20190105\9789860559231.epub >>> false
+[19/01/10 15:22:03][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007832/showwe2/20190105\ >>> 0(1)
+[19/01/10 15:22:03][INFO][ebook.metadata.process.ExcelProcess-303] [1007832]14100040434 - 9789869717700.epub
+[19/01/10 15:22:04][INFO][ebook.metadata.factory.ExcelFactory-1737] showwe2**showwe3638**/showwe2/20190105
+[19/01/10 15:22:11][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007832/showwe2/20190105\9789869717700.epub >>> false
+[19/01/10 15:22:11][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007832/showwe2/20190105\ >>> 0(1)
+[19/01/10 15:22:11][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[19/01/10 15:22:12][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[19/01/10 15:22:19][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 15:22:20][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[19/01/10 15:22:20][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[19/01/10 15:22:20][INFO][ebook.metadata.process.ExcelProcess-303] [1008079]25100009665 - SPUR_19_02_dmagazine_150.pdf
+[19/01/10 15:22:21][INFO][ebook.metadata.factory.ExcelFactory-1737] jabook**jabookpopo**/jabook/20190110
+[19/01/10 15:22:27][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 15:22:27][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008079/jabook/20190110\SPUR_19_02_dmagazine_150.pdf >>> false
+[19/01/10 15:22:28][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008079/jabook/20190110\null >>> 0(1)
+[19/01/10 15:22:28][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[19/01/10 15:29:34][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[19/01/10 15:29:35][INFO][ebook.metadata.process.ExcelProcess-303] [1000697]14100017594 - 
+[19/01/10 15:29:36][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20160810
+[19/01/10 15:29:42][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000697/cite/20160810\ >>> 0(1)
+[19/01/10 15:29:42][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[19/01/10 15:29:43][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/10 15:29:48][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 15:29:49][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[19/01/10 15:29:49][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/10 15:29:49][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[19/01/10 15:29:50][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/10 15:29:56][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 15:29:56][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[19/01/10 15:29:57][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/10 15:29:57][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[19/01/10 15:29:58][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[19/01/10 15:30:04][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 15:30:04][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[19/01/10 15:30:05][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[19/01/10 15:30:05][INFO][ebook.metadata.process.ExcelProcess-303] [1007832]14100040433 - 9789860559231.epub
+[19/01/10 15:30:05][INFO][ebook.metadata.factory.ExcelFactory-1737] showwe2**showwe3638**/showwe2/20190105
+[19/01/10 15:30:12][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007832/showwe2/20190105\9789860559231.epub >>> false
+[19/01/10 15:30:13][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007832/showwe2/20190105\ >>> 0(1)
+[19/01/10 15:30:13][INFO][ebook.metadata.process.ExcelProcess-303] [1007832]14100040434 - 9789869717700.epub
+[19/01/10 15:30:13][INFO][ebook.metadata.factory.ExcelFactory-1737] showwe2**showwe3638**/showwe2/20190105
+[19/01/10 15:30:20][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007832/showwe2/20190105\9789869717700.epub >>> false
+[19/01/10 15:30:20][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007832/showwe2/20190105\ >>> 0(1)
+[19/01/10 15:30:20][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[19/01/10 15:30:21][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[19/01/10 15:30:27][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 15:30:28][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[19/01/10 15:30:29][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[19/01/10 15:30:29][INFO][ebook.metadata.process.ExcelProcess-303] [1008079]25100009665 - SPUR_19_02_dmagazine_150.pdf
+[19/01/10 15:30:30][INFO][ebook.metadata.factory.ExcelFactory-1737] jabook**jabookpopo**/jabook/20190110
+[19/01/10 15:30:37][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 15:30:38][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008079/jabook/20190110\SPUR_19_02_dmagazine_150.pdf >>> false
+[19/01/10 15:30:38][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008079/jabook/20190110\null >>> 0(1)
+[19/01/10 15:30:38][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[19/01/10 15:31:55][INFO][ebook.metadata.process.InterProcess-261] 2019-01-10...寄出建檔通知
+[19/01/10 15:31:55][INFO][ebook.metadata.process.InterProcess-262] send mail....
+[19/01/10 15:31:56][INFO][ebook.metadata.utils.MailUtils-168] HZYHZY1011@taaze.tw...TAAZE電子書建檔狀況通知 【2019-01-10】
+......Successfully!!
+[19/01/10 15:53:22][INFO][ebook.metadata.process.ExcelProcess-55] batchDownloadExcel---- 1
+[19/01/10 15:53:22][INFO][ebook.metadata.factory.ExcelFactory-66] ............check Excel [1001403-showwe2] ..........start
+[19/01/10 15:53:28][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/10 15:53:28][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /showwe2/20181122
+[19/01/10 15:53:28][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 13
+[19/01/10 15:53:28][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/10 15:53:28][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /showwe2/20190106
+[19/01/10 15:53:28][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 5
+[19/01/10 15:53:29][INFO][ebook.metadata.factory.ExcelFactory-330] download...../showwe2/20190106/20190104TazzeBookData外版-琦.xls >>> D:\eBook\before\1001403\showwe2\20190106\100140320190106000.xls
+[19/01/10 15:53:29][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/10 15:53:29][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /showwe2/20190109
+[19/01/10 15:53:29][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 3
+[19/01/10 15:53:29][INFO][ebook.metadata.factory.ExcelFactory-129] ............check Excel [1001403-showwe2]..........done
+[19/01/10 15:55:30][INFO][ebook.metadata.process.ExcelProcess-192] .....parse excel [1001403]100140320190106000.xls..........start
+[19/01/10 15:55:30][INFO][ebook.metadata.factory.ExcelFactory-475] ----xlsx或xls----
+[19/01/10 15:55:31][INFO][ebook.metadata.factory.ExcelFactory-496] 5
+[19/01/10 15:55:31][INFO][ebook.metadata.factory.ExcelFactory-520] 第4筆寫入meta(業種:書)... ... start 
+[19/01/10 15:55:32][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007832
+[19/01/10 15:55:32][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/10 15:55:32][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/10 15:55:33][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40434
+[19/01/10 15:55:35][INFO][ebook.metadata.factory.ExcelFactory-2029] ________________DEFAULT_PRICE_TYPE...2(OK)
+[19/01/10 15:55:35][INFO][ebook.metadata.factory.ExcelFactory-2547] ... ...售價由出版社自訂 : 120
+[19/01/10 15:55:35][INFO][ebook.metadata.factory.ExcelFactory-1979] ... ...試讀設定 : Y(Y)
+[19/01/10 15:55:35][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(true)
+[19/01/10 15:55:35][INFO][ebook.metadata.factory.ExcelFactory-2297] 第4筆 parse done _
+[19/01/10 15:55:35][INFO][ebook.metadata.factory.ExcelFactory-520] 第5筆寫入meta(業種:書)... ... start 
+[19/01/10 15:55:36][INFO][ebook.metadata.factory.ExcelFactory-2117] ... ...自訂子出版社:1007832
+[19/01/10 15:55:37][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/10 15:55:37][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/10 15:55:37][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:40435
+[19/01/10 15:55:39][INFO][ebook.metadata.factory.ExcelFactory-2029] ________________DEFAULT_PRICE_TYPE...2(OK)
+[19/01/10 15:55:39][INFO][ebook.metadata.factory.ExcelFactory-2547] ... ...售價由出版社自訂 : 216
+[19/01/10 15:55:40][INFO][ebook.metadata.factory.ExcelFactory-1979] ... ...試讀設定 : Y(Y)
+[19/01/10 15:55:40][INFO][ebook.metadata.factory.ExcelFactory-2574] saveToEbookMetaFromOracelRS...(true)
+[19/01/10 15:55:40][INFO][ebook.metadata.factory.ExcelFactory-2297] 第5筆 parse done _
+[19/01/10 15:55:40][INFO][ebook.metadata.process.ExcelProcess-219] .....parse excel [1001403]100140320190106000.xls..........done
+[19/01/10 15:55:44][INFO][ebook.metadata.process.MetadataProcess-997] 書籍&套書設定出版型式...done
+[19/01/10 15:55:46][INFO][ebook.metadata.process.MetadataProcess-1041] 25100009221...找不到對應的雜誌!
+[19/01/10 15:55:47][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000239...找不到對應的雜誌!
+[19/01/10 15:55:48][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000240...找不到對應的雜誌!
+[19/01/10 15:55:48][INFO][ebook.metadata.process.MetadataProcess-1055] setMagazineMeta done!
+[19/01/10 15:56:13][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[19/01/10 15:56:15][INFO][ebook.metadata.process.ExcelProcess-303] [1000697]14100017594 - 
+[19/01/10 15:56:15][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20160810
+[19/01/10 15:56:22][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000697/cite/20160810\ >>> 0(1)
+[19/01/10 15:56:22][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[19/01/10 15:56:23][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/10 15:56:29][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 15:56:30][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[19/01/10 15:56:30][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/10 15:56:30][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[19/01/10 15:56:31][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/10 15:56:37][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 15:56:37][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[19/01/10 15:56:37][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/10 15:56:37][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[19/01/10 15:56:38][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[19/01/10 15:56:46][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 15:56:47][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[19/01/10 15:56:47][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[19/01/10 15:56:47][INFO][ebook.metadata.process.ExcelProcess-303] [1007832]14100040433 - 9789860559231.epub
+[19/01/10 15:56:48][INFO][ebook.metadata.factory.ExcelFactory-1737] showwe2**showwe3638**/showwe2/20190105
+[19/01/10 15:56:56][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 15:56:56][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007832/showwe2/20190105\9789860559231.epub >>> false
+[19/01/10 15:56:56][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007832/showwe2/20190105\ >>> 0(1)
+[19/01/10 15:56:56][INFO][ebook.metadata.process.ExcelProcess-303] [1007832]14100040434 - 9789869717700.epub
+[19/01/10 15:56:57][INFO][ebook.metadata.factory.ExcelFactory-1737] showwe2**showwe3638**/showwe2/20190105
+[19/01/10 15:57:03][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 15:57:03][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007832/showwe2/20190105\9789869717700.epub >>> false
+[19/01/10 15:57:04][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007832/showwe2/20190105\ >>> 0(1)
+[19/01/10 15:57:04][INFO][ebook.metadata.process.ExcelProcess-303] [1007832]14100040435 - 9789860559231.epub
+[19/01/10 15:57:05][INFO][ebook.metadata.factory.ExcelFactory-1737] showwe2**showwe3638**/showwe2/20190106
+[19/01/10 15:57:19][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007832/showwe2/20190106\9789860559231.epub >>> true
+[19/01/10 15:57:19][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007832/showwe2/20190106\ >>> 0(1)
+[19/01/10 15:57:19][INFO][ebook.metadata.process.ExcelProcess-303] [1007832]14100040436 - 9789869717700.epub
+[19/01/10 15:57:20][INFO][ebook.metadata.factory.ExcelFactory-1737] showwe2**showwe3638**/showwe2/20190106
+[19/01/10 15:57:28][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007832/showwe2/20190106\9789869717700.epub >>> true
+[19/01/10 15:57:29][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007832/showwe2/20190106\ >>> 0(1)
+[19/01/10 15:57:29][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[19/01/10 15:57:29][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[19/01/10 15:57:35][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 15:57:36][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[19/01/10 15:57:36][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[19/01/10 15:57:36][INFO][ebook.metadata.process.ExcelProcess-303] [1008079]25100009665 - SPUR_19_02_dmagazine_150.pdf
+[19/01/10 15:57:37][INFO][ebook.metadata.factory.ExcelFactory-1737] jabook**jabookpopo**/jabook/20190110
+[19/01/10 15:57:43][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/10 15:57:43][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008079/jabook/20190110\SPUR_19_02_dmagazine_150.pdf >>> false
+[19/01/10 15:57:43][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008079/jabook/20190110\null >>> 0(1)
+[19/01/10 15:57:43][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[19/01/10 15:58:13][INFO][ebook.metadata.process.MetadataProcess-79] .......pre-process in ebook ......start 
+[19/01/10 15:58:14][INFO][ebook.metadata.process.MetadataProcess-91] [1007832]14100040425
+[19/01/10 15:58:20][INFO][ebook.metadata.process.MetadataProcess-91] [1007832]14100040426
+[19/01/10 15:58:25][INFO][ebook.metadata.process.MetadataProcess-91] [1007832]14100040435
+[19/01/10 15:58:43][INFO][ebook.metadata.process.MetadataProcess-91] [1007832]14100040436
+[19/01/10 15:58:51][INFO][ebook.metadata.process.MetadataProcess-91] [T000080]25109999996
+[19/01/10 15:58:53][INFO][ebook.metadata.process.MetadataProcess-162] .......pre-process in ebook ......done 
+[19/01/10 15:58:53][INFO][ebook.metadata.process.MetadataProcess-171] .......process COVER ......start 
+[19/01/10 15:58:54][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036252\14100036252.epub
+[19/01/10 15:59:04][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036278\14100036278.epub
+[19/01/10 15:59:07][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036309\14100036309.epub
+[19/01/10 15:59:09][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036310\14100036310.epub
+[19/01/10 15:59:12][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036312\14100036312.epub
+[19/01/10 15:59:14][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036422\14100036422.epub
+[19/01/10 15:59:17][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036463\14100036463.epub
+[19/01/10 15:59:20][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036464\14100036464.epub
+[19/01/10 15:59:24][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036586\14100036586.epub
+[19/01/10 15:59:26][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036588\14100036588.epub
+[19/01/10 15:59:29][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036589\14100036589.epub
+[19/01/10 15:59:31][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036592\14100036592.epub
+[19/01/10 15:59:34][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036712\14100036712.epub
+[19/01/10 15:59:37][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036713\14100036713.epub
+[19/01/10 15:59:41][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036734\14100036734.epub
+[19/01/10 15:59:43][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036761\14100036761.epub
+[19/01/10 15:59:46][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036762\14100036762.epub
+[19/01/10 15:59:59][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100036800\14100036800.pdf
+[19/01/10 15:59:59][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100036800\14100036800.pdf size > 200000000!!
+[19/01/10 15:59:59][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036871\14100036871.epub
+[19/01/10 16:00:01][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036878\14100036878.epub
+[19/01/10 16:00:03][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037075\14100037075.epub
+[19/01/10 16:00:11][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037076\14100037076.epub
+[19/01/10 16:00:14][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037552\14100037552.epub
+[19/01/10 16:00:17][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037761\14100037761.epub
+[19/01/10 16:00:21][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037763\14100037763.epub
+[19/01/10 16:00:25][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038045\14100038045.epub
+[19/01/10 16:00:29][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038244\14100038244.epub
+[19/01/10 16:00:32][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038458\14100038458.epub
+[19/01/10 16:00:36][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038460\14100038460.epub
+[19/01/10 16:00:40][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038465\14100038465.epub
+[19/01/10 16:00:44][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038478\14100038478.epub
+[19/01/10 16:00:47][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038874\14100038874.epub
+[19/01/10 16:00:50][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039141\14100039141.epub
+[19/01/10 16:00:55][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039142\14100039142.epub
+[19/01/10 16:00:58][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039143\14100039143.epub
+[19/01/10 16:01:02][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039215\14100039215.epub
+[19/01/10 16:01:10][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039352\14100039352.epub
+[19/01/10 16:01:13][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039353\14100039353.epub
+[19/01/10 16:01:16][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039354\14100039354.epub
+[19/01/10 16:01:19][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039355\14100039355.epub
+[19/01/10 16:01:22][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039520\14100039520.epub
+[19/01/10 16:01:25][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039522\14100039522.epub
+[19/01/10 16:01:27][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039523\14100039523.epub
+[19/01/10 16:01:29][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039874\14100039874.epub
+[19/01/10 16:01:31][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039875\14100039875.epub
+[19/01/10 16:01:33][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039983\14100039983.epub
+[19/01/10 16:01:37][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040156\14100040156.pdf
+[19/01/10 16:01:37][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100040156\14100040156.pdf size > 200000000!!
+[19/01/10 16:01:37][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040157\14100040157.pdf
+[19/01/10 16:01:37][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100040157\14100040157.pdf size > 200000000!!
+[19/01/10 16:01:37][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040160\14100040160.pdf
+[19/01/10 16:01:37][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100040160\14100040160.pdf size > 200000000!!
+[19/01/10 16:01:37][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100040161\14100040161.pdf
+[19/01/10 16:01:37][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100040161\14100040161.pdf size > 200000000!!
+[19/01/10 16:01:37][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040183\14100040183.epub
+[19/01/10 16:01:39][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040184\14100040184.epub
+[19/01/10 16:01:41][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040185\14100040185.epub
+[19/01/10 16:01:44][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040186\14100040186.epub
+[19/01/10 16:01:46][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040187\14100040187.epub
+[19/01/10 16:01:48][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040188\14100040188.epub
+[19/01/10 16:01:51][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040189\14100040189.epub
+[19/01/10 16:01:53][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040190\14100040190.epub
+[19/01/10 16:01:55][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040191\14100040191.epub
+[19/01/10 16:01:58][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040192\14100040192.epub
+[19/01/10 16:02:00][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040193\14100040193.epub
+[19/01/10 16:02:02][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040194\14100040194.epub
+[19/01/10 16:02:04][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040195\14100040195.epub
+[19/01/10 16:02:06][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040222\14100040222.epub
+[19/01/10 16:02:11][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040435\14100040435.epub
+[19/01/10 16:02:20][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100040436\14100040436.epub
+[19/01/10 16:02:23][INFO][ebook.metadata.process.MetadataProcess-223] .......process COVER ......done 
+[19/01/10 16:02:23][INFO][ebook.metadata.process.MetadataProcess-233] .......resize COVER ......start 
+[19/01/10 16:02:24][INFO][ebook.metadata.process.MetadataProcess-254] 14100021048
+[19/01/10 16:02:24][INFO][ebook.metadata.process.MetadataProcess-254] 14100021049
+[19/01/10 16:02:24][INFO][ebook.metadata.process.MetadataProcess-254] 14100021050
+[19/01/10 16:02:24][INFO][ebook.metadata.process.MetadataProcess-254] 14100023996
+[19/01/10 16:02:24][INFO][ebook.metadata.process.MetadataProcess-254] 14100024878
+[19/01/10 16:02:24][INFO][ebook.metadata.process.MetadataProcess-274] .......resize COVER ......done 
+[19/01/10 16:02:24][INFO][ebook.metadata.process.MetadataProcess-379] .......COVER to AWS ......start 
+[19/01/10 16:02:28][INFO][ebook.metadata.process.MetadataProcess-402] 14100040435(true)
+[19/01/10 16:02:29][INFO][ebook.metadata.process.MetadataProcess-402] 14100040436(true)
+[19/01/10 16:02:29][INFO][ebook.metadata.process.MetadataProcess-415] .......COVER to AWS ......done 
+[19/01/10 16:02:29][INFO][ebook.metadata.process.MetadataProcess-433] .......create folder to AWS ......start 
+[19/01/10 16:02:31][INFO][ebook.metadata.process.MetadataProcess-461] .......create folder to AWS ......done 
+[19/01/10 16:02:31][INFO][ebook.metadata.process.InterProcess-37] copy to 246 ......start
+[19/01/10 16:02:32][INFO][ebook.metadata.process.InterProcess-78] copy to 246 ......done
+[19/01/10 16:17:10][INFO][ebook.metadata.process.InfoProcess-2336] 14100040425...delete
+[19/01/10 16:17:11][INFO][ebook.metadata.process.InfoProcess-2336] 14100040426...delete
+[19/01/10 16:17:11][INFO][ebook.metadata.process.InfoProcess-2336] 14100040433...delete
+[19/01/10 16:17:12][INFO][ebook.metadata.process.InfoProcess-2336] 14100040434...delete

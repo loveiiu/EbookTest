@@ -1,0 +1,142 @@
+[19/01/03 09:56:02][INFO][ebook.metadata.process.MetadataProcess-79] .......pre-process in ebook ......start 
+[19/01/03 09:56:05][INFO][ebook.metadata.process.MetadataProcess-91] [1002974]14100039892
+[19/01/03 09:56:19][INFO][ebook.metadata.process.MetadataProcess-91] [1000959]14100039893
+[19/01/03 09:56:25][INFO][ebook.metadata.process.MetadataProcess-91] [1000959]14100039894
+[19/01/03 09:56:31][INFO][ebook.metadata.process.MetadataProcess-91] [1000959]14100039895
+[19/01/03 09:56:37][INFO][ebook.metadata.process.MetadataProcess-91] [1002221]14100039896
+[19/01/03 09:56:42][INFO][ebook.metadata.process.MetadataProcess-91] [1005041]14100039897
+[19/01/03 09:56:48][INFO][ebook.metadata.process.MetadataProcess-91] [1000959]14100039899
+[19/01/03 09:56:54][INFO][ebook.metadata.process.MetadataProcess-91] [1000959]14100039900
+[19/01/03 09:57:00][INFO][ebook.metadata.process.MetadataProcess-91] [1008926]14100039902
+[19/01/03 09:57:05][INFO][ebook.metadata.process.MetadataProcess-91] [1000467]25100009635
+[19/01/03 09:57:12][INFO][ebook.metadata.process.MetadataProcess-91] [1000883]25100009636
+[19/01/03 09:57:19][INFO][ebook.metadata.process.MetadataProcess-91] [1008564]25100009637
+[19/01/03 09:57:25][INFO][ebook.metadata.process.MetadataProcess-91] [1007360]25100009645
+[19/01/03 09:57:32][INFO][ebook.metadata.process.MetadataProcess-91] [1009001]25100009646
+[19/01/03 09:57:39][INFO][ebook.metadata.process.MetadataProcess-91] [1009001]25100009647
+[19/01/03 09:57:45][INFO][ebook.metadata.process.MetadataProcess-91] [1009001]25100009651
+[19/01/03 09:57:52][INFO][ebook.metadata.process.MetadataProcess-91] [1009001]25100009652
+[19/01/03 09:57:59][INFO][ebook.metadata.process.MetadataProcess-91] [1007360]25100009653
+[19/01/03 09:58:05][INFO][ebook.metadata.process.MetadataProcess-91] [1009001]25100009654
+[19/01/03 09:58:12][INFO][ebook.metadata.process.MetadataProcess-91] [1009001]25100009655
+[19/01/03 09:58:19][INFO][ebook.metadata.process.MetadataProcess-91] [1009001]25100009656
+[19/01/03 09:58:26][INFO][ebook.metadata.process.MetadataProcess-91] [T000080]25109999996
+[19/01/03 09:58:29][INFO][ebook.metadata.process.MetadataProcess-162] .......pre-process in ebook ......done 
+[19/01/03 09:58:29][INFO][ebook.metadata.process.MetadataProcess-171] .......process COVER ......start 
+[19/01/03 09:58:30][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036252\14100036252.epub
+[19/01/03 09:58:42][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036278\14100036278.epub
+[19/01/03 09:58:44][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036309\14100036309.epub
+[19/01/03 09:58:46][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036310\14100036310.epub
+[19/01/03 09:58:49][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036312\14100036312.epub
+[19/01/03 09:58:51][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036422\14100036422.epub
+[19/01/03 09:58:54][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036463\14100036463.epub
+[19/01/03 09:58:57][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036464\14100036464.epub
+[19/01/03 09:58:59][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036586\14100036586.epub
+[19/01/03 09:59:01][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036588\14100036588.epub
+[19/01/03 09:59:04][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036589\14100036589.epub
+[19/01/03 09:59:06][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036592\14100036592.epub
+[19/01/03 09:59:08][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036616\14100036616.epub
+[19/01/03 09:59:21][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036712\14100036712.epub
+[19/01/03 09:59:25][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036713\14100036713.epub
+[19/01/03 09:59:28][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036734\14100036734.epub
+[19/01/03 09:59:31][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036761\14100036761.epub
+[19/01/03 09:59:33][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036762\14100036762.epub
+[19/01/03 09:59:46][INFO][ebook.metadata.process.MetadataProcess-824] E:\Dropbox\eBook\after\14\14100036800\14100036800.pdf
+[19/01/03 09:59:46][INFO][ebook.metadata.utils.PDFUtils-43] E:\Dropbox\eBook\after\14\14100036800\14100036800.pdf size > 200000000!!
+[19/01/03 09:59:46][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036871\14100036871.epub
+[19/01/03 09:59:48][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100036878\14100036878.epub
+[19/01/03 09:59:51][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037075\14100037075.epub
+[19/01/03 09:59:59][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037076\14100037076.epub
+[19/01/03 10:00:02][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037552\14100037552.epub
+[19/01/03 10:00:05][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037761\14100037761.epub
+[19/01/03 10:00:11][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037763\14100037763.epub
+[19/01/03 10:00:14][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100037792\14100037792.epub
+[19/01/03 10:00:19][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038045\14100038045.epub
+[19/01/03 10:00:23][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038244\14100038244.epub
+[19/01/03 10:00:26][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038458\14100038458.epub
+[19/01/03 10:00:30][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038460\14100038460.epub
+[19/01/03 10:00:34][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038465\14100038465.epub
+[19/01/03 10:00:40][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038478\14100038478.epub
+[19/01/03 10:00:43][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038562\14100038562.epub
+[19/01/03 10:00:50][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100038874\14100038874.epub
+[19/01/03 10:00:53][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039141\14100039141.epub
+[19/01/03 10:00:57][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039142\14100039142.epub
+[19/01/03 10:01:02][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039143\14100039143.epub
+[19/01/03 10:01:05][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039215\14100039215.epub
+[19/01/03 10:01:13][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039352\14100039352.epub
+[19/01/03 10:01:15][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039353\14100039353.epub
+[19/01/03 10:01:18][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039354\14100039354.epub
+[19/01/03 10:01:21][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039355\14100039355.epub
+[19/01/03 10:01:23][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039356\14100039356.epub
+[19/01/03 10:01:26][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039357\14100039357.epub
+[19/01/03 10:01:29][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039358\14100039358.epub
+[19/01/03 10:01:32][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039359\14100039359.epub
+[19/01/03 10:01:35][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039520\14100039520.epub
+[19/01/03 10:01:37][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039522\14100039522.epub
+[19/01/03 10:01:39][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039523\14100039523.epub
+[19/01/03 10:01:42][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039874\14100039874.epub
+[19/01/03 10:01:44][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039875\14100039875.epub
+[19/01/03 10:01:46][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039885\14100039885.epub
+[19/01/03 10:01:48][INFO][ebook.metadata.process.MetadataProcess-864] E:\Dropbox\eBook\after\14\14100039887\14100039887.epub
+[19/01/03 10:01:53][INFO][ebook.metadata.process.MetadataProcess-223] .......process COVER ......done 
+[19/01/03 10:01:53][INFO][ebook.metadata.process.MetadataProcess-233] .......resize COVER ......start 
+[19/01/03 10:01:54][INFO][ebook.metadata.process.MetadataProcess-254] 14100021048
+[19/01/03 10:01:54][INFO][ebook.metadata.process.MetadataProcess-254] 14100021049
+[19/01/03 10:01:54][INFO][ebook.metadata.process.MetadataProcess-254] 14100021050
+[19/01/03 10:01:54][INFO][ebook.metadata.process.MetadataProcess-254] 14100023996
+[19/01/03 10:01:54][INFO][ebook.metadata.process.MetadataProcess-254] 14100024878
+[19/01/03 10:01:54][INFO][ebook.metadata.process.MetadataProcess-274] .......resize COVER ......done 
+[19/01/03 10:01:54][INFO][ebook.metadata.process.MetadataProcess-379] .......COVER to AWS ......start 
+[19/01/03 10:02:35][INFO][ebook.metadata.process.MetadataProcess-415] .......COVER to AWS ......done 
+[19/01/03 10:02:35][INFO][ebook.metadata.process.MetadataProcess-433] .......create folder to AWS ......start 
+[19/01/03 10:02:37][INFO][ebook.metadata.process.MetadataProcess-448] 14100039885(true)
+[19/01/03 10:02:38][INFO][ebook.metadata.process.MetadataProcess-448] 14100039887(true)
+[19/01/03 10:02:38][INFO][ebook.metadata.process.MetadataProcess-448] 14100039892(true)
+[19/01/03 10:02:38][INFO][ebook.metadata.process.MetadataProcess-448] 14100039893(true)
+[19/01/03 10:02:38][INFO][ebook.metadata.process.MetadataProcess-448] 14100039894(true)
+[19/01/03 10:02:38][INFO][ebook.metadata.process.MetadataProcess-448] 14100039895(true)
+[19/01/03 10:02:39][INFO][ebook.metadata.process.MetadataProcess-448] 14100039896(true)
+[19/01/03 10:02:39][INFO][ebook.metadata.process.MetadataProcess-448] 14100039897(true)
+[19/01/03 10:02:39][INFO][ebook.metadata.process.MetadataProcess-448] 14100039899(true)
+[19/01/03 10:02:39][INFO][ebook.metadata.process.MetadataProcess-448] 14100039900(true)
+[19/01/03 10:02:40][INFO][ebook.metadata.process.MetadataProcess-448] 14100039902(true)
+[19/01/03 10:02:40][INFO][ebook.metadata.process.MetadataProcess-448] 25100009635(true)
+[19/01/03 10:02:40][INFO][ebook.metadata.process.MetadataProcess-448] 25100009636(true)
+[19/01/03 10:02:40][INFO][ebook.metadata.process.MetadataProcess-448] 25100009637(true)
+[19/01/03 10:02:40][INFO][ebook.metadata.process.MetadataProcess-448] 25100009645(true)
+[19/01/03 10:02:41][INFO][ebook.metadata.process.MetadataProcess-448] 25100009646(true)
+[19/01/03 10:02:41][INFO][ebook.metadata.process.MetadataProcess-448] 25100009647(true)
+[19/01/03 10:02:41][INFO][ebook.metadata.process.MetadataProcess-448] 25100009651(true)
+[19/01/03 10:02:41][INFO][ebook.metadata.process.MetadataProcess-448] 25100009652(true)
+[19/01/03 10:02:42][INFO][ebook.metadata.process.MetadataProcess-448] 25100009653(true)
+[19/01/03 10:02:42][INFO][ebook.metadata.process.MetadataProcess-448] 25100009654(true)
+[19/01/03 10:02:42][INFO][ebook.metadata.process.MetadataProcess-448] 25100009655(true)
+[19/01/03 10:02:42][INFO][ebook.metadata.process.MetadataProcess-448] 25100009656(true)
+[19/01/03 10:02:42][INFO][ebook.metadata.process.MetadataProcess-461] .......create folder to AWS ......done 
+[19/01/03 10:02:42][INFO][ebook.metadata.process.InterProcess-37] copy to 246 ......start
+[19/01/03 10:02:43][INFO][ebook.metadata.process.InterProcess-58] E:\Dropbox\eBook\after\14\14100039896\14100039896.pdf
+[19/01/03 10:02:43][ERROR][ebook.metadata.utils.ToolKits-296] s=E:\Dropbox\eBook\after\14\14100039896\14100039896.pdf
+t=\\192.168.10.246\ebook\工讀生資料夾\電子書PDF-待檢查-全\14100039896.pdf
+java.io.FileNotFoundException: \\192.168.10.246\ebook\工讀生資料夾\電子書PDF-待檢查-全\14100039896.pdf (存取被拒。)
+[19/01/03 10:02:43][INFO][ebook.metadata.process.InterProcess-67] false
+[19/01/03 10:02:43][INFO][ebook.metadata.process.InterProcess-58] E:\Dropbox\eBook\after\14\14100039895\14100039895.pdf
+[19/01/03 10:02:43][ERROR][ebook.metadata.utils.ToolKits-296] s=E:\Dropbox\eBook\after\14\14100039895\14100039895.pdf
+t=\\192.168.10.246\ebook\工讀生資料夾\電子書PDF-待檢查-全\14100039895.pdf
+java.io.FileNotFoundException: \\192.168.10.246\ebook\工讀生資料夾\電子書PDF-待檢查-全\14100039895.pdf (存取被拒。)
+[19/01/03 10:02:43][INFO][ebook.metadata.process.InterProcess-67] false
+[19/01/03 10:02:43][INFO][ebook.metadata.process.InterProcess-58] E:\Dropbox\eBook\after\14\14100039894\14100039894.pdf
+[19/01/03 10:02:43][ERROR][ebook.metadata.utils.ToolKits-296] s=E:\Dropbox\eBook\after\14\14100039894\14100039894.pdf
+t=\\192.168.10.246\ebook\工讀生資料夾\電子書PDF-待檢查-全\14100039894.pdf
+java.io.FileNotFoundException: \\192.168.10.246\ebook\工讀生資料夾\電子書PDF-待檢查-全\14100039894.pdf (存取被拒。)
+[19/01/03 10:02:43][INFO][ebook.metadata.process.InterProcess-67] false
+[19/01/03 10:02:43][INFO][ebook.metadata.process.InterProcess-58] E:\Dropbox\eBook\after\14\14100039893\14100039893.pdf
+[19/01/03 10:02:43][ERROR][ebook.metadata.utils.ToolKits-296] s=E:\Dropbox\eBook\after\14\14100039893\14100039893.pdf
+t=\\192.168.10.246\ebook\工讀生資料夾\電子書PDF-待檢查-全\14100039893.pdf
+java.io.FileNotFoundException: \\192.168.10.246\ebook\工讀生資料夾\電子書PDF-待檢查-全\14100039893.pdf (存取被拒。)
+[19/01/03 10:02:43][INFO][ebook.metadata.process.InterProcess-67] false
+[19/01/03 10:02:43][INFO][ebook.metadata.process.InterProcess-58] E:\Dropbox\eBook\after\14\14100039892\14100039892.pdf
+[19/01/03 10:02:43][ERROR][ebook.metadata.utils.ToolKits-296] s=E:\Dropbox\eBook\after\14\14100039892\14100039892.pdf
+t=\\192.168.10.246\ebook\工讀生資料夾\電子書PDF-待檢查-全\14100039892.pdf
+java.io.FileNotFoundException: \\192.168.10.246\ebook\工讀生資料夾\電子書PDF-待檢查-全\14100039892.pdf (存取被拒。)
+[19/01/03 10:02:43][INFO][ebook.metadata.process.InterProcess-67] false
+[19/01/03 10:02:43][INFO][ebook.metadata.process.InterProcess-78] copy to 246 ......done

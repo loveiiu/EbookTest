@@ -1,0 +1,52 @@
+[18/12/28 12:47:41][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[18/12/28 12:47:43][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[18/12/28 12:47:44][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/28 12:47:50][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/28 12:47:50][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[18/12/28 12:47:51][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/28 12:47:51][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[18/12/28 12:47:52][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/28 12:48:00][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/28 12:48:00][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[18/12/28 12:48:01][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/28 12:48:01][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[18/12/28 12:48:02][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[18/12/28 12:48:07][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/28 12:48:09][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[18/12/28 12:48:09][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[18/12/28 12:48:09][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[18/12/28 12:48:10][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[18/12/28 12:48:16][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/28 12:48:17][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[18/12/28 12:48:17][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[18/12/28 12:48:17][INFO][ebook.metadata.process.ExcelProcess-303] [1000883]25100009623 - 好物款款行III.pdf
+[18/12/28 12:48:18][INFO][ebook.metadata.factory.ExcelFactory-1737] cw**cwebook**/cw/magazine/20181228
+[18/12/28 12:48:25][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000883/cw/magazine/20181228\好物款款行III.pdf >>> false
+[18/12/28 12:48:26][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000883/cw/magazine/20181228\null >>> 0(1)
+[18/12/28 12:48:26][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[18/12/28 12:48:51][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[18/12/28 12:48:53][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[18/12/28 12:48:54][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/28 12:48:59][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/28 12:49:00][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[18/12/28 12:49:00][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/28 12:49:00][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[18/12/28 12:49:02][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[18/12/28 12:49:09][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/28 12:49:10][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[18/12/28 12:49:10][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[18/12/28 12:49:11][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[18/12/28 12:49:12][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[18/12/28 12:49:17][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/28 12:49:18][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[18/12/28 12:49:18][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[18/12/28 12:49:18][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[18/12/28 12:49:19][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[18/12/28 12:49:25][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[18/12/28 12:49:26][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[18/12/28 12:49:26][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[18/12/28 12:49:26][INFO][ebook.metadata.process.ExcelProcess-303] [1000883]25100009623 - 好物款款行III.pdf
+[18/12/28 12:49:27][INFO][ebook.metadata.factory.ExcelFactory-1737] cw**cwebook**/cw/magazine/20181228
+[18/12/28 12:49:34][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1000883/cw/magazine/20181228\好物款款行III.pdf >>> false
+[18/12/28 12:49:35][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000883/cw/magazine/20181228\null >>> 0(1)
+[18/12/28 12:49:35][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done

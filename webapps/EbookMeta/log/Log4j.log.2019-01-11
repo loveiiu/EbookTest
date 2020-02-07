@@ -1,0 +1,463 @@
+[19/01/11 09:42:52][INFO][ebook.metadata.process.ExcelProcess-55] batchDownloadExcel---- 1
+[19/01/11 09:42:52][INFO][ebook.metadata.factory.ExcelFactory-66] ............check Excel [1008336-iwindreamlife] ..........start
+[19/01/11 09:42:59][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/11 09:42:59][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /iwindreamlife/20190110
+[19/01/11 09:42:59][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/11 09:43:00][INFO][ebook.metadata.factory.ExcelFactory-129] ............check Excel [1008336-iwindreamlife]..........done
+[19/01/11 09:47:19][INFO][ebook.metadata.process.ExcelProcess-55] batchDownloadExcel---- 1
+[19/01/11 09:47:19][INFO][ebook.metadata.factory.ExcelFactory-66] ............check Excel [1008013-kuroshio] ..........start
+[19/01/11 09:47:27][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/11 09:47:27][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /kuroshio/20180110
+[19/01/11 09:47:27][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 4
+[19/01/11 09:47:27][INFO][ebook.metadata.factory.ExcelFactory-129] ............check Excel [1008013-kuroshio]..........done
+[19/01/11 09:47:27][INFO][ebook.metadata.process.ExcelProcess-55] batchDownloadExcel---- 2
+[19/01/11 09:47:27][INFO][ebook.metadata.factory.ExcelFactory-66] ............check Excel [1008013-kuroshio] ..........start
+[19/01/11 09:47:35][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/11 09:47:35][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /kuroshio/20180110
+[19/01/11 09:47:35][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 4
+[19/01/11 09:47:35][INFO][ebook.metadata.factory.ExcelFactory-129] ............check Excel [1008013-kuroshio]..........done
+[19/01/11 09:50:50][INFO][ebook.metadata.process.ExcelProcess-55] batchDownloadExcel---- 1
+[19/01/11 09:50:50][INFO][ebook.metadata.factory.ExcelFactory-66] ............check Excel [1008336-iwindreamlife] ..........start
+[19/01/11 09:50:59][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/11 09:50:59][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /iwindreamlife/20190110
+[19/01/11 09:50:59][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 2
+[19/01/11 09:50:59][INFO][ebook.metadata.factory.ExcelFactory-129] ............check Excel [1008336-iwindreamlife]..........done
+[19/01/11 09:50:59][INFO][ebook.metadata.process.ExcelProcess-55] batchDownloadExcel---- 2
+[19/01/11 09:50:59][INFO][ebook.metadata.factory.ExcelFactory-66] ............check Excel [1008013-kuroshio] ..........start
+[19/01/11 09:51:05][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/11 09:51:05][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /kuroshio/20180110
+[19/01/11 09:51:05][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 4
+[19/01/11 09:51:05][INFO][ebook.metadata.factory.ExcelFactory-129] ............check Excel [1008013-kuroshio]..........done
+[19/01/11 09:51:05][INFO][ebook.metadata.process.ExcelProcess-55] batchDownloadExcel---- 3
+[19/01/11 09:51:05][INFO][ebook.metadata.factory.ExcelFactory-66] ............check Excel [1008013-kuroshio] ..........start
+[19/01/11 09:51:11][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/11 09:51:11][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /kuroshio/20180110
+[19/01/11 09:51:11][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 4
+[19/01/11 09:51:11][INFO][ebook.metadata.factory.ExcelFactory-129] ............check Excel [1008013-kuroshio]..........done
+[19/01/11 09:51:11][INFO][ebook.metadata.process.ExcelProcess-55] batchDownloadExcel---- 4
+[19/01/11 09:51:11][INFO][ebook.metadata.factory.ExcelFactory-66] ............check Excel [1007363-iwinchannel] ..........start
+[19/01/11 09:51:17][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/11 09:51:17][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /iwinchannel/20160302
+[19/01/11 09:51:17][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 0
+[19/01/11 09:51:17][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/11 09:51:17][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /iwinchannel/20181206
+[19/01/11 09:51:17][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 6
+[19/01/11 09:51:17][INFO][ebook.metadata.factory.ExcelFactory-240] ............downloadExcel  start
+[19/01/11 09:51:17][INFO][ebook.metadata.factory.ExcelFactory-250] ............downloadExcel /iwinchannel/20190110
+[19/01/11 09:51:17][INFO][ebook.metadata.factory.ExcelFactory-279] ............downloadExcel_files.length = 12
+[19/01/11 09:51:17][INFO][ebook.metadata.factory.ExcelFactory-129] ............check Excel [1007363-iwinchannel]..........done
+[19/01/11 09:55:57][INFO][ebook.metadata.process.ExcelProcess-192] .....parse excel [1008013]100801320180110000.xls..........start
+[19/01/11 09:55:58][INFO][ebook.metadata.factory.ExcelFactory-475] ----xlsx或xls----
+[19/01/11 09:55:58][INFO][ebook.metadata.factory.ExcelFactory-496] 2
+[19/01/11 09:55:58][INFO][ebook.metadata.factory.ExcelFactory-520] 第2筆寫入meta(業種:雜誌)... ... start 
+[19/01/11 09:56:04][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/11 09:56:04][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/11 09:56:04][INFO][ebook.metadata.factory.ExcelFactory-2255] ... ...第2筆無法取得紙本metadata
+
+[19/01/11 09:56:04][INFO][ebook.metadata.factory.ExcelFactory-2256] ... ...try to insert from 建檔格式...
+[19/01/11 09:56:04][INFO][ebook.metadata.factory.ExcelFactory-2262] pdf
+[19/01/11 09:56:06][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:9716
+[19/01/11 09:56:08][INFO][ebook.metadata.factory.ExcelFactory-2719] insertFromExcel_result:1
+[19/01/11 09:56:08][INFO][ebook.metadata.factory.ExcelFactory-2297] 第2筆 parse done _
+[19/01/11 09:56:08][INFO][ebook.metadata.process.ExcelProcess-219] .....parse excel [1008013]100801320180110000.xls..........done
+[19/01/11 09:56:08][INFO][ebook.metadata.process.ExcelProcess-192] .....parse excel [1008336]100833620190110000.xls..........start
+[19/01/11 09:56:08][INFO][ebook.metadata.factory.ExcelFactory-475] ----xlsx或xls----
+[19/01/11 09:56:08][INFO][ebook.metadata.factory.ExcelFactory-496] 4
+[19/01/11 09:56:08][INFO][ebook.metadata.factory.ExcelFactory-520] 第4筆寫入meta(業種:雜誌)... ... start 
+[19/01/11 09:56:13][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/11 09:56:13][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/11 09:56:13][INFO][ebook.metadata.factory.ExcelFactory-2255] ... ...第4筆無法取得紙本metadata
+
+[19/01/11 09:56:13][INFO][ebook.metadata.factory.ExcelFactory-2256] ... ...try to insert from 建檔格式...
+[19/01/11 09:56:13][INFO][ebook.metadata.factory.ExcelFactory-2262] pdf
+[19/01/11 09:56:14][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:9717
+[19/01/11 09:56:15][INFO][ebook.metadata.factory.ExcelFactory-2719] insertFromExcel_result:1
+[19/01/11 09:56:15][INFO][ebook.metadata.factory.ExcelFactory-2297] 第4筆 parse done _
+[19/01/11 09:56:15][INFO][ebook.metadata.process.ExcelProcess-219] .....parse excel [1008336]100833620190110000.xls..........done
+[19/01/11 09:56:15][INFO][ebook.metadata.process.ExcelProcess-192] .....parse excel [1007363]100736320190110000.xlsx..........start
+[19/01/11 09:56:15][INFO][ebook.metadata.factory.ExcelFactory-475] ----xlsx或xls----
+[19/01/11 09:56:17][INFO][ebook.metadata.factory.ExcelFactory-496] 12
+[19/01/11 09:56:17][INFO][ebook.metadata.factory.ExcelFactory-520] 第2筆寫入meta(業種:雜誌)... ... start 
+[19/01/11 09:56:21][INFO][ebook.metadata.factory.ExcelFactory-2170] ... ...oid : 25100009716已存在!
+[19/01/11 09:56:21][INFO][ebook.metadata.factory.ExcelFactory-2297] 第2筆 parse done _
+[19/01/11 09:56:21][INFO][ebook.metadata.factory.ExcelFactory-520] 第3筆寫入meta(業種:雜誌)... ... start 
+[19/01/11 09:56:27][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/11 09:56:27][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/11 09:56:27][INFO][ebook.metadata.factory.ExcelFactory-2255] ... ...第3筆無法取得紙本metadata
+
+[19/01/11 09:56:27][INFO][ebook.metadata.factory.ExcelFactory-2256] ... ...try to insert from 建檔格式...
+[19/01/11 09:56:27][INFO][ebook.metadata.factory.ExcelFactory-2262] pdf
+[19/01/11 09:56:28][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:9718
+[19/01/11 09:56:29][INFO][ebook.metadata.factory.ExcelFactory-2693] ... ...售價由出版社自訂 : 129
+[19/01/11 09:56:30][INFO][ebook.metadata.factory.ExcelFactory-2719] insertFromExcel_result:1
+[19/01/11 09:56:30][INFO][ebook.metadata.factory.ExcelFactory-2297] 第3筆 parse done _
+[19/01/11 09:56:30][INFO][ebook.metadata.factory.ExcelFactory-520] 第4筆寫入meta(業種:雜誌)... ... start 
+[19/01/11 09:56:34][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/11 09:56:34][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/11 09:56:34][INFO][ebook.metadata.factory.ExcelFactory-2255] ... ...第4筆無法取得紙本metadata
+
+[19/01/11 09:56:34][INFO][ebook.metadata.factory.ExcelFactory-2256] ... ...try to insert from 建檔格式...
+[19/01/11 09:56:34][INFO][ebook.metadata.factory.ExcelFactory-2262] pdf
+[19/01/11 09:56:35][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:9719
+[19/01/11 09:56:36][INFO][ebook.metadata.factory.ExcelFactory-2693] ... ...售價由出版社自訂 : 129
+[19/01/11 09:56:37][INFO][ebook.metadata.factory.ExcelFactory-2719] insertFromExcel_result:1
+[19/01/11 09:56:37][INFO][ebook.metadata.factory.ExcelFactory-2297] 第4筆 parse done _
+[19/01/11 09:56:37][INFO][ebook.metadata.factory.ExcelFactory-520] 第5筆寫入meta(業種:雜誌)... ... start 
+[19/01/11 09:56:43][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/11 09:56:43][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/11 09:56:43][INFO][ebook.metadata.factory.ExcelFactory-2255] ... ...第5筆無法取得紙本metadata
+
+[19/01/11 09:56:43][INFO][ebook.metadata.factory.ExcelFactory-2256] ... ...try to insert from 建檔格式...
+[19/01/11 09:56:43][INFO][ebook.metadata.factory.ExcelFactory-2262] pdf
+[19/01/11 09:56:44][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:9720
+[19/01/11 09:56:45][INFO][ebook.metadata.factory.ExcelFactory-2693] ... ...售價由出版社自訂 : 129
+[19/01/11 09:56:46][INFO][ebook.metadata.factory.ExcelFactory-2719] insertFromExcel_result:1
+[19/01/11 09:56:46][INFO][ebook.metadata.factory.ExcelFactory-2297] 第5筆 parse done _
+[19/01/11 09:56:46][INFO][ebook.metadata.factory.ExcelFactory-520] 第6筆寫入meta(業種:雜誌)... ... start 
+[19/01/11 09:56:51][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/11 09:56:51][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/11 09:56:51][INFO][ebook.metadata.factory.ExcelFactory-2255] ... ...第6筆無法取得紙本metadata
+
+[19/01/11 09:56:51][INFO][ebook.metadata.factory.ExcelFactory-2256] ... ...try to insert from 建檔格式...
+[19/01/11 09:56:51][INFO][ebook.metadata.factory.ExcelFactory-2262] pdf
+[19/01/11 09:56:52][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:9721
+[19/01/11 09:56:53][INFO][ebook.metadata.factory.ExcelFactory-2693] ... ...售價由出版社自訂 : 129
+[19/01/11 09:56:54][INFO][ebook.metadata.factory.ExcelFactory-2719] insertFromExcel_result:1
+[19/01/11 09:56:54][INFO][ebook.metadata.factory.ExcelFactory-2297] 第6筆 parse done _
+[19/01/11 09:56:54][INFO][ebook.metadata.factory.ExcelFactory-520] 第7筆寫入meta(業種:雜誌)... ... start 
+[19/01/11 09:56:58][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/11 09:56:58][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/11 09:56:58][INFO][ebook.metadata.factory.ExcelFactory-2255] ... ...第7筆無法取得紙本metadata
+
+[19/01/11 09:56:58][INFO][ebook.metadata.factory.ExcelFactory-2256] ... ...try to insert from 建檔格式...
+[19/01/11 09:56:58][INFO][ebook.metadata.factory.ExcelFactory-2262] pdf
+[19/01/11 09:56:59][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:9722
+[19/01/11 09:57:00][INFO][ebook.metadata.factory.ExcelFactory-2693] ... ...售價由出版社自訂 : 129
+[19/01/11 09:57:01][INFO][ebook.metadata.factory.ExcelFactory-2719] insertFromExcel_result:1
+[19/01/11 09:57:01][INFO][ebook.metadata.factory.ExcelFactory-2297] 第7筆 parse done _
+[19/01/11 09:57:01][INFO][ebook.metadata.factory.ExcelFactory-520] 第8筆寫入meta(業種:雜誌)... ... start 
+[19/01/11 09:57:06][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/11 09:57:06][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/11 09:57:06][INFO][ebook.metadata.factory.ExcelFactory-2255] ... ...第8筆無法取得紙本metadata
+
+[19/01/11 09:57:06][INFO][ebook.metadata.factory.ExcelFactory-2256] ... ...try to insert from 建檔格式...
+[19/01/11 09:57:06][INFO][ebook.metadata.factory.ExcelFactory-2262] pdf
+[19/01/11 09:57:07][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:9723
+[19/01/11 09:57:08][INFO][ebook.metadata.factory.ExcelFactory-2693] ... ...售價由出版社自訂 : 129
+[19/01/11 09:57:09][INFO][ebook.metadata.factory.ExcelFactory-2719] insertFromExcel_result:1
+[19/01/11 09:57:09][INFO][ebook.metadata.factory.ExcelFactory-2297] 第8筆 parse done _
+[19/01/11 09:57:09][INFO][ebook.metadata.factory.ExcelFactory-520] 第9筆寫入meta(業種:雜誌)... ... start 
+[19/01/11 09:57:14][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/11 09:57:14][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/11 09:57:14][INFO][ebook.metadata.factory.ExcelFactory-2255] ... ...第9筆無法取得紙本metadata
+
+[19/01/11 09:57:14][INFO][ebook.metadata.factory.ExcelFactory-2256] ... ...try to insert from 建檔格式...
+[19/01/11 09:57:14][INFO][ebook.metadata.factory.ExcelFactory-2262] pdf
+[19/01/11 09:57:15][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:9724
+[19/01/11 09:57:16][INFO][ebook.metadata.factory.ExcelFactory-2693] ... ...售價由出版社自訂 : 129
+[19/01/11 09:57:17][INFO][ebook.metadata.factory.ExcelFactory-2719] insertFromExcel_result:1
+[19/01/11 09:57:17][INFO][ebook.metadata.factory.ExcelFactory-2297] 第9筆 parse done _
+[19/01/11 09:57:17][INFO][ebook.metadata.factory.ExcelFactory-520] 第10筆寫入meta(業種:雜誌)... ... start 
+[19/01/11 09:57:21][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/11 09:57:21][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/11 09:57:21][INFO][ebook.metadata.factory.ExcelFactory-2255] ... ...第10筆無法取得紙本metadata
+
+[19/01/11 09:57:21][INFO][ebook.metadata.factory.ExcelFactory-2256] ... ...try to insert from 建檔格式...
+[19/01/11 09:57:21][INFO][ebook.metadata.factory.ExcelFactory-2262] pdf
+[19/01/11 09:57:23][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:9725
+[19/01/11 09:57:24][INFO][ebook.metadata.factory.ExcelFactory-2693] ... ...售價由出版社自訂 : 129
+[19/01/11 09:57:25][INFO][ebook.metadata.factory.ExcelFactory-2719] insertFromExcel_result:1
+[19/01/11 09:57:25][INFO][ebook.metadata.factory.ExcelFactory-2297] 第10筆 parse done _
+[19/01/11 09:57:25][INFO][ebook.metadata.factory.ExcelFactory-520] 第11筆寫入meta(業種:雜誌)... ... start 
+[19/01/11 09:57:29][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/11 09:57:29][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/11 09:57:29][INFO][ebook.metadata.factory.ExcelFactory-2255] ... ...第11筆無法取得紙本metadata
+
+[19/01/11 09:57:29][INFO][ebook.metadata.factory.ExcelFactory-2256] ... ...try to insert from 建檔格式...
+[19/01/11 09:57:29][INFO][ebook.metadata.factory.ExcelFactory-2262] pdf
+[19/01/11 09:57:30][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:9726
+[19/01/11 09:57:31][INFO][ebook.metadata.factory.ExcelFactory-2693] ... ...售價由出版社自訂 : 129
+[19/01/11 09:57:31][INFO][ebook.metadata.factory.ExcelFactory-2719] insertFromExcel_result:1
+[19/01/11 09:57:31][INFO][ebook.metadata.factory.ExcelFactory-2297] 第11筆 parse done _
+[19/01/11 09:57:31][INFO][ebook.metadata.factory.ExcelFactory-520] 第12筆寫入meta(業種:雜誌)... ... start 
+[19/01/11 09:57:34][INFO][ebook.metadata.factory.ExcelFactory-2228] ... ... try to copy 紙本meta
+[19/01/11 09:57:34][INFO][ebook.metadata.factory.ExcelFactory-2329] 
+[19/01/11 09:57:34][INFO][ebook.metadata.factory.ExcelFactory-2255] ... ...第12筆無法取得紙本metadata
+
+[19/01/11 09:57:34][INFO][ebook.metadata.factory.ExcelFactory-2256] ... ...try to insert from 建檔格式...
+[19/01/11 09:57:34][INFO][ebook.metadata.factory.ExcelFactory-2262] pdf
+[19/01/11 09:57:35][INFO][ebook.metadata.factory.ExcelFactory-1403] current_id:9727
+[19/01/11 09:57:36][INFO][ebook.metadata.factory.ExcelFactory-2693] ... ...售價由出版社自訂 : 129
+[19/01/11 09:57:37][INFO][ebook.metadata.factory.ExcelFactory-2719] insertFromExcel_result:1
+[19/01/11 09:57:37][INFO][ebook.metadata.factory.ExcelFactory-2297] 第12筆 parse done _
+[19/01/11 09:57:38][INFO][ebook.metadata.process.ExcelProcess-219] .....parse excel [1007363]100736320190110000.xlsx..........done
+[19/01/11 09:58:12][INFO][ebook.metadata.process.MetadataProcess-997] 書籍&套書設定出版型式...done
+[19/01/11 09:58:28][INFO][ebook.metadata.process.MetadataProcess-1041] 25100009221...找不到對應的雜誌!
+[19/01/11 09:58:45][INFO][ebook.metadata.process.MetadataProcess-1269] 25100009717...已寫入雜誌基本META
+[19/01/11 09:58:59][INFO][ebook.metadata.process.MetadataProcess-1269] 25100009718...已寫入雜誌基本META
+[19/01/11 09:59:13][INFO][ebook.metadata.process.MetadataProcess-1269] 25100009719...已寫入雜誌基本META
+[19/01/11 09:59:26][INFO][ebook.metadata.process.MetadataProcess-1269] 25100009720...已寫入雜誌基本META
+[19/01/11 09:59:42][INFO][ebook.metadata.process.MetadataProcess-1269] 25100009721...已寫入雜誌基本META
+[19/01/11 09:59:56][INFO][ebook.metadata.process.MetadataProcess-1269] 25100009722...已寫入雜誌基本META
+[19/01/11 10:00:12][INFO][ebook.metadata.process.MetadataProcess-1269] 25100009723...已寫入雜誌基本META
+[19/01/11 10:00:28][INFO][ebook.metadata.process.MetadataProcess-1269] 25100009724...已寫入雜誌基本META
+[19/01/11 10:00:46][INFO][ebook.metadata.process.MetadataProcess-1269] 25100009725...已寫入雜誌基本META
+[19/01/11 10:01:04][INFO][ebook.metadata.process.MetadataProcess-1269] 25100009726...已寫入雜誌基本META
+[19/01/11 10:01:21][INFO][ebook.metadata.process.MetadataProcess-1269] 25100009727...已寫入雜誌基本META
+[19/01/11 10:01:37][INFO][ebook.metadata.process.MetadataProcess-1269] 25100009728...已寫入雜誌基本META
+[19/01/11 10:01:52][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000239...找不到對應的雜誌!
+[19/01/11 10:02:05][INFO][ebook.metadata.process.MetadataProcess-1041] 26100000240...找不到對應的雜誌!
+[19/01/11 10:02:05][INFO][ebook.metadata.process.MetadataProcess-1055] setMagazineMeta done!
+[19/01/11 10:07:00][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[19/01/11 10:07:08][INFO][ebook.metadata.process.ExcelProcess-303] [1000697]14100017594 - 
+[19/01/11 10:07:09][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20160810
+[19/01/11 10:07:16][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000697/cite/20160810\ >>> 0(1)
+[19/01/11 10:07:16][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[19/01/11 10:07:17][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/11 10:07:23][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:07:23][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[19/01/11 10:07:24][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/11 10:07:24][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[19/01/11 10:07:25][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/11 10:07:32][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:07:33][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[19/01/11 10:07:34][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/11 10:07:34][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[19/01/11 10:07:35][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[19/01/11 10:07:42][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:07:42][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[19/01/11 10:07:43][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[19/01/11 10:07:43][INFO][ebook.metadata.process.ExcelProcess-303] [1001031]14100040525 - 素人AV女優青春篇(全).pdf
+[19/01/11 10:07:43][INFO][ebook.metadata.factory.ExcelFactory-1737] chingwin**cwpublishing2013**/chingwin/20190109
+[19/01/11 10:08:19][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1001031/chingwin/20190109\素人AV女優青春篇(全).pdf >>> true
+[19/01/11 10:08:20][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1001031/chingwin/20190109\ >>> 0(1)
+[19/01/11 10:08:20][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[19/01/11 10:08:21][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[19/01/11 10:08:27][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:08:27][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[19/01/11 10:08:28][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[19/01/11 10:08:28][INFO][ebook.metadata.process.ExcelProcess-303] [1008079]25100009665 - SPUR_19_02_dmagazine_150.pdf
+[19/01/11 10:08:29][INFO][ebook.metadata.factory.ExcelFactory-1737] jabook**jabookpopo**/jabook/20190110
+[19/01/11 10:08:35][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:08:35][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008079/jabook/20190110\SPUR_19_02_dmagazine_150.pdf >>> false
+[19/01/11 10:08:36][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008079/jabook/20190110\null >>> 0(1)
+[19/01/11 10:08:36][INFO][ebook.metadata.process.ExcelProcess-303] [1005402]25100009715 - 實用空中美語2019年2月號.pdf
+[19/01/11 10:08:37][INFO][ebook.metadata.factory.ExcelFactory-1737] studioclassroom**taazeroom**/studioclassroom/EnglishDigest/20190110
+[19/01/11 10:08:53][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1005402/studioclassroom/EnglishDigest/20190110\實用空中美語2019年2月號.pdf >>> true
+[19/01/11 10:08:53][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\1.mp3
+[19/01/11 10:08:54][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\10.mp3
+[19/01/11 10:08:55][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\11.mp3
+[19/01/11 10:08:55][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\12.mp3
+[19/01/11 10:08:56][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\13.mp3
+[19/01/11 10:08:57][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\14.mp3
+[19/01/11 10:08:58][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\15.mp3
+[19/01/11 10:08:59][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\16.mp3
+[19/01/11 10:09:00][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\17.mp3
+[19/01/11 10:09:01][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\18.mp3
+[19/01/11 10:09:02][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\19.mp3
+[19/01/11 10:09:02][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\2.mp3
+[19/01/11 10:09:03][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\3.mp3
+[19/01/11 10:09:05][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\34.mp3
+[19/01/11 10:09:05][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\373_mapping.xls
+[19/01/11 10:09:07][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\4.mp3
+[19/01/11 10:09:08][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\41.mp3
+[19/01/11 10:09:09][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\42.mp3
+[19/01/11 10:09:10][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\5.mp3
+[19/01/11 10:09:11][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\6.mp3
+[19/01/11 10:09:12][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\7.mp3
+[19/01/11 10:09:13][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\8.mp3
+[19/01/11 10:09:14][INFO][ebook.metadata.factory.ExcelFactory-1652] D:\eBook\before\\1005402\studioclassroom\EnglishDigest\20190110\\實用空中美語2019年2月號音檔\9.mp3
+[19/01/11 10:09:15][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1005402/studioclassroom/EnglishDigest/20190110\實用空中美語2019年2月號音檔 >>> 22(1)
+[19/01/11 10:09:15][INFO][ebook.metadata.process.ExcelProcess-303] [1008013]25100009717 - no22.pdf
+[19/01/11 10:09:16][INFO][ebook.metadata.factory.ExcelFactory-1737] kuroshio**culture**/kuroshio/20180110
+[19/01/11 10:09:22][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:09:22][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008013/kuroshio/20180110\no22.pdf >>> false
+[19/01/11 10:09:23][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008013/kuroshio/20180110\null >>> 0(1)
+[19/01/11 10:09:23][INFO][ebook.metadata.process.ExcelProcess-303] [1008336]25100009718 - dreamlife no.20.pdf
+[19/01/11 10:09:24][INFO][ebook.metadata.factory.ExcelFactory-1737] iwindreamlife**dreamebook**/iwindreamlife/20190110
+[19/01/11 10:09:29][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:09:30][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008336/iwindreamlife/20190110\dreamlife no.20.pdf >>> false
+[19/01/11 10:09:30][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008336/iwindreamlife/20190110\null >>> 0(1)
+[19/01/11 10:09:30][INFO][ebook.metadata.process.ExcelProcess-303] [1007363]25100009719 - AuroraPhotoSpecial201808No.002_CoverAmanda.pdf
+[19/01/11 10:09:32][INFO][ebook.metadata.factory.ExcelFactory-1737] iwinchannel**iwinebook**/iwinchannel/20190110
+[19/01/11 10:09:42][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007363/iwinchannel/20190110\AuroraPhotoSpecial201808No.002_CoverAmanda.pdf >>> true
+[19/01/11 10:09:42][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007363/iwinchannel/20190110\null >>> 0(1)
+[19/01/11 10:09:42][INFO][ebook.metadata.process.ExcelProcess-303] [1007363]25100009720 - AuroraPhotoSpecial201808No.003_CoverKasumi.pdf
+[19/01/11 10:09:43][INFO][ebook.metadata.factory.ExcelFactory-1737] iwinchannel**iwinebook**/iwinchannel/20190110
+[19/01/11 10:09:53][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007363/iwinchannel/20190110\AuroraPhotoSpecial201808No.003_CoverKasumi.pdf >>> true
+[19/01/11 10:09:54][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007363/iwinchannel/20190110\null >>> 0(1)
+[19/01/11 10:09:54][INFO][ebook.metadata.process.ExcelProcess-303] [1007363]25100009721 - AuroraPhotoSpecial201808No.004_CoverFei.pdf
+[19/01/11 10:09:55][INFO][ebook.metadata.factory.ExcelFactory-1737] iwinchannel**iwinebook**/iwinchannel/20190110
+[19/01/11 10:10:06][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007363/iwinchannel/20190110\AuroraPhotoSpecial201808No.004_CoverFei.pdf >>> true
+[19/01/11 10:10:07][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007363/iwinchannel/20190110\null >>> 0(1)
+[19/01/11 10:10:07][INFO][ebook.metadata.process.ExcelProcess-303] [1007363]25100009722 - AuroraPhotoSpecial201809No.005_CoverJosephina.pdf
+[19/01/11 10:10:08][INFO][ebook.metadata.factory.ExcelFactory-1737] iwinchannel**iwinebook**/iwinchannel/20190110
+[19/01/11 10:10:18][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007363/iwinchannel/20190110\AuroraPhotoSpecial201809No.005_CoverJosephina.pdf >>> true
+[19/01/11 10:10:19][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007363/iwinchannel/20190110\null >>> 0(1)
+[19/01/11 10:10:19][INFO][ebook.metadata.process.ExcelProcess-303] [1007363]25100009723 - AuroraPhotoSpecial201809No.006_CoverChristy.pdf
+[19/01/11 10:10:19][INFO][ebook.metadata.factory.ExcelFactory-1737] iwinchannel**iwinebook**/iwinchannel/20190110
+[19/01/11 10:10:30][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007363/iwinchannel/20190110\AuroraPhotoSpecial201809No.006_CoverChristy.pdf >>> true
+[19/01/11 10:10:30][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007363/iwinchannel/20190110\null >>> 0(1)
+[19/01/11 10:10:30][INFO][ebook.metadata.process.ExcelProcess-303] [1007363]25100009724 - AuroraPhotoSpecial201810No.007_Cover.pdf
+[19/01/11 10:10:31][INFO][ebook.metadata.factory.ExcelFactory-1737] iwinchannel**iwinebook**/iwinchannel/20190110
+[19/01/11 10:10:43][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007363/iwinchannel/20190110\AuroraPhotoSpecial201810No.007_Cover.pdf >>> true
+[19/01/11 10:10:44][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007363/iwinchannel/20190110\null >>> 0(1)
+[19/01/11 10:10:44][INFO][ebook.metadata.process.ExcelProcess-303] [1007363]25100009725 - AuroraPhotoSpecial201810No.008_Cover.pdf
+[19/01/11 10:10:45][INFO][ebook.metadata.factory.ExcelFactory-1737] iwinchannel**iwinebook**/iwinchannel/20190110
+[19/01/11 10:10:55][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007363/iwinchannel/20190110\AuroraPhotoSpecial201810No.008_Cover.pdf >>> true
+[19/01/11 10:10:55][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007363/iwinchannel/20190110\null >>> 0(1)
+[19/01/11 10:10:55][INFO][ebook.metadata.process.ExcelProcess-303] [1007363]25100009726 - AuroraPhotoSpecial201811No.009_CoverAnn.pdf
+[19/01/11 10:10:56][INFO][ebook.metadata.factory.ExcelFactory-1737] iwinchannel**iwinebook**/iwinchannel/20190110
+[19/01/11 10:11:08][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007363/iwinchannel/20190110\AuroraPhotoSpecial201811No.009_CoverAnn.pdf >>> true
+[19/01/11 10:11:09][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007363/iwinchannel/20190110\null >>> 0(1)
+[19/01/11 10:11:09][INFO][ebook.metadata.process.ExcelProcess-303] [1007363]25100009727 - AuroraPhotoSpecial201811No.010_CoverZoe.pdf
+[19/01/11 10:11:10][INFO][ebook.metadata.factory.ExcelFactory-1737] iwinchannel**iwinebook**/iwinchannel/20190110
+[19/01/11 10:11:19][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007363/iwinchannel/20190110\AuroraPhotoSpecial201811No.010_CoverZoe.pdf >>> true
+[19/01/11 10:11:19][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007363/iwinchannel/20190110\null >>> 0(1)
+[19/01/11 10:11:19][INFO][ebook.metadata.process.ExcelProcess-303] [1007363]25100009728 - AuroraPhotoSpecial201811No.011_CoverEunice.pdf
+[19/01/11 10:11:20][INFO][ebook.metadata.factory.ExcelFactory-1737] iwinchannel**iwinebook**/iwinchannel/20190110
+[19/01/11 10:11:31][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007363/iwinchannel/20190110\AuroraPhotoSpecial201811No.011_CoverEunice.pdf >>> true
+[19/01/11 10:11:31][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007363/iwinchannel/20190110\null >>> 0(1)
+[19/01/11 10:11:31][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[19/01/11 10:21:44][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[19/01/11 10:21:51][INFO][ebook.metadata.process.ExcelProcess-303] [1000697]14100017594 - 
+[19/01/11 10:21:52][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20160810
+[19/01/11 10:21:59][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000697/cite/20160810\ >>> 0(1)
+[19/01/11 10:21:59][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[19/01/11 10:22:00][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/11 10:22:05][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:22:05][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[19/01/11 10:22:06][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/11 10:22:06][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[19/01/11 10:22:07][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/11 10:22:13][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:22:13][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[19/01/11 10:22:14][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/11 10:22:14][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[19/01/11 10:22:15][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[19/01/11 10:22:20][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:22:21][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[19/01/11 10:22:21][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[19/01/11 10:22:21][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[19/01/11 10:22:22][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[19/01/11 10:22:28][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:22:28][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[19/01/11 10:22:30][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[19/01/11 10:22:30][INFO][ebook.metadata.process.ExcelProcess-303] [1008079]25100009665 - SPUR_19_02_dmagazine_150.pdf
+[19/01/11 10:22:31][INFO][ebook.metadata.factory.ExcelFactory-1737] jabook**jabookpopo**/jabook/20190110
+[19/01/11 10:22:36][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:22:37][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008079/jabook/20190110\SPUR_19_02_dmagazine_150.pdf >>> false
+[19/01/11 10:22:37][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008079/jabook/20190110\null >>> 0(1)
+[19/01/11 10:22:37][INFO][ebook.metadata.process.ExcelProcess-303] [1008013]25100009717 - no22.pdf
+[19/01/11 10:22:38][INFO][ebook.metadata.factory.ExcelFactory-1737] kuroshio**culture**/kuroshio/20180110
+[19/01/11 10:23:08][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008013/kuroshio/20180110\no22.pdf >>> true
+[19/01/11 10:23:08][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008013/kuroshio/20180110\null >>> 0(1)
+[19/01/11 10:23:08][INFO][ebook.metadata.process.ExcelProcess-303] [1008336]25100009718 - dreamlifeno20.pdf
+[19/01/11 10:23:10][INFO][ebook.metadata.factory.ExcelFactory-1737] iwindreamlife**dreamebook**/iwindreamlife/20190110
+[19/01/11 10:23:16][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:23:16][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008336/iwindreamlife/20190110\dreamlifeno20.pdf >>> false
+[19/01/11 10:23:17][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008336/iwindreamlife/20190110\null >>> 0(1)
+[19/01/11 10:23:17][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[19/01/11 10:25:56][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[19/01/11 10:26:03][INFO][ebook.metadata.process.ExcelProcess-303] [1000697]14100017594 - 
+[19/01/11 10:26:04][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20160810
+[19/01/11 10:26:10][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000697/cite/20160810\ >>> 0(1)
+[19/01/11 10:26:10][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[19/01/11 10:26:11][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/11 10:26:17][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:26:17][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[19/01/11 10:26:18][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/11 10:26:18][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[19/01/11 10:26:19][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/11 10:26:24][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:26:25][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[19/01/11 10:26:25][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/11 10:26:25][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[19/01/11 10:26:26][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[19/01/11 10:26:36][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:26:37][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[19/01/11 10:26:38][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[19/01/11 10:26:38][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[19/01/11 10:26:38][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[19/01/11 10:26:46][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:26:47][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[19/01/11 10:26:47][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[19/01/11 10:26:47][INFO][ebook.metadata.process.ExcelProcess-303] [1008079]25100009665 - SPUR_19_02_dmagazine_150.pdf
+[19/01/11 10:26:48][INFO][ebook.metadata.factory.ExcelFactory-1737] jabook**jabookpopo**/jabook/20190110
+[19/01/11 10:26:57][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:26:57][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008079/jabook/20190110\SPUR_19_02_dmagazine_150.pdf >>> false
+[19/01/11 10:26:58][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008079/jabook/20190110\null >>> 0(1)
+[19/01/11 10:26:58][INFO][ebook.metadata.process.ExcelProcess-303] [1008336]25100009718 - dreamlifeno20.pdf
+[19/01/11 10:26:59][INFO][ebook.metadata.factory.ExcelFactory-1737] iwindreamlife**dreamebook**/iwindreamlife/20190110
+[19/01/11 10:27:06][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:27:06][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008336/iwindreamlife/20190110\dreamlifeno20.pdf >>> false
+[19/01/11 10:27:07][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008336/iwindreamlife/20190110\null >>> 0(1)
+[19/01/11 10:27:07][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[19/01/11 10:59:02][INFO][ebook.metadata.process.ExcelProcess-291] .....download source files..........start
+[19/01/11 10:59:06][INFO][ebook.metadata.process.ExcelProcess-303] [1000697]14100017594 - 
+[19/01/11 10:59:07][INFO][ebook.metadata.factory.ExcelFactory-1737] cite**citegroupsTZ**/cite/20160810
+[19/01/11 10:59:13][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1000697/cite/20160810\ >>> 0(1)
+[19/01/11 10:59:13][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036831 - BM1799.pdf
+[19/01/11 10:59:14][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/11 10:59:23][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:59:24][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BM1799.pdf >>> false
+[19/01/11 10:59:24][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/11 10:59:24][INFO][ebook.metadata.process.ExcelProcess-303] [1008343]14100036837 - BT0813.pdf
+[19/01/11 10:59:25][INFO][ebook.metadata.factory.ExcelFactory-1737] egmanga**eg86392027**/egmanga/20180920
+[19/01/11 10:59:35][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:59:35][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008343/egmanga/20180920\BT0813.pdf >>> false
+[19/01/11 10:59:36][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008343/egmanga/20180920\null >>> 0(1)
+[19/01/11 10:59:36][INFO][ebook.metadata.process.ExcelProcess-303] [1007501]14100038485 - 給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf
+[19/01/11 10:59:37][INFO][ebook.metadata.factory.ExcelFactory-1737] bookrep**bToAoAkZrEep**/bookrep/20181111
+[19/01/11 10:59:43][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:59:44][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1007501/bookrep/20181111\給中小學生的世界地理【西方家庭必備，英語學習版】-電子書.pdf >>> false
+[19/01/11 10:59:44][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1007501/bookrep/20181111\ >>> 0(1)
+[19/01/11 10:59:44][INFO][ebook.metadata.process.ExcelProcess-303] [1008640]25100009312 - no41_放築塾互動.pdf
+[19/01/11 10:59:45][INFO][ebook.metadata.factory.ExcelFactory-1737] archidio**funarchidio**/archidio/20181102
+[19/01/11 10:59:52][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 10:59:53][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008640/archidio/20181102\no41_放築塾互動.pdf >>> false
+[19/01/11 10:59:53][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008640/archidio/20181102\ >>> 0(1)
+[19/01/11 10:59:53][INFO][ebook.metadata.process.ExcelProcess-303] [1008079]25100009665 - SPUR_19_02_dmagazine_150.pdf
+[19/01/11 10:59:54][INFO][ebook.metadata.factory.ExcelFactory-1737] jabook**jabookpopo**/jabook/20190110
+[19/01/11 11:00:00][INFO][ebook.metadata.factory.ExcelFactory-1775] remoteFile=null or remoteFile Size > 300000000 byte
+[19/01/11 11:00:00][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008079/jabook/20190110\SPUR_19_02_dmagazine_150.pdf >>> false
+[19/01/11 11:00:01][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008079/jabook/20190110\null >>> 0(1)
+[19/01/11 11:00:01][INFO][ebook.metadata.process.ExcelProcess-303] [1008336]25100009718 - dreamlifeno20.pdf
+[19/01/11 11:00:02][INFO][ebook.metadata.factory.ExcelFactory-1737] iwindreamlife**dreamebook**/iwindreamlife/20190110
+[19/01/11 11:00:20][INFO][ebook.metadata.factory.ExcelFactory-1781] [電子書]D:\eBook\before\\1008336/iwindreamlife/20190110\dreamlifeno20.pdf >>> true
+[19/01/11 11:00:20][INFO][ebook.metadata.factory.ExcelFactory-1795] [多媒體]D:\eBook\before\\1008336/iwindreamlife/20190110\null >>> 0(1)
+[19/01/11 11:00:20][INFO][ebook.metadata.process.ExcelProcess-323] .....download source files..........done
+[19/01/11 11:01:31][INFO][ebook.metadata.process.MediaProcess-144] .....process media files by EXCEL.........start
+[19/01/11 11:01:32][INFO][ebook.metadata.process.MediaProcess-248] .....process media files by EXCEL..........done
+[19/01/11 11:02:01][INFO][ebook.metadata.process.MediaProcess-144] .....process media files by EXCEL.........start
+[19/01/11 11:02:02][INFO][ebook.metadata.process.MediaProcess-248] .....process media files by EXCEL..........done
+[19/01/11 11:49:59][INFO][ebook.metadata.process.MediaProcess-144] .....process media files by EXCEL.........start
+[19/01/11 11:50:00][INFO][ebook.metadata.process.MediaProcess-165] [25100009715]373_mapping.xls
+[19/01/11 11:50:02][INFO][ebook.metadata.process.MediaProcess-248] .....process media files by EXCEL..........done
+[19/01/11 11:50:38][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....1.mp3
+[19/01/11 11:50:39][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....10.mp3
+[19/01/11 11:50:40][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....11.mp3
+[19/01/11 11:50:41][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....12.mp3
+[19/01/11 11:50:43][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....13.mp3
+[19/01/11 11:50:44][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....14.mp3
+[19/01/11 11:50:45][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....15.mp3
+[19/01/11 11:50:46][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....16.mp3
+[19/01/11 11:50:48][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....17.mp3
+[19/01/11 11:50:49][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....18.mp3
+[19/01/11 11:50:50][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....19.mp3
+[19/01/11 11:50:51][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....2.mp3
+[19/01/11 11:50:52][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....3.mp3
+[19/01/11 11:50:53][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....34.mp3
+[19/01/11 11:50:54][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.xls.....373_mapping.xls
+[19/01/11 11:50:55][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....4.mp3
+[19/01/11 11:50:57][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....41.mp3
+[19/01/11 11:50:58][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....42.mp3
+[19/01/11 11:50:59][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....5.mp3
+[19/01/11 11:51:01][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....6.mp3
+[19/01/11 11:51:02][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....7.mp3
+[19/01/11 11:51:03][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....8.mp3
+[19/01/11 11:51:04][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.mp3.....9.mp3
+[19/01/11 11:51:08][INFO][ebook.metadata.process.MediaProcess-122] 25100009715--1--1.pdf.....實用空中美語2019年2月號.pdf
+[19/01/11 11:51:08][INFO][ebook.metadata.process.MediaProcess-136] .....process media files by mappingPDFMediaSingle..........true
+[19/01/11 11:51:08][INFO][ebook.metadata.process.MediaProcess-704] .....copy media files to Drive.........start
+[19/01/11 11:51:08][INFO][ebook.metadata.process.MediaProcess-729] .....copy media files to Drive.........done
